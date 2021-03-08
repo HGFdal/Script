@@ -19,10 +19,30 @@ jobs:
           persist-credentials: false
 
       - name: sync Zhiyi-N-script
+                 name: zhiyi-sync
+  schedule:
+    - cron: '1 */3 * * *'
+  workflow_dispatch:
+  watch:
+    types: started
+  repository_dispatch:
+    types: sync-Zhiyi-N-script
+jobs:
+  repo-sync:
+    env:
+      PAT: ${{ secrets.PAT }} 
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: sync Zhiyi-N-script
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
           source_repo: "https://github.com/ZhiYi-N/script"
-          source_branch: "main"
+          source_branch: "master"
           destination_branch: "zhiyi"
           github_token: ${{ secrets.PAT }}
