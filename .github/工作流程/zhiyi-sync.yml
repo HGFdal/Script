@@ -23,6 +23,6 @@ jobs:
         if: env.PAT
         with:
           source_repo: "https://github.com/ZhiYi-N/script"
-          source_branch: "master"
+          source_branch: "main"
           destination_branch: "zhiyi"
           github_token: ${{ secrets.PAT }}
