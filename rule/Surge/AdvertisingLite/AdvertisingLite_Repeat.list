@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-21 01:56:48.454659
+# UPDATED: 2021-03-22 02:02:44.009736
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 200 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -2503,7 +2503,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 16480 条规则重复
+#  与 Advertising 共 16485 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0d847862199.com
 DOMAIN,0icep80f.com
@@ -2670,6 +2670,7 @@ DOMAIN,arkinsoftware.in
 DOMAIN,art-archiv.ru
 DOMAIN,artamkari.com
 DOMAIN,artsconsortium.org
+DOMAIN,asd.zuhaowan8.com
 DOMAIN,asqpniwvxea.com
 DOMAIN,atgsvcs.com
 DOMAIN,atianqi.com
@@ -3026,6 +3027,7 @@ DOMAIN,iamagameaddict.com
 DOMAIN,iclwy.xyz
 DOMAIN,ifilez.org
 DOMAIN,ilividnewtab.com
+DOMAIN,image.ttyouma.cn
 DOMAIN,imagedoll.com
 DOMAIN,images.topguncustomz.com
 DOMAIN,img.ads.csdn.net
@@ -3047,6 +3049,7 @@ DOMAIN,instruminahui.edu.ec
 DOMAIN,intelli-tracker.com
 DOMAIN,interactivearea.ru
 DOMAIN,invention.festinolente.cl
+DOMAIN,inwemo.com
 DOMAIN,iolam.it
 DOMAIN,ip-182-50-129-164.ip.secureserver.net
 DOMAIN,ip-182-50-129-181.ip.secureserver.net
@@ -3125,7 +3128,6 @@ DOMAIN,luckypure.info
 DOMAIN,luckyshine.info
 DOMAIN,luckysuccess.info
 DOMAIN,luckytidy.info
-DOMAIN,lwxlsj.wap.xsbiquge.com
 DOMAIN,lzpgstae.com
 DOMAIN,lzpv4rsmat.com
 DOMAIN,m-vali.cp31.ott.cibntv.net
@@ -3214,6 +3216,7 @@ DOMAIN,nymphdate.com
 DOMAIN,oawoo.frenchgerlemanelectric.com
 DOMAIN,obkom.net.ua
 DOMAIN,ocpersian.com
+DOMAIN,officeon.ch.ma
 DOMAIN,ofzoxqcldl.com
 DOMAIN,oknarai.ru
 DOMAIN,okvfijgdmqton.bid
@@ -3746,7 +3749,9 @@ DOMAIN,xotsa.frenchgerlemanelectric.com
 DOMAIN,xpyyrkwpcpwf.com
 DOMAIN,xs.mochiads.com
 DOMAIN,xxxlnk.com
+DOMAIN,y71.ylems.club
 DOMAIN,y72yuyr9.com
+DOMAIN,y76.ylems.club
 DOMAIN,yeesshh.com
 DOMAIN,ynuf.alipay.com
 DOMAIN,yougube.com

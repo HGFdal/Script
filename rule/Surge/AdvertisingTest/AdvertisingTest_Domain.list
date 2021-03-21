@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-21 01:56:37.486085
+# UPDATED: 2021-03-22 02:02:32.254881
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 59
-# DOMAIN-SUFFIX: 69262
-# DOMAIN: 14382
+# DOMAIN-SUFFIX: 69270
+# DOMAIN: 14365
 # IP-CIDR: 245
 # USER-AGENT: 1
 # IP-CIDR6: 1
 # URL-REGEX: 306
-# TOTAL: 84256
+# TOTAL: 84247
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -1180,7 +1180,6 @@ alexsoff.com
 alexzangeneh.com
 alfa-img.com
 alfa-search.com
-alfaliaval.com
 alfascientificbd.com
 alfateksolutions.com
 algharbeya.com
@@ -1306,7 +1305,6 @@ amazoncards.dlcodes.com
 amazongiftcardgenerator.org
 amazongiftcardgiveaway.com
 amazongiftcardscodes.com
-amazonily.com
 amazontips.net
 amberworldpro.com
 ambulanciaslazaro.com
@@ -1444,6 +1442,7 @@ antarasecuriteprivee.com
 antcompany.com
 anthologiahumana.com
 anthonystrategiesgroup.com
+anti-fraud.website-works.com
 anticlown.com
 anticodistretto.com
 anticosm.com
@@ -2102,7 +2101,6 @@ bengkalisinfo.com
 benignoconstruction.com
 bennettashley.com
 bennisson.com
-benyuanbaina.com
 beprogamer.com
 beremenyashka.com
 berkhangungor.com
@@ -3282,7 +3280,6 @@ codes4psn.com
 codesandgenerators.com
 codesforfree.net
 codeskype.betack.com
-codesplace.com
 codesxblfree.com
 codesxboxlive.com
 codghost.sharezips.net
@@ -3545,7 +3542,6 @@ craftycowburgers.com
 craveandlamb.com
 crazyprotocol.com
 crazyshare.net
-creandolibertad.net
 create.lidstatic.com
 createatraet.com
 creativelifevents.com
@@ -4083,6 +4079,7 @@ dmzgames.com
 dn.adzerver.com
 dna8twue3dlxq.cloudfront.net
 dnwswurowz.byinter.net
+do.time786.com
 docactive.com
 docecreativo.com
 docs1.iwon.com
@@ -4193,7 +4190,6 @@ download207.mediafire.com
 downloadadvisory.com
 downloadally.com
 downloadamigo.com
-downloadcdn.filebulldog.com
 downloadcheatshacktools.com
 downloadconfirm.net
 downloadcypher.com
@@ -4725,7 +4721,6 @@ evergreencorato.com
 everonenergies.com
 every-day.net
 everydaygays.com
-everydresses.com
 everyplay.com
 everythingisstory.com
 everythingisworkable.com
@@ -5389,7 +5384,6 @@ freepaidsoftware.com
 freeplaycard.com
 freeplaygiftcards.com
 freepmoney.com
-freepremiumsoftwares.com
 freepremiumstuff.com
 freeprimefiles.com
 freeprize4u.com
@@ -5920,7 +5914,6 @@ goldyoung.com
 golem-network.com
 gom-player.gooofull.com
 gomezysimone.com
-gomzansi.com
 gondar.meitustat.com
 gonow003.000webhostapp.com
 gonzatocontract.cn
@@ -6460,7 +6453,6 @@ hmeojqyjoascs.com
 hmonghotties.com
 hmrc-form.com
 hnskorea.co.kr
-hntengyi.com
 hoatuoidanghoa.com
 hobbitkomsecrets.com
 hobbyworkshop.com
@@ -6534,7 +6526,6 @@ hoteltechinternational.com
 hotfacesitting.com
 hotmoviebox.com
 hotproductsshop.com
-hotslotpot.cn
 hotspot.cz
 hotspotshield.com
 hotstar.pubnub.net
@@ -6759,6 +6750,7 @@ image.adsbing.com
 image.adv.livedoor.com
 image.beike188.com
 image.click.livedoor.com
+image.ttyouma.cn
 image201844.hostoi.com
 imagecoolpub.com
 imagedoll.com
@@ -6895,7 +6887,6 @@ inf-team-live.epizy.com
 inf.dragon-cityhack.com
 infektsii.com
 infinitcenter.com
-infinite-hacks.com
 infiniti-bd.com
 infinitydownline.com
 info-web.000webhostapp.com
@@ -7197,6 +7188,7 @@ jessaminedance.com
 jesseknowles.com
 jesuskristus.org
 jetemoigne.com
+jethooky.com
 jetplayz.com
 jeunesseglobal.com
 jeux-triche.com
@@ -7345,7 +7337,6 @@ jump1.momode.net
 jump1.pszyzxh.org
 jump2.momode.net
 jump3.momode.net
-jumpatjax.com
 jumpp.shykjj.com
 jumpstartthemovie.com
 jungtaesook.com
@@ -7425,7 +7416,6 @@ katjimej.blog.fc2.com
 katushka.net
 kaukabphysiatry.com
 kavyanepal.com
-kazannakliyat.com
 kazukogstone.com
 kb.youzu.com
 kbmindia.com
@@ -7697,7 +7687,6 @@ laurikorpela.net
 laurinburginstitute.org
 lavender-lounge.com
 lavi-lavi.com
-lavienailscarmel.com
 lavillanails.com
 lavonnewk.000webhostapp.com
 lavylites.com
@@ -7904,7 +7893,6 @@ livingpuravida.org
 livingspaceblr.com
 ljja3ef63g.com
 lladinserts.us.publicus.com
-llyodank.managingbyod.com
 lm.dianshi188.com
 lmfdaoefn.com
 load.s3.amazonaws.com
@@ -7981,6 +7969,7 @@ lonelywifehookup.com
 long2018.000webhostapp.com
 longbeierfs.cn
 longeasy.net
+longixsoft.com
 longtermcareinsure.com
 longtraffic.com
 lookatmynewphotos.com
@@ -8054,7 +8043,6 @@ luxuryupgradepro.com
 lv-home.net
 lwasxldakmhx.com
 lwspa4all.com
-lwxlsj.wap.xsbiquge.com
 lyjcpycaufud.com
 lymphoedematherapy.com
 lync.touchcommerce.com
@@ -8593,7 +8581,6 @@ mnogobab.com
 moapi.wps.cn
 mob.0792gdst.com
 mob10.dxpxw.com
-mob11.youyicl.com
 mob22.lymiao89.com
 mobacoinhack.com
 mobap.njlbms.com
@@ -9312,6 +9299,7 @@ office.magnetic.com
 office2web.com
 officedocuments.net
 officemember.tripod.com
+officeon.ch.ma
 officescripts.com
 officialrdr.com
 oficina10.com
@@ -9564,7 +9552,6 @@ packethosting.net
 packsaddlefellowship.com
 pacman.gkgar.com
 paelladanielcaldeira.com
-pagaldaily.com
 page-2018.000webhostapp.com
 pagead.topobiavi.com
 pager.site50.net
@@ -10355,7 +10342,6 @@ rakhibandhan.com
 ralanacional.com
 rally2go.com
 rallyeair.com
-ralphbell4sc.com
 ralplauran.com
 ramakkos.com
 ramazanaydin.com
@@ -10435,7 +10421,6 @@ realtimeads.com
 reason7crack.com
 rebeccacella.com
 rebelzpk.com
-rebisihut.com
 recessary.com
 reclamus.com
 recommendedlab.com
@@ -10581,7 +10566,6 @@ rewardprogram.allalla.com
 rewardszoneusa.com
 rexportintl.com
 rexussoporte-appleid.com
-reyatel.com
 reycross.cn
 rg3solutions.com
 rgahmllbgubakm.com
@@ -10697,7 +10681,6 @@ royal-skin.net
 royalapparels.com
 royaldutchie.com
 royalfolders.com
-royaltymarketingco.com
 royalwindsorpub.com
 rpc.ant.com
 rpgenerator.net
@@ -11376,6 +11359,7 @@ siteanalytics.compete.com
 sitebeam.net
 sitecdn.tvpage.com
 sitedefesta.com
+siteliz.com
 sitepalace.com
 siteripz.net
 sitestats.com
@@ -11627,7 +11611,6 @@ space2019.top
 spacefiled.com
 spacesarchitects-ka.com
 spain-poetry.com
-spamnuker.com
 spanking-sex.com
 spankmedaddy.blogspot.com
 spanktown.com
@@ -12259,6 +12242,7 @@ tekin-emlak.com
 tekneaydinlatma.com
 teknomasa.com
 telcointoken.com
+telecablesmart.com
 telechargementspremium.com
 telecharger1.com
 telechargerdes.com
@@ -12448,7 +12432,6 @@ thewritersniche.com
 thinair.inq.com
 thingre.com
 think.unbounce.com
-thinkers-inc.com
 thinknear.com
 thinkupfront.com
 thisgreenblog.com
@@ -12812,7 +12795,6 @@ troytempest.com
 trqvelocity.com
 truckersemanifest.com
 truckinghaughton.com
-trucknit.com
 true-hacks.com
 truehack.net
 truehandles.com
@@ -13543,7 +13525,6 @@ webtechmasters.com
 webtrekk.mediaset.net
 webtrends.randallpub.com
 weburlopener.com
-webvedant.com
 webwatcherdata.com
 webxion.com
 wecanprepareyou.com
@@ -14129,8 +14110,10 @@ xyzguyz.com
 xzzxjly.com
 y4681.6128786.com
 y4bxj.adozeuds.com
+y71.ylems.club
 y72yuyr9.com
 y73shop.com
+y76.ylems.club
 yaaraab.000webhostapp.com
 yachtcharterinuae.com
 yahacker.viphacks.net
@@ -22962,6 +22945,7 @@ zzz.clickbank.net
 .aigou023.com
 .aihaoduo.cn
 .aiia.xin
+.aijiamao.top
 .aijiboft.com
 .aijielang.cn
 .aikan6.com
@@ -36412,6 +36396,7 @@ zzz.clickbank.net
 .e701.net
 .e70123.com
 .e7015.com
+.e702fa7de9d35c37.com
 .e703.net
 .e704.net
 .e705.net
@@ -40019,6 +40004,7 @@ zzz.clickbank.net
 .fruitkings.com
 .fruitlauncher.com
 .frustasi.org
+.frustratingtabletaltered.com
 .frustrationstudy.com
 .frutrun.com
 .frvfrv.com
@@ -41126,6 +41112,7 @@ zzz.clickbank.net
 .getpdaiddaily.com
 .getplumberacting.com
 .getpopunder.com
+.getpublica.com
 .getpush.net
 .getpushmonkey.com
 .getrelator.com
@@ -64153,6 +64140,7 @@ zzz.clickbank.net
 .rvlzsbmshtt.com
 .rvnc72k.com
 .rvqfpfgzmw.com
+.rvsosm.cn
 .rvt2687sqo9o.ru
 .rvtqbxawlkbq.com
 .rvttrack.com
@@ -64687,6 +64675,7 @@ zzz.clickbank.net
 .sametrics.finn.no
 .samevay.com.cn
 .samiana.com
+.samplerpouch.com
 .sams.manager-magazin.de
 .sams.nikonimaging.com
 .sams.spiegel.de
@@ -66741,6 +66730,7 @@ zzz.clickbank.net
 .skelaxin.3.p2l.info
 .skelaxin.4.p2l.info
 .skencituer.com
+.sketchinferiorunits.com
 .skexyyqu.com
 .ski1.skiset.com
 .skidl.ru
@@ -79087,6 +79077,7 @@ zzz.clickbank.net
 .woafujoa.com
 .woaifl.com
 .woaizhongguo.cdn111222.com
+.woawouru.net
 .woazowup.net
 .wodemeitu.com
 .wodhid.com

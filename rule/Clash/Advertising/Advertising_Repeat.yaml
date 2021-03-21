@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-21 01:56:53.083837
+# UPDATED: 2021-03-22 02:02:48.938831
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 Hijacking 共 212 条规则重复
@@ -3093,7 +3093,7 @@ payload:
   - DOMAIN-SUFFIX,zsi7.destinia.do
   - DOMAIN-SUFFIX,zyq2.destinia.sk
   - DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 60073 条规则重复
+#  与 AdvertisingTest 共 60056 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -4263,7 +4263,6 @@ payload:
   - DOMAIN,alexzangeneh.com
   - DOMAIN,alfa-img.com
   - DOMAIN,alfa-search.com
-  - DOMAIN,alfaliaval.com
   - DOMAIN,alfascientificbd.com
   - DOMAIN,alfateksolutions.com
   - DOMAIN,algharbeya.com
@@ -4389,7 +4388,6 @@ payload:
   - DOMAIN,amazongiftcardgenerator.org
   - DOMAIN,amazongiftcardgiveaway.com
   - DOMAIN,amazongiftcardscodes.com
-  - DOMAIN,amazonily.com
   - DOMAIN,amazontips.net
   - DOMAIN,amberworldpro.com
   - DOMAIN,ambulanciaslazaro.com
@@ -4527,6 +4525,7 @@ payload:
   - DOMAIN,antcompany.com
   - DOMAIN,anthologiahumana.com
   - DOMAIN,anthonystrategiesgroup.com
+  - DOMAIN,anti-fraud.website-works.com
   - DOMAIN,anticlown.com
   - DOMAIN,anticodistretto.com
   - DOMAIN,anticosm.com
@@ -5185,7 +5184,6 @@ payload:
   - DOMAIN,benignoconstruction.com
   - DOMAIN,bennettashley.com
   - DOMAIN,bennisson.com
-  - DOMAIN,benyuanbaina.com
   - DOMAIN,beprogamer.com
   - DOMAIN,beremenyashka.com
   - DOMAIN,berkhangungor.com
@@ -6365,7 +6363,6 @@ payload:
   - DOMAIN,codesandgenerators.com
   - DOMAIN,codesforfree.net
   - DOMAIN,codeskype.betack.com
-  - DOMAIN,codesplace.com
   - DOMAIN,codesxblfree.com
   - DOMAIN,codesxboxlive.com
   - DOMAIN,codghost.sharezips.net
@@ -6628,7 +6625,6 @@ payload:
   - DOMAIN,craveandlamb.com
   - DOMAIN,crazyprotocol.com
   - DOMAIN,crazyshare.net
-  - DOMAIN,creandolibertad.net
   - DOMAIN,create.lidstatic.com
   - DOMAIN,createatraet.com
   - DOMAIN,creativelifevents.com
@@ -7166,6 +7162,7 @@ payload:
   - DOMAIN,dn.adzerver.com
   - DOMAIN,dna8twue3dlxq.cloudfront.net
   - DOMAIN,dnwswurowz.byinter.net
+  - DOMAIN,do.time786.com
   - DOMAIN,docactive.com
   - DOMAIN,docecreativo.com
   - DOMAIN,docs1.iwon.com
@@ -7276,7 +7273,6 @@ payload:
   - DOMAIN,downloadadvisory.com
   - DOMAIN,downloadally.com
   - DOMAIN,downloadamigo.com
-  - DOMAIN,downloadcdn.filebulldog.com
   - DOMAIN,downloadcheatshacktools.com
   - DOMAIN,downloadconfirm.net
   - DOMAIN,downloadcypher.com
@@ -7808,7 +7804,6 @@ payload:
   - DOMAIN,everonenergies.com
   - DOMAIN,every-day.net
   - DOMAIN,everydaygays.com
-  - DOMAIN,everydresses.com
   - DOMAIN,everyplay.com
   - DOMAIN,everythingisstory.com
   - DOMAIN,everythingisworkable.com
@@ -8472,7 +8467,6 @@ payload:
   - DOMAIN,freeplaycard.com
   - DOMAIN,freeplaygiftcards.com
   - DOMAIN,freepmoney.com
-  - DOMAIN,freepremiumsoftwares.com
   - DOMAIN,freepremiumstuff.com
   - DOMAIN,freeprimefiles.com
   - DOMAIN,freeprize4u.com
@@ -9003,7 +8997,6 @@ payload:
   - DOMAIN,golem-network.com
   - DOMAIN,gom-player.gooofull.com
   - DOMAIN,gomezysimone.com
-  - DOMAIN,gomzansi.com
   - DOMAIN,gondar.meitustat.com
   - DOMAIN,gonow003.000webhostapp.com
   - DOMAIN,gonzatocontract.cn
@@ -9543,7 +9536,6 @@ payload:
   - DOMAIN,hmonghotties.com
   - DOMAIN,hmrc-form.com
   - DOMAIN,hnskorea.co.kr
-  - DOMAIN,hntengyi.com
   - DOMAIN,hoatuoidanghoa.com
   - DOMAIN,hobbitkomsecrets.com
   - DOMAIN,hobbyworkshop.com
@@ -9617,7 +9609,6 @@ payload:
   - DOMAIN,hotfacesitting.com
   - DOMAIN,hotmoviebox.com
   - DOMAIN,hotproductsshop.com
-  - DOMAIN,hotslotpot.cn
   - DOMAIN,hotspot.cz
   - DOMAIN,hotspotshield.com
   - DOMAIN,hotstar.pubnub.net
@@ -9842,6 +9833,7 @@ payload:
   - DOMAIN,image.adv.livedoor.com
   - DOMAIN,image.beike188.com
   - DOMAIN,image.click.livedoor.com
+  - DOMAIN,image.ttyouma.cn
   - DOMAIN,image201844.hostoi.com
   - DOMAIN,imagecoolpub.com
   - DOMAIN,imagedoll.com
@@ -9978,7 +9970,6 @@ payload:
   - DOMAIN,inf.dragon-cityhack.com
   - DOMAIN,infektsii.com
   - DOMAIN,infinitcenter.com
-  - DOMAIN,infinite-hacks.com
   - DOMAIN,infiniti-bd.com
   - DOMAIN,infinitydownline.com
   - DOMAIN,info-web.000webhostapp.com
@@ -10280,6 +10271,7 @@ payload:
   - DOMAIN,jesseknowles.com
   - DOMAIN,jesuskristus.org
   - DOMAIN,jetemoigne.com
+  - DOMAIN,jethooky.com
   - DOMAIN,jetplayz.com
   - DOMAIN,jeunesseglobal.com
   - DOMAIN,jeux-triche.com
@@ -10428,7 +10420,6 @@ payload:
   - DOMAIN,jump1.pszyzxh.org
   - DOMAIN,jump2.momode.net
   - DOMAIN,jump3.momode.net
-  - DOMAIN,jumpatjax.com
   - DOMAIN,jumpp.shykjj.com
   - DOMAIN,jumpstartthemovie.com
   - DOMAIN,jungtaesook.com
@@ -10508,7 +10499,6 @@ payload:
   - DOMAIN,katushka.net
   - DOMAIN,kaukabphysiatry.com
   - DOMAIN,kavyanepal.com
-  - DOMAIN,kazannakliyat.com
   - DOMAIN,kazukogstone.com
   - DOMAIN,kb.youzu.com
   - DOMAIN,kbmindia.com
@@ -10780,7 +10770,6 @@ payload:
   - DOMAIN,laurinburginstitute.org
   - DOMAIN,lavender-lounge.com
   - DOMAIN,lavi-lavi.com
-  - DOMAIN,lavienailscarmel.com
   - DOMAIN,lavillanails.com
   - DOMAIN,lavonnewk.000webhostapp.com
   - DOMAIN,lavylites.com
@@ -10987,7 +10976,6 @@ payload:
   - DOMAIN,livingspaceblr.com
   - DOMAIN,ljja3ef63g.com
   - DOMAIN,lladinserts.us.publicus.com
-  - DOMAIN,llyodank.managingbyod.com
   - DOMAIN,lm.dianshi188.com
   - DOMAIN,lmfdaoefn.com
   - DOMAIN,load.s3.amazonaws.com
@@ -11064,6 +11052,7 @@ payload:
   - DOMAIN,long2018.000webhostapp.com
   - DOMAIN,longbeierfs.cn
   - DOMAIN,longeasy.net
+  - DOMAIN,longixsoft.com
   - DOMAIN,longtermcareinsure.com
   - DOMAIN,longtraffic.com
   - DOMAIN,lookatmynewphotos.com
@@ -11137,7 +11126,6 @@ payload:
   - DOMAIN,lv-home.net
   - DOMAIN,lwasxldakmhx.com
   - DOMAIN,lwspa4all.com
-  - DOMAIN,lwxlsj.wap.xsbiquge.com
   - DOMAIN,lyjcpycaufud.com
   - DOMAIN,lymphoedematherapy.com
   - DOMAIN,lync.touchcommerce.com
@@ -11676,7 +11664,6 @@ payload:
   - DOMAIN,moapi.wps.cn
   - DOMAIN,mob.0792gdst.com
   - DOMAIN,mob10.dxpxw.com
-  - DOMAIN,mob11.youyicl.com
   - DOMAIN,mob22.lymiao89.com
   - DOMAIN,mobacoinhack.com
   - DOMAIN,mobap.njlbms.com
@@ -12395,6 +12382,7 @@ payload:
   - DOMAIN,office2web.com
   - DOMAIN,officedocuments.net
   - DOMAIN,officemember.tripod.com
+  - DOMAIN,officeon.ch.ma
   - DOMAIN,officescripts.com
   - DOMAIN,officialrdr.com
   - DOMAIN,oficina10.com
@@ -12647,7 +12635,6 @@ payload:
   - DOMAIN,packsaddlefellowship.com
   - DOMAIN,pacman.gkgar.com
   - DOMAIN,paelladanielcaldeira.com
-  - DOMAIN,pagaldaily.com
   - DOMAIN,page-2018.000webhostapp.com
   - DOMAIN,pagead.topobiavi.com
   - DOMAIN,pager.site50.net
@@ -13438,7 +13425,6 @@ payload:
   - DOMAIN,ralanacional.com
   - DOMAIN,rally2go.com
   - DOMAIN,rallyeair.com
-  - DOMAIN,ralphbell4sc.com
   - DOMAIN,ralplauran.com
   - DOMAIN,ramakkos.com
   - DOMAIN,ramazanaydin.com
@@ -13518,7 +13504,6 @@ payload:
   - DOMAIN,reason7crack.com
   - DOMAIN,rebeccacella.com
   - DOMAIN,rebelzpk.com
-  - DOMAIN,rebisihut.com
   - DOMAIN,recessary.com
   - DOMAIN,reclamus.com
   - DOMAIN,recommendedlab.com
@@ -13664,7 +13649,6 @@ payload:
   - DOMAIN,rewardszoneusa.com
   - DOMAIN,rexportintl.com
   - DOMAIN,rexussoporte-appleid.com
-  - DOMAIN,reyatel.com
   - DOMAIN,reycross.cn
   - DOMAIN,rg3solutions.com
   - DOMAIN,rgahmllbgubakm.com
@@ -13780,7 +13764,6 @@ payload:
   - DOMAIN,royalapparels.com
   - DOMAIN,royaldutchie.com
   - DOMAIN,royalfolders.com
-  - DOMAIN,royaltymarketingco.com
   - DOMAIN,royalwindsorpub.com
   - DOMAIN,rpc.ant.com
   - DOMAIN,rpgenerator.net
@@ -14459,6 +14442,7 @@ payload:
   - DOMAIN,sitebeam.net
   - DOMAIN,sitecdn.tvpage.com
   - DOMAIN,sitedefesta.com
+  - DOMAIN,siteliz.com
   - DOMAIN,sitepalace.com
   - DOMAIN,siteripz.net
   - DOMAIN,sitestats.com
@@ -14710,7 +14694,6 @@ payload:
   - DOMAIN,spacefiled.com
   - DOMAIN,spacesarchitects-ka.com
   - DOMAIN,spain-poetry.com
-  - DOMAIN,spamnuker.com
   - DOMAIN,spanking-sex.com
   - DOMAIN,spankmedaddy.blogspot.com
   - DOMAIN,spanktown.com
@@ -15342,6 +15325,7 @@ payload:
   - DOMAIN,tekneaydinlatma.com
   - DOMAIN,teknomasa.com
   - DOMAIN,telcointoken.com
+  - DOMAIN,telecablesmart.com
   - DOMAIN,telechargementspremium.com
   - DOMAIN,telecharger1.com
   - DOMAIN,telechargerdes.com
@@ -15531,7 +15515,6 @@ payload:
   - DOMAIN,thinair.inq.com
   - DOMAIN,thingre.com
   - DOMAIN,think.unbounce.com
-  - DOMAIN,thinkers-inc.com
   - DOMAIN,thinknear.com
   - DOMAIN,thinkupfront.com
   - DOMAIN,thisgreenblog.com
@@ -15895,7 +15878,6 @@ payload:
   - DOMAIN,trqvelocity.com
   - DOMAIN,truckersemanifest.com
   - DOMAIN,truckinghaughton.com
-  - DOMAIN,trucknit.com
   - DOMAIN,true-hacks.com
   - DOMAIN,truehack.net
   - DOMAIN,truehandles.com
@@ -16626,7 +16608,6 @@ payload:
   - DOMAIN,webtrekk.mediaset.net
   - DOMAIN,webtrends.randallpub.com
   - DOMAIN,weburlopener.com
-  - DOMAIN,webvedant.com
   - DOMAIN,webwatcherdata.com
   - DOMAIN,webxion.com
   - DOMAIN,wecanprepareyou.com
@@ -17212,8 +17193,10 @@ payload:
   - DOMAIN,xzzxjly.com
   - DOMAIN,y4681.6128786.com
   - DOMAIN,y4bxj.adozeuds.com
+  - DOMAIN,y71.ylems.club
   - DOMAIN,y72yuyr9.com
   - DOMAIN,y73shop.com
+  - DOMAIN,y76.ylems.club
   - DOMAIN,yaaraab.000webhostapp.com
   - DOMAIN,yachtcharterinuae.com
   - DOMAIN,yahacker.viphacks.net
@@ -63191,7 +63174,7 @@ payload:
   - DOMAIN-SUFFIX,uflowx.com
   - DOMAIN-SUFFIX,xiaomengquan.cn
   - DOMAIN-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16180 条规则重复
+#  与 AdvertisingLite 共 16185 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0d847862199.com
   - DOMAIN,0icep80f.com
@@ -63358,6 +63341,7 @@ payload:
   - DOMAIN,art-archiv.ru
   - DOMAIN,artamkari.com
   - DOMAIN,artsconsortium.org
+  - DOMAIN,asd.zuhaowan8.com
   - DOMAIN,asqpniwvxea.com
   - DOMAIN,atgsvcs.com
   - DOMAIN,atianqi.com
@@ -63714,6 +63698,7 @@ payload:
   - DOMAIN,iclwy.xyz
   - DOMAIN,ifilez.org
   - DOMAIN,ilividnewtab.com
+  - DOMAIN,image.ttyouma.cn
   - DOMAIN,imagedoll.com
   - DOMAIN,images.topguncustomz.com
   - DOMAIN,img.ads.csdn.net
@@ -63735,6 +63720,7 @@ payload:
   - DOMAIN,intelli-tracker.com
   - DOMAIN,interactivearea.ru
   - DOMAIN,invention.festinolente.cl
+  - DOMAIN,inwemo.com
   - DOMAIN,iolam.it
   - DOMAIN,ip-182-50-129-164.ip.secureserver.net
   - DOMAIN,ip-182-50-129-181.ip.secureserver.net
@@ -63813,7 +63799,6 @@ payload:
   - DOMAIN,luckyshine.info
   - DOMAIN,luckysuccess.info
   - DOMAIN,luckytidy.info
-  - DOMAIN,lwxlsj.wap.xsbiquge.com
   - DOMAIN,lzpgstae.com
   - DOMAIN,lzpv4rsmat.com
   - DOMAIN,m-vali.cp31.ott.cibntv.net
@@ -63902,6 +63887,7 @@ payload:
   - DOMAIN,oawoo.frenchgerlemanelectric.com
   - DOMAIN,obkom.net.ua
   - DOMAIN,ocpersian.com
+  - DOMAIN,officeon.ch.ma
   - DOMAIN,ofzoxqcldl.com
   - DOMAIN,oknarai.ru
   - DOMAIN,okvfijgdmqton.bid
@@ -64434,7 +64420,9 @@ payload:
   - DOMAIN,xpyyrkwpcpwf.com
   - DOMAIN,xs.mochiads.com
   - DOMAIN,xxxlnk.com
+  - DOMAIN,y71.ylems.club
   - DOMAIN,y72yuyr9.com
+  - DOMAIN,y76.ylems.club
   - DOMAIN,yeesshh.com
   - DOMAIN,ynuf.alipay.com
   - DOMAIN,yougube.com
