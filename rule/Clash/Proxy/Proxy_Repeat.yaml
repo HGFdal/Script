@@ -1,7 +1,7 @@
 # NAME: Proxy 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-22 02:02:49.570257
+# UPDATED: 2021-03-23 01:58:41.605030
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 9to5 共 7 条规则重复
@@ -215,7 +215,7 @@ payload:
   - DOMAIN-SUFFIX,zendesk.com
   - DOMAIN-SUFFIX,zndsk.com
   - DOMAIN-SUFFIX,zopim.com
-#  与 Global 共 28998 条规则重复
+#  与 Global 共 29005 条规则重复
   - DOMAIN,amp.akamaized.net
   - DOMAIN,apple.com.akadns.net
   - DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -250,7 +250,11 @@ payload:
   - DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
   - DOMAIN,tesla-cdn.thron.com
   - DOMAIN,videos-rockstargames-com.akamaized.net
+  - DOMAIN,vod-dash-uk-live.akamaized.net
   - DOMAIN,vod-dash-ww-live.akamaized.net
+  - DOMAIN,vod-hls-uk-live.akamaized.net
+  - DOMAIN,vod-sub-uk-live.akamaized.net
+  - DOMAIN,vod-thumb-uk-live.akamaized.net
   - DOMAIN,vod-thumb-ww-live.akamaized.net
   - DOMAIN,widgets.stripst.com
   - DOMAIN,www-cdn.icloud.com.akadns.net
@@ -21949,6 +21953,8 @@ payload:
   - DOMAIN-SUFFIX,tickmill.com
   - DOMAIN-SUFFIX,ticsur.cl
   - DOMAIN-SUFFIX,tictoc.video
+  - DOMAIN-SUFFIX,tidal.com
+  - DOMAIN-SUFFIX,tidalhifi.com
   - DOMAIN-SUFFIX,tidebit.com
   - DOMAIN-SUFFIX,tidelift.com
   - DOMAIN-SUFFIX,tidex.com
@@ -24224,6 +24230,7 @@ payload:
   - DOMAIN-SUFFIX,willie.idv.tw
   - DOMAIN-SUFFIX,willw.net
   - DOMAIN-SUFFIX,wilmar
+  - DOMAIN-SUFFIX,wimpmusic.com
   - DOMAIN-SUFFIX,win.hicam.net
   - DOMAIN-SUFFIX,win123.ml
   - DOMAIN-SUFFIX,win558.com
@@ -32931,6 +32938,22 @@ payload:
   - DOMAIN-SUFFIX,shopee.tw
   - DOMAIN-SUFFIX,shopeemobile.com
   - DOMAIN-SUFFIX,shp.ee
+#  与 BBC 共 15 条规则重复
+  - DOMAIN,vod-dash-uk-live.akamaized.net
+  - DOMAIN,vod-dash-ww-live.akamaized.net
+  - DOMAIN,vod-hls-uk-live.akamaized.net
+  - DOMAIN,vod-sub-uk-live.akamaized.net
+  - DOMAIN,vod-thumb-uk-live.akamaized.net
+  - DOMAIN,vod-thumb-ww-live.akamaized.net
+  - DOMAIN-KEYWORD,uk-live
+  - DOMAIN-SUFFIX,bbc
+  - DOMAIN-SUFFIX,bbc.co
+  - DOMAIN-SUFFIX,bbc.co.uk
+  - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN-SUFFIX,bbc.in
+  - DOMAIN-SUFFIX,bbcchinese.com
+  - DOMAIN-SUFFIX,bbci.co.uk
+  - DOMAIN-SUFFIX,bbcverticals.com
 #  与 TikTok 共 8 条规则重复
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
   - DOMAIN-KEYWORD,-tiktokcdn-com
@@ -33456,17 +33479,6 @@ payload:
   - DOMAIN-SUFFIX,vpro.net
   - DOMAIN-SUFFIX,xeon.com
   - DOMAIN-SUFFIX,xscale.com
-#  与 BBC 共 10 条规则重复
-  - DOMAIN,vod-dash-ww-live.akamaized.net
-  - DOMAIN,vod-thumb-ww-live.akamaized.net
-  - DOMAIN-KEYWORD,uk-live
-  - DOMAIN-SUFFIX,bbc.co
-  - DOMAIN-SUFFIX,bbc.co.uk
-  - DOMAIN-SUFFIX,bbc.com
-  - DOMAIN-SUFFIX,bbc.in
-  - DOMAIN-SUFFIX,bbcchinese.com
-  - DOMAIN-SUFFIX,bbci.co.uk
-  - DOMAIN-SUFFIX,bbcverticals.com
 #  与 Dailymail 共 8 条规则重复
   - DOMAIN-SUFFIX,dailym.ai
   - DOMAIN-SUFFIX,dailymail.co.uk

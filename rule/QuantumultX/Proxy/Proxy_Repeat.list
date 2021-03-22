@@ -1,7 +1,7 @@
 # NAME: Proxy 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-22 02:02:46.290254
+# UPDATED: 2021-03-23 01:58:38.268244
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 9to5 共 7 条规则重复
 HOST-SUFFIX,9to5google.com
@@ -214,7 +214,7 @@ HOST-SUFFIX,zdusercontent.com
 HOST-SUFFIX,zendesk.com
 HOST-SUFFIX,zndsk.com
 HOST-SUFFIX,zopim.com
-#  与 Global 共 29010 条规则重复
+#  与 Global 共 29017 条规则重复
 HOST,amp.akamaized.net
 HOST,apple.com.akadns.net
 HOST,assets-priconne-redive-us.akamaized.net
@@ -249,7 +249,11 @@ HOST,statics-marketingsites-eus-ms-com.akamaized.net
 HOST,statics-marketingsites-wcus-ms-com.akamaized.net
 HOST,tesla-cdn.thron.com
 HOST,videos-rockstargames-com.akamaized.net
+HOST,vod-dash-uk-live.akamaized.net
 HOST,vod-dash-ww-live.akamaized.net
+HOST,vod-hls-uk-live.akamaized.net
+HOST,vod-sub-uk-live.akamaized.net
+HOST,vod-thumb-uk-live.akamaized.net
 HOST,vod-thumb-ww-live.akamaized.net
 HOST,widgets.stripst.com
 HOST,www-cdn.icloud.com.akadns.net
@@ -21948,6 +21952,8 @@ HOST-SUFFIX,tickling-videos.com
 HOST-SUFFIX,tickmill.com
 HOST-SUFFIX,ticsur.cl
 HOST-SUFFIX,tictoc.video
+HOST-SUFFIX,tidal.com
+HOST-SUFFIX,tidalhifi.com
 HOST-SUFFIX,tidebit.com
 HOST-SUFFIX,tidelift.com
 HOST-SUFFIX,tidex.com
@@ -24223,6 +24229,7 @@ HOST-SUFFIX,williamlong.jaiku.com
 HOST-SUFFIX,willie.idv.tw
 HOST-SUFFIX,willw.net
 HOST-SUFFIX,wilmar
+HOST-SUFFIX,wimpmusic.com
 HOST-SUFFIX,win.hicam.net
 HOST-SUFFIX,win123.ml
 HOST-SUFFIX,win558.com
@@ -32967,6 +32974,22 @@ HOST-SUFFIX,onedrive.com
 HOST-SUFFIX,sharepoint.com
 HOST-SUFFIX,sharepointonline.com
 USER-AGENT,OneDrive*
+#  与 BBC 共 15 条规则重复
+HOST,vod-dash-uk-live.akamaized.net
+HOST,vod-dash-ww-live.akamaized.net
+HOST,vod-hls-uk-live.akamaized.net
+HOST,vod-sub-uk-live.akamaized.net
+HOST,vod-thumb-uk-live.akamaized.net
+HOST,vod-thumb-ww-live.akamaized.net
+HOST-KEYWORD,uk-live
+HOST-SUFFIX,bbc
+HOST-SUFFIX,bbc.co
+HOST-SUFFIX,bbc.co.uk
+HOST-SUFFIX,bbc.com
+HOST-SUFFIX,bbc.in
+HOST-SUFFIX,bbcchinese.com
+HOST-SUFFIX,bbci.co.uk
+HOST-SUFFIX,bbcverticals.com
 #  与 Cloudflare 共 20 条规则重复
 HOST-SUFFIX,cloudflare-dns.com
 HOST-SUFFIX,cloudflare-ipfs.com
@@ -33492,17 +33515,6 @@ HOST-SUFFIX,primevideo.com
 HOST-SUFFIX,primevideo.info
 HOST-SUFFIX,primevideo.org
 HOST-SUFFIX,primevideo.tv
-#  与 BBC 共 10 条规则重复
-HOST,vod-dash-ww-live.akamaized.net
-HOST,vod-thumb-ww-live.akamaized.net
-HOST-KEYWORD,uk-live
-HOST-SUFFIX,bbc.co
-HOST-SUFFIX,bbc.co.uk
-HOST-SUFFIX,bbc.com
-HOST-SUFFIX,bbc.in
-HOST-SUFFIX,bbcchinese.com
-HOST-SUFFIX,bbci.co.uk
-HOST-SUFFIX,bbcverticals.com
 #  与 Naver 共 26 条规则重复
 HOST-SUFFIX,grafolio.com
 HOST-SUFFIX,lin.ee

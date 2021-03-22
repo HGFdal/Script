@@ -1,10 +1,10 @@
 # NAME: Alibaba
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-22 02:02:34.822379
-# HOST-SUFFIX: 1172
+# UPDATED: 2021-03-23 01:58:26.680974
+# HOST-SUFFIX: 1169
 # IP-CIDR: 50
-# TOTAL: 1222
+# TOTAL: 1219
 HOST-SUFFIX,10029.com,Alibaba
 HOST-SUFFIX,1688.com,Alibaba
 HOST-SUFFIX,17lai.org,Alibaba
@@ -61,7 +61,6 @@ HOST-SUFFIX,alicloud.com,Alibaba
 HOST-SUFFIX,alicloudapi-inner.com,Alibaba
 HOST-SUFFIX,alicloudapi.com,Alibaba
 HOST-SUFFIX,alicloudcc.com,Alibaba
-HOST-SUFFIX,alicloudccp.com,Alibaba
 HOST-SUFFIX,alicloudddos.com,Alibaba
 HOST-SUFFIX,alicloudlayer.com,Alibaba
 HOST-SUFFIX,alicloudsec.com,Alibaba
@@ -166,7 +165,6 @@ HOST-SUFFIX,aliyunddos1027.com,Alibaba
 HOST-SUFFIX,aliyunddos1028.com,Alibaba
 HOST-SUFFIX,aliyunddos1029.com,Alibaba
 HOST-SUFFIX,aliyunddos1030.com,Alibaba
-HOST-SUFFIX,aliyundrive.com,Alibaba
 HOST-SUFFIX,aliyunduncc.com,Alibaba
 HOST-SUFFIX,aliyundunddos.com,Alibaba
 HOST-SUFFIX,aliyundunwaf.com,Alibaba
@@ -227,7 +225,6 @@ HOST-SUFFIX,aliyungf.com,Alibaba
 HOST-SUFFIX,aliyungrtn.com,Alibaba
 HOST-SUFFIX,aliyunidaas.com,Alibaba
 HOST-SUFFIX,aliyuniot.com,Alibaba
-HOST-SUFFIX,aliyunpds.com,Alibaba
 HOST-SUFFIX,aliyunrtc.com,Alibaba
 HOST-SUFFIX,aliyunvcs.cn,Alibaba
 HOST-SUFFIX,aliyunvpc.com,Alibaba

@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: 
 # REPO: 
-# UPDATED: 2021-03-22 02:02:42.610855
-# DOMAIN-SUFFIX: 28927
+# UPDATED: 2021-03-23 01:58:34.519094
+# DOMAIN-SUFFIX: 28930
 # USER-AGENT: 12
-# DOMAIN: 39
+# DOMAIN: 43
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 29098
+# TOTAL: 29105
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -43,7 +43,11 @@ statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
 tesla-cdn.thron.com
 videos-rockstargames-com.akamaized.net
+vod-dash-uk-live.akamaized.net
 vod-dash-ww-live.akamaized.net
+vod-hls-uk-live.akamaized.net
+vod-sub-uk-live.akamaized.net
+vod-thumb-uk-live.akamaized.net
 vod-thumb-ww-live.akamaized.net
 voice.telephony.goog
 widgets.stripst.com
@@ -21785,6 +21789,8 @@ www-cdn.icloud.com.akadns.net
 .tickmill.com
 .ticsur.cl
 .tictoc.video
+.tidal.com
+.tidalhifi.com
 .tidebit.com
 .tidelift.com
 .tidex.com
@@ -24063,6 +24069,7 @@ www-cdn.icloud.com.akadns.net
 .willie.idv.tw
 .willw.net
 .wilmar
+.wimpmusic.com
 .win.hicam.net
 .win123.ml
 .win558.com

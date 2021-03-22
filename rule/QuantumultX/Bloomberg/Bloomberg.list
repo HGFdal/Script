@@ -1,7 +1,7 @@
 # NAME: Bloomberg
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-22 02:02:34.986798
+# UPDATED: 2021-03-23 01:58:26.847803
 # HOST-SUFFIX: 22
 # TOTAL: 22
 HOST-SUFFIX,bloomberg.co.kr,Bloomberg

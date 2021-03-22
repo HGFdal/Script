@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-22 02:02:40.413724
-# DOMAIN-SUFFIX: 28916
-# DOMAIN: 39
+# UPDATED: 2021-03-23 01:58:32.304613
+# DOMAIN-SUFFIX: 28918
+# DOMAIN: 43
 # DOMAIN-KEYWORD: 42
 # IP-CIDR: 127
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
-# TOTAL: 29128
+# TOTAL: 29134
 payload:
   - DOMAIN,amp.akamaized.net
   - DOMAIN,apple.com.akadns.net
@@ -45,7 +45,11 @@ payload:
   - DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
   - DOMAIN,tesla-cdn.thron.com
   - DOMAIN,videos-rockstargames-com.akamaized.net
+  - DOMAIN,vod-dash-uk-live.akamaized.net
   - DOMAIN,vod-dash-ww-live.akamaized.net
+  - DOMAIN,vod-hls-uk-live.akamaized.net
+  - DOMAIN,vod-sub-uk-live.akamaized.net
+  - DOMAIN,vod-thumb-uk-live.akamaized.net
   - DOMAIN,vod-thumb-ww-live.akamaized.net
   - DOMAIN,widgets.stripst.com
   - DOMAIN,www-cdn.icloud.com.akadns.net
@@ -21787,6 +21791,7 @@ payload:
   - DOMAIN-SUFFIX,ticsur.cl
   - DOMAIN-SUFFIX,tictoc.video
   - DOMAIN-SUFFIX,tidal.com
+  - DOMAIN-SUFFIX,tidalhifi.com
   - DOMAIN-SUFFIX,tidebit.com
   - DOMAIN-SUFFIX,tidelift.com
   - DOMAIN-SUFFIX,tidex.com
@@ -24064,6 +24069,7 @@ payload:
   - DOMAIN-SUFFIX,willie.idv.tw
   - DOMAIN-SUFFIX,willw.net
   - DOMAIN-SUFFIX,wilmar
+  - DOMAIN-SUFFIX,wimpmusic.com
   - DOMAIN-SUFFIX,win.hicam.net
   - DOMAIN-SUFFIX,win123.ml
   - DOMAIN-SUFFIX,win558.com

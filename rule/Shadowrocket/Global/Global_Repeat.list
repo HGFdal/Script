@@ -1,7 +1,7 @@
 # NAME: Global 规则重复情况
 # AUTHOR: 
 # REPO: 
-# UPDATED: 2021-03-22 02:02:51.242816
+# UPDATED: 2021-03-23 01:58:43.312610
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 9to5 共 7 条规则重复
 DOMAIN-SUFFIX,9to5google.com
@@ -222,7 +222,7 @@ DOMAIN-SUFFIX,zdusercontent.com
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zndsk.com
 DOMAIN-SUFFIX,zopim.com
-#  与 Proxy 共 29010 条规则重复
+#  与 Proxy 共 29017 条规则重复
 DOMAIN,amp.akamaized.net
 DOMAIN,apple.com.akadns.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -257,7 +257,11 @@ DOMAIN,statics-marketingsites-eus-ms-com.akamaized.net
 DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
 DOMAIN,tesla-cdn.thron.com
 DOMAIN,videos-rockstargames-com.akamaized.net
+DOMAIN,vod-dash-uk-live.akamaized.net
 DOMAIN,vod-dash-ww-live.akamaized.net
+DOMAIN,vod-hls-uk-live.akamaized.net
+DOMAIN,vod-sub-uk-live.akamaized.net
+DOMAIN,vod-thumb-uk-live.akamaized.net
 DOMAIN,vod-thumb-ww-live.akamaized.net
 DOMAIN,widgets.stripst.com
 DOMAIN,www-cdn.icloud.com.akadns.net
@@ -21956,6 +21960,8 @@ DOMAIN-SUFFIX,tickling-videos.com
 DOMAIN-SUFFIX,tickmill.com
 DOMAIN-SUFFIX,ticsur.cl
 DOMAIN-SUFFIX,tictoc.video
+DOMAIN-SUFFIX,tidal.com
+DOMAIN-SUFFIX,tidalhifi.com
 DOMAIN-SUFFIX,tidebit.com
 DOMAIN-SUFFIX,tidelift.com
 DOMAIN-SUFFIX,tidex.com
@@ -24231,6 +24237,7 @@ DOMAIN-SUFFIX,williamlong.jaiku.com
 DOMAIN-SUFFIX,willie.idv.tw
 DOMAIN-SUFFIX,willw.net
 DOMAIN-SUFFIX,wilmar
+DOMAIN-SUFFIX,wimpmusic.com
 DOMAIN-SUFFIX,win.hicam.net
 DOMAIN-SUFFIX,win123.ml
 DOMAIN-SUFFIX,win558.com
@@ -33008,6 +33015,24 @@ DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
 DOMAIN-SUFFIX,yammer.com
 USER-AGENT,OneDrive*
+#  与 BBC 共 17 条规则重复
+DOMAIN,vod-dash-uk-live.akamaized.net
+DOMAIN,vod-dash-ww-live.akamaized.net
+DOMAIN,vod-hls-uk-live.akamaized.net
+DOMAIN,vod-sub-uk-live.akamaized.net
+DOMAIN,vod-thumb-uk-live.akamaized.net
+DOMAIN,vod-thumb-ww-live.akamaized.net
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,uk-live
+DOMAIN-SUFFIX,bbc
+DOMAIN-SUFFIX,bbc.co
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.in
+DOMAIN-SUFFIX,bbcchinese.com
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbcverticals.com
+USER-AGENT,BBCiPlayer*
 #  与 Duckduckgo 共 25 条规则重复
 DOMAIN-SUFFIX,cispaletter.com
 DOMAIN-SUFFIX,cispaletter.org
@@ -33044,19 +33069,6 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 USER-AGENT,TikTok*
-#  与 BBC 共 12 条规则重复
-DOMAIN,vod-dash-ww-live.akamaized.net
-DOMAIN,vod-thumb-ww-live.akamaized.net
-DOMAIN-KEYWORD,bbcfmt
-DOMAIN-KEYWORD,uk-live
-DOMAIN-SUFFIX,bbc.co
-DOMAIN-SUFFIX,bbc.co.uk
-DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,bbc.in
-DOMAIN-SUFFIX,bbcchinese.com
-DOMAIN-SUFFIX,bbci.co.uk
-DOMAIN-SUFFIX,bbcverticals.com
-USER-AGENT,BBCiPlayer*
 #  与 Shopee 共 6 条规则重复
 DOMAIN-SUFFIX,shopee.co.id
 DOMAIN-SUFFIX,shopee.com

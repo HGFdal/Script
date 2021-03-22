@@ -1,7 +1,7 @@
 # NAME: ChinaTest 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-22 02:02:49.306127
+# UPDATED: 2021-03-23 01:58:41.340384
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 DanDanZan 共 7 条规则重复
@@ -2362,7 +2362,7 @@ payload:
   - DOMAIN-SUFFIX,wifi.com
   - DOMAIN-SUFFIX,wifi188.com
   - DOMAIN-SUFFIX,wkanx.com
-#  与 Alibaba 共 266 条规则重复
+#  与 Alibaba 共 265 条规则重复
   - DOMAIN-SUFFIX,1688.com
   - DOMAIN-SUFFIX,2-class.com
   - DOMAIN-SUFFIX,25pp.com
@@ -2454,7 +2454,6 @@ payload:
   - DOMAIN-SUFFIX,aliyunddos1026.com
   - DOMAIN-SUFFIX,aliyunddos1028.com
   - DOMAIN-SUFFIX,aliyunddos1029.com
-  - DOMAIN-SUFFIX,aliyundrive.com
   - DOMAIN-SUFFIX,aliyunduncc.com
   - DOMAIN-SUFFIX,aliyundunwaf.com
   - DOMAIN-SUFFIX,aliyunedu.net
