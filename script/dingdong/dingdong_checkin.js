@@ -35,6 +35,10 @@ function CheckIn(cookie, body){
             magicJS.logInfo(`签到成功，连续签到${obj.data.sign_series}，获取积分${obj.data.point}，优惠券${obj.data.ticket_money}!`)
             resolve([obj.data.sign_series, obj.data.point, obj.data.ticket_money]);
           }
+          else if (obj.code === 9007){
+            magicJS.logError(`签到失败，Cookie已过期：${data}`);
+            reject('❌签到失败，Cookie已过期，请重新登录！');
+          }
           else{
             magicJS.logError(`签到失败，响应异常：${data}`);
             reject('❌签到失败，响应异常，请查阅日志！');
@@ -75,7 +79,7 @@ function CheckIn(cookie, body){
       magicJS.notify(`❓没有读取到有效Cookie，请先从App中获取Cookie!!`);
     }
     else{
-      let [checkInErr,[signSeries, point, ticketMoney]] = await magicJS.attempt(magicJS.retry(CheckIn, 3, 2000)(cookie, checkinBody));
+      let [checkInErr,[signSeries, point, ticketMoney]] = await magicJS.attempt(magicJS.retry(CheckIn, 3, 2000)(cookie, checkinBody), [null, null, null]);
       
       if (checkInErr){
         subTitle = checkInErr;

@@ -109,7 +109,7 @@ function CheckIn(cookie, t, queryString, uuid, userId){
       magicJS.notify('❓没有读取到Cookie，请先从App中获取!!');
     }
     else{
-      let [checkInErr, [rewardValue, checkinCard]] = await magicJS.attempt(CheckIn(cookie, t, queryString, uuid, userId));
+      let [checkInErr, [rewardValue, checkinCard]] = await magicJS.attempt(CheckIn(cookie, t, queryString, uuid, userId), [null, null]);
       if (checkInErr){
         subTitle = '❌签到异常，请查阅日志';
       }
