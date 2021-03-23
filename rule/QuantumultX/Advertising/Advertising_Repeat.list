@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-23 01:58:37.642637
+# UPDATED: 2021-03-24 00:33:20.796807
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -3092,7 +3092,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 60137 条规则重复
+#  与 AdvertisingTest 共 60139 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -3183,6 +3183,7 @@ HOST,18pluscard.com
 HOST,18pluspics.com
 HOST,18plusstore.com
 HOST,1a-consultants.com
+HOST,1centptc.com
 HOST,1dollarempire.com
 HOST,1e122c580cf.com
 HOST,1ejaculationinterne.com
@@ -3318,7 +3319,6 @@ HOST,51friend.anytome.com
 HOST,51huamoo.com
 HOST,51huanche.com
 HOST,51xingming.com
-HOST,51youhua.org
 HOST,51zhongguo.com
 HOST,51zjkouqiang.com
 HOST,520ccsex.com
@@ -4913,6 +4913,7 @@ HOST,avidtrak.com
 HOST,avionselect.com
 HOST,avocat-valeriewatrin.com
 HOST,avoidaroid.com
+HOST,avoidfilter.net
 HOST,avon-ukraine.com
 HOST,avpayments.com
 HOST,avppet.com
@@ -4971,7 +4972,6 @@ HOST,backuperwebcam.weebly.com
 HOST,backupthefile.com
 HOST,backvids.com
 HOST,badadownload.com
-HOST,bagusholidays.com
 HOST,bahiaofertas.com
 HOST,baiduyisheng.com
 HOST,baijiahao.ledrgb.cn
@@ -5434,7 +5434,6 @@ HOST,bookbugg.com
 HOST,bookhacks.com
 HOST,bookkeeperbaltimore.com
 HOST,bookmyproject.net
-HOST,bookofkisl.com
 HOST,bookzula.com
 HOST,boom-drop.net
 HOST,boombeachhack.epickeys.com
@@ -5485,6 +5484,7 @@ HOST,bradinfo.org
 HOST,bradmccrady.com
 HOST,brainfox.com
 HOST,brakehawk.com
+HOST,brand4india.com
 HOST,brandedleadgeneration.com
 HOST,brandflexonline.com
 HOST,branding.rs-1117-a.com
@@ -6974,7 +6974,6 @@ HOST,denise.mccdgm.net
 HOST,deniseinspires.com
 HOST,denisen.com.cn
 HOST,denislavoie.com
-HOST,dennispearsondesign.com
 HOST,dennyscorp.com
 HOST,dentairemalin.com
 HOST,dentalcarecenterpv.com
@@ -7011,7 +7010,6 @@ HOST,dev.imp.nextmedia.com
 HOST,dev.interfusedcreative.com
 HOST,dev.parisianist.com
 HOST,dev1.redanchormedia.com
-HOST,devestidosdenovia.com
 HOST,device-messaging-na.amazon.com
 HOST,device.maxmind.com
 HOST,devineindustrial.com
@@ -7046,7 +7044,6 @@ HOST,dieorhack.com
 HOST,dietaday.com
 HOST,diettopseek.cn
 HOST,dieutribenhkhop.com
-HOST,digiaquascr.com
 HOST,diginetica.net
 HOST,digisystemsrl.com
 HOST,digital-control.com.cn
@@ -7574,6 +7571,7 @@ HOST,elieayrouth.com
 HOST,eliehabib.com
 HOST,elisadalbosco.com
 HOST,elisehagedoorn.com
+HOST,elite-cases.com
 HOST,elite-trust.com
 HOST,elitecheats24.com
 HOST,elitedigital2017.com
@@ -8359,6 +8357,7 @@ HOST,free-stats.i8.com
 HOST,free-steam-code.com
 HOST,free-steam-games.com
 HOST,free-steam-games.net
+HOST,free-steamgames.com
 HOST,free-traffic.xyz
 HOST,free-video-tool.com
 HOST,free-website-traffic.com
@@ -9871,6 +9870,7 @@ HOST,img.ads.csdn.net
 HOST,img.alibaba.com
 HOST,img.avatraffic.com
 HOST,img.cm.ksmobile.com
+HOST,img.dajibai.com
 HOST,img.discovery.com
 HOST,img.dt00.net
 HOST,img.mmtcdn.com
@@ -10545,6 +10545,7 @@ HOST,khanshop.com
 HOST,khaolakstationtour.com
 HOST,khatulistiwapress.com
 HOST,khawajasons.com
+HOST,khd-intl.com
 HOST,khmissatv.com
 HOST,khobarinterface.com
 HOST,kickass.best
@@ -11488,7 +11489,6 @@ HOST,messagespaceads.com
 HOST,messagetag.com
 HOST,meta-designs.com
 HOST,metacount.com
-HOST,metalboxer.com
 HOST,metamask.com
 HOST,metanetwork.net
 HOST,metaresolver.com
@@ -11950,6 +11950,7 @@ HOST,myetherwallet.ru.com
 HOST,myetherwallet.uk.com
 HOST,myetherwallet.us.com
 HOST,myetherwallet.xyz
+HOST,myetherwalletl.com
 HOST,myetherwallets.net
 HOST,myetherwallett.com
 HOST,myetherwallett.neocities.org
@@ -12018,6 +12019,7 @@ HOST,n-mobile.net
 HOST,n.betus.com
 HOST,n.bodybuilding.com
 HOST,n.shwclk.com
+HOST,n388hkxg.com
 HOST,n8s.jp
 HOST,na.ads.yahoo.com
 HOST,nadegda-95.ru
@@ -12133,6 +12135,7 @@ HOST,newdirectiondriving.com
 HOST,newdonate.com
 HOST,newengland.sla.org
 HOST,newest-hacks.com
+HOST,newesthack.com
 HOST,newesthacks.com
 HOST,newfastmediasearcher.com
 HOST,newfbapps.com
@@ -13026,7 +13029,6 @@ HOST,popugaychiki.com
 HOST,popunder.com
 HOST,popunder.net
 HOST,popunder.popcde.com
-HOST,porn-review-site.com
 HOST,porn-sex-free.com
 HOST,porn-sluts.com
 HOST,porn-stop.com
@@ -13941,7 +13943,6 @@ HOST,savegrab.com
 HOST,savehack.com
 HOST,savemybox.com
 HOST,savemyfile.net
-HOST,savetubevideo.com
 HOST,saveupto20.com
 HOST,savingforshelter.com
 HOST,savvyads.com
@@ -14360,7 +14361,6 @@ HOST,show.adsbing.com
 HOST,showcore.net
 HOST,showdevelopment.com
 HOST,showmeflix.com
-HOST,showmovie.xyz
 HOST,showsplash.com
 HOST,shreejioverseasindia.com
 HOST,shreerangjewellers.com
@@ -14368,6 +14368,7 @@ HOST,shreesaicare.com
 HOST,shreesattargamjainsamaj.org
 HOST,shrigpmcollegevileparle.org
 HOST,shrinkonce.com
+HOST,shuangyanpijiage.com
 HOST,shuangying163.com
 HOST,shutter.unbounce.com
 HOST,shutterstock.inq.com
@@ -14934,6 +14935,7 @@ HOST,status.unbounce.com
 HOST,staydryboatlauncher.com
 HOST,stc.aeplcdn.com
 HOST,stc.za.zaloapp.com
+HOST,stchartered.com
 HOST,steam-cards.com
 HOST,steam-free-games.com
 HOST,steam-key-giveaway.com
@@ -16386,6 +16388,7 @@ HOST,vitamasaz.pl
 HOST,vivafascino.com
 HOST,vivahacks.com
 HOST,vivaimontina.com
+HOST,vivamob.net
 HOST,vivaweb.org
 HOST,vivemejor.org
 HOST,vk-19.000webhostapp.com
@@ -16405,7 +16408,6 @@ HOST,vns10555.com
 HOST,vns4390.com
 HOST,vns4391.com
 HOST,vns4392.com
-HOST,vns4393.com
 HOST,vns4394.com
 HOST,vns4395.com
 HOST,vns4396.com
@@ -63469,7 +63471,6 @@ HOST,blinko.es
 HOST,blocks.ginotrack.com
 HOST,blogad.com.tw
 HOST,bnsoutlaws.co.uk
-HOST,bookofkisl.com
 HOST,boriouseruwer.info
 HOST,bostonparadise.com
 HOST,bouermes.be
@@ -63933,6 +63934,7 @@ HOST,mysagagame.com
 HOST,myshopmarketim.com
 HOST,mysumo.de
 HOST,mzaugggxs.com
+HOST,n388hkxg.com
 HOST,n8s.jp
 HOST,na.ads.yahoo.com
 HOST,nadegda-95.ru

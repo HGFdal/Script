@@ -1,16 +1,16 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-23 01:58:23.988669
+# UPDATED: 2021-03-24 00:33:08.374986
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 45668
-# DOMAIN: 20680
+# DOMAIN: 20684
 # IP-CIDR: 245
 # USER-AGENT: 1
 # IP-CIDR6: 1
 # URL-REGEX: 306
-# TOTAL: 66960
+# TOTAL: 66964
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -141,6 +141,7 @@
 1a-consultants.com
 1bestgoods.com
 1bfc228b50a902db.com
+1centptc.com
 1dollarempire.com
 1e122c580cf.com
 1ejaculationinterne.com
@@ -319,7 +320,6 @@
 51huamoo.com
 51huanche.com
 51xingming.com
-51youhua.org
 51zhongguo.com
 51zjkouqiang.com
 520ccsex.com
@@ -3461,6 +3461,7 @@ avilagtitkai.com
 avionselect.com
 avocat-valeriewatrin.com
 avoidaroid.com
+avoidfilter.net
 avon-ukraine.com
 avpa.javalobby.org
 avpayments.com
@@ -3552,7 +3553,6 @@ backupthefile.com
 backvids.com
 badadownload.com
 badge.realclever.com
-bagusholidays.com
 bahiaofertas.com
 baiduyisheng.com
 baijiahao.ledrgb.cn
@@ -4182,7 +4182,6 @@ bookbugg.com
 bookhacks.com
 bookkeeperbaltimore.com
 bookmyproject.net
-bookofkisl.com
 bookzula.com
 boom-drop.net
 boombeachhack.epickeys.com
@@ -4246,6 +4245,7 @@ bradmccrady.com
 braincash.com
 brainfox.com
 brakehawk.com
+brand4india.com
 brandarium.net
 brandedleadgeneration.com
 brandflexonline.com
@@ -5559,7 +5559,6 @@ clone147.com
 cloreautomotive.com
 cloud-umeng.com
 cloud.roistat.com
-cloudadservers.com
 cloudcrown.com
 cloudfrontage.com
 cloudgraphite.com
@@ -6546,7 +6545,6 @@ denise.mccdgm.net
 deniseinspires.com
 denisen.com.cn
 denislavoie.com
-dennispearsondesign.com
 dennyscorp.com
 dentairemalin.com
 dentalcarecenterpv.com
@@ -6601,7 +6599,6 @@ dev1.redanchormedia.com
 dev4enki.com
 developer.subiz.com
 developers.cityads.com
-devestidosdenovia.com
 device-messaging-na.amazon.com
 device.maxmind.com
 devineindustrial.com
@@ -6648,7 +6645,6 @@ dietaday.com
 diettopseek.cn
 dieutribenhkhop.com
 digiadzone.com
-digiaquascr.com
 diginetica.net
 digisets.com
 digisystemsrl.com
@@ -7292,6 +7288,7 @@ elieayrouth.com
 eliehabib.com
 elisadalbosco.com
 elisehagedoorn.com
+elite-cases.com
 elite-trust.com
 elitecheats24.com
 elitedigital2017.com
@@ -8249,6 +8246,7 @@ free-stats.i8.com
 free-steam-code.com
 free-steam-games.com
 free-steam-games.net
+free-steamgames.com
 free-traffic.xyz
 free-video-tool.com
 free-website-traffic.com
@@ -10160,6 +10158,7 @@ img.alibaba.com
 img.avatraffic.com
 img.cm.ksmobile.com
 img.connatix.com
+img.dajibai.com
 img.discovery.com
 img.dt00.net
 img.en25.com
@@ -10994,6 +10993,7 @@ khanshop.com
 khaolakstationtour.com
 khatulistiwapress.com
 khawajasons.com
+khd-intl.com
 khmissatv.com
 khobarinterface.com
 kickass.best
@@ -12307,7 +12307,6 @@ meta-designs.com
 meta.osqa.net
 metacount.com
 metaffiliation.com
-metalboxer.com
 metamask.com
 metanetwork.com
 metanetwork.net
@@ -12919,6 +12918,7 @@ myetherwallet.ru.com
 myetherwallet.uk.com
 myetherwallet.us.com
 myetherwallet.xyz
+myetherwalletl.com
 myetherwallets.net
 myetherwallett.com
 myetherwallett.neocities.org
@@ -13015,6 +13015,7 @@ n01d05.cumulus-cloud.com
 n152adserv.com
 n1internet.com
 n339.asp-cc.com
+n388hkxg.com
 n8s.jp
 na.ads.yahoo.com
 nadegda-95.ru
@@ -13173,6 +13174,7 @@ newdonate.com
 neweggstats.com
 newengland.sla.org
 newest-hacks.com
+newesthack.com
 newesthacks.com
 newfastmediasearcher.com
 newfbapps.com
@@ -13485,6 +13487,7 @@ oascentral.law.com
 oascentral.prodivnet.com
 oascentral.rcrnews.com
 oascentral.redherring.com
+oascentral.sfgate.com
 oascentral.stackmag.com
 oascentral.theonion.com
 oascentral.thephoenix.com
@@ -14453,7 +14456,6 @@ popupnation.com
 popups.afftrack001.com
 popups.infostart.com
 popvertising.com
-porn-review-site.com
 porn-sex-free.com
 porn-sluts.com
 porn-stop.com
@@ -15779,7 +15781,6 @@ savehack.com
 savemybox.com
 savemyfile.net
 savethis.clickability.com
-savetubevideo.com
 saveupto20.com
 savingforshelter.com
 savings-time.com
@@ -16337,7 +16338,6 @@ showcore.net
 showcount.honest.com
 showdevelopment.com
 showmeflix.com
-showmovie.xyz
 showsplash.com
 shreejioverseasindia.com
 shreerangjewellers.com
@@ -16346,6 +16346,7 @@ shreesattargamjainsamaj.org
 shrigpmcollegevileparle.org
 shrinkonce.com
 shrinktheweb.com
+shuangyanpijiage.com
 shuangying163.com
 shuffele.com
 shutter.unbounce.com
@@ -17148,6 +17149,7 @@ stc.aeplcdn.com
 stc.gammaplatform.com
 stc.store.page.zaloapp.com
 stc.za.zaloapp.com
+stchartered.com
 steam-cards.com
 steam-free-games.com
 steam-key-giveaway.com
@@ -17638,6 +17640,8 @@ te.astrology.com
 te.chron.com
 te.cleveland.net
 te.greenwichtime.com
+te.sfgate.com
+te.stamfordadvocate.com
 te.thestar.com
 te.versiontracker.com
 teachac.com
@@ -19283,6 +19287,7 @@ vitrine.sup.com
 vivafascino.com
 vivahacks.com
 vivaimontina.com
+vivamob.net
 vivapays.com
 vivaweb.org
 vivemejor.org
@@ -19307,7 +19312,6 @@ vns10555.com
 vns4390.com
 vns4391.com
 vns4392.com
-vns4393.com
 vns4394.com
 vns4395.com
 vns4396.com

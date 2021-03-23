@@ -1,7 +1,7 @@
 # NAME: eBay
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-23 01:58:28.418313
+# UPDATED: 2021-03-24 00:33:12.364436
 # HOST-SUFFIX: 44
 # TOTAL: 44
 HOST-SUFFIX,about.co.kr,eBay

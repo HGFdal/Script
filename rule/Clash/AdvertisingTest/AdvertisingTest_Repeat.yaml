@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-23 01:58:41.020870
+# UPDATED: 2021-03-24 00:33:23.858179
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 Hijacking 共 212 条规则重复
@@ -3023,7 +3023,7 @@ payload:
   - DOMAIN-SUFFIX,zsi7.destinia.do
   - DOMAIN-SUFFIX,zyq2.destinia.sk
   - DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 60136 条规则重复
+#  与 Advertising 共 60138 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -3114,6 +3114,7 @@ payload:
   - DOMAIN,18pluspics.com
   - DOMAIN,18plusstore.com
   - DOMAIN,1a-consultants.com
+  - DOMAIN,1centptc.com
   - DOMAIN,1dollarempire.com
   - DOMAIN,1e122c580cf.com
   - DOMAIN,1ejaculationinterne.com
@@ -3249,7 +3250,6 @@ payload:
   - DOMAIN,51huamoo.com
   - DOMAIN,51huanche.com
   - DOMAIN,51xingming.com
-  - DOMAIN,51youhua.org
   - DOMAIN,51zhongguo.com
   - DOMAIN,51zjkouqiang.com
   - DOMAIN,520ccsex.com
@@ -4844,6 +4844,7 @@ payload:
   - DOMAIN,avionselect.com
   - DOMAIN,avocat-valeriewatrin.com
   - DOMAIN,avoidaroid.com
+  - DOMAIN,avoidfilter.net
   - DOMAIN,avon-ukraine.com
   - DOMAIN,avpayments.com
   - DOMAIN,avppet.com
@@ -4902,7 +4903,6 @@ payload:
   - DOMAIN,backupthefile.com
   - DOMAIN,backvids.com
   - DOMAIN,badadownload.com
-  - DOMAIN,bagusholidays.com
   - DOMAIN,bahiaofertas.com
   - DOMAIN,baiduyisheng.com
   - DOMAIN,baijiahao.ledrgb.cn
@@ -5365,7 +5365,6 @@ payload:
   - DOMAIN,bookhacks.com
   - DOMAIN,bookkeeperbaltimore.com
   - DOMAIN,bookmyproject.net
-  - DOMAIN,bookofkisl.com
   - DOMAIN,bookzula.com
   - DOMAIN,boom-drop.net
   - DOMAIN,boombeachhack.epickeys.com
@@ -5416,6 +5415,7 @@ payload:
   - DOMAIN,bradmccrady.com
   - DOMAIN,brainfox.com
   - DOMAIN,brakehawk.com
+  - DOMAIN,brand4india.com
   - DOMAIN,brandedleadgeneration.com
   - DOMAIN,brandflexonline.com
   - DOMAIN,branding.rs-1117-a.com
@@ -6905,7 +6905,6 @@ payload:
   - DOMAIN,deniseinspires.com
   - DOMAIN,denisen.com.cn
   - DOMAIN,denislavoie.com
-  - DOMAIN,dennispearsondesign.com
   - DOMAIN,dennyscorp.com
   - DOMAIN,dentairemalin.com
   - DOMAIN,dentalcarecenterpv.com
@@ -6942,7 +6941,6 @@ payload:
   - DOMAIN,dev.interfusedcreative.com
   - DOMAIN,dev.parisianist.com
   - DOMAIN,dev1.redanchormedia.com
-  - DOMAIN,devestidosdenovia.com
   - DOMAIN,device-messaging-na.amazon.com
   - DOMAIN,device.maxmind.com
   - DOMAIN,devineindustrial.com
@@ -6977,7 +6975,6 @@ payload:
   - DOMAIN,dietaday.com
   - DOMAIN,diettopseek.cn
   - DOMAIN,dieutribenhkhop.com
-  - DOMAIN,digiaquascr.com
   - DOMAIN,diginetica.net
   - DOMAIN,digisystemsrl.com
   - DOMAIN,digital-control.com.cn
@@ -7505,6 +7502,7 @@ payload:
   - DOMAIN,eliehabib.com
   - DOMAIN,elisadalbosco.com
   - DOMAIN,elisehagedoorn.com
+  - DOMAIN,elite-cases.com
   - DOMAIN,elite-trust.com
   - DOMAIN,elitecheats24.com
   - DOMAIN,elitedigital2017.com
@@ -8290,6 +8288,7 @@ payload:
   - DOMAIN,free-steam-code.com
   - DOMAIN,free-steam-games.com
   - DOMAIN,free-steam-games.net
+  - DOMAIN,free-steamgames.com
   - DOMAIN,free-traffic.xyz
   - DOMAIN,free-video-tool.com
   - DOMAIN,free-website-traffic.com
@@ -9802,6 +9801,7 @@ payload:
   - DOMAIN,img.alibaba.com
   - DOMAIN,img.avatraffic.com
   - DOMAIN,img.cm.ksmobile.com
+  - DOMAIN,img.dajibai.com
   - DOMAIN,img.discovery.com
   - DOMAIN,img.dt00.net
   - DOMAIN,img.mmtcdn.com
@@ -10476,6 +10476,7 @@ payload:
   - DOMAIN,khaolakstationtour.com
   - DOMAIN,khatulistiwapress.com
   - DOMAIN,khawajasons.com
+  - DOMAIN,khd-intl.com
   - DOMAIN,khmissatv.com
   - DOMAIN,khobarinterface.com
   - DOMAIN,kickass.best
@@ -11419,7 +11420,6 @@ payload:
   - DOMAIN,messagetag.com
   - DOMAIN,meta-designs.com
   - DOMAIN,metacount.com
-  - DOMAIN,metalboxer.com
   - DOMAIN,metamask.com
   - DOMAIN,metanetwork.net
   - DOMAIN,metaresolver.com
@@ -11881,6 +11881,7 @@ payload:
   - DOMAIN,myetherwallet.uk.com
   - DOMAIN,myetherwallet.us.com
   - DOMAIN,myetherwallet.xyz
+  - DOMAIN,myetherwalletl.com
   - DOMAIN,myetherwallets.net
   - DOMAIN,myetherwallett.com
   - DOMAIN,myetherwallett.neocities.org
@@ -11949,6 +11950,7 @@ payload:
   - DOMAIN,n.betus.com
   - DOMAIN,n.bodybuilding.com
   - DOMAIN,n.shwclk.com
+  - DOMAIN,n388hkxg.com
   - DOMAIN,n8s.jp
   - DOMAIN,na.ads.yahoo.com
   - DOMAIN,nadegda-95.ru
@@ -12064,6 +12066,7 @@ payload:
   - DOMAIN,newdonate.com
   - DOMAIN,newengland.sla.org
   - DOMAIN,newest-hacks.com
+  - DOMAIN,newesthack.com
   - DOMAIN,newesthacks.com
   - DOMAIN,newfastmediasearcher.com
   - DOMAIN,newfbapps.com
@@ -12957,7 +12960,6 @@ payload:
   - DOMAIN,popunder.com
   - DOMAIN,popunder.net
   - DOMAIN,popunder.popcde.com
-  - DOMAIN,porn-review-site.com
   - DOMAIN,porn-sex-free.com
   - DOMAIN,porn-sluts.com
   - DOMAIN,porn-stop.com
@@ -13872,7 +13874,6 @@ payload:
   - DOMAIN,savehack.com
   - DOMAIN,savemybox.com
   - DOMAIN,savemyfile.net
-  - DOMAIN,savetubevideo.com
   - DOMAIN,saveupto20.com
   - DOMAIN,savingforshelter.com
   - DOMAIN,savvyads.com
@@ -14291,7 +14292,6 @@ payload:
   - DOMAIN,showcore.net
   - DOMAIN,showdevelopment.com
   - DOMAIN,showmeflix.com
-  - DOMAIN,showmovie.xyz
   - DOMAIN,showsplash.com
   - DOMAIN,shreejioverseasindia.com
   - DOMAIN,shreerangjewellers.com
@@ -14299,6 +14299,7 @@ payload:
   - DOMAIN,shreesattargamjainsamaj.org
   - DOMAIN,shrigpmcollegevileparle.org
   - DOMAIN,shrinkonce.com
+  - DOMAIN,shuangyanpijiage.com
   - DOMAIN,shuangying163.com
   - DOMAIN,shutter.unbounce.com
   - DOMAIN,shutterstock.inq.com
@@ -14865,6 +14866,7 @@ payload:
   - DOMAIN,staydryboatlauncher.com
   - DOMAIN,stc.aeplcdn.com
   - DOMAIN,stc.za.zaloapp.com
+  - DOMAIN,stchartered.com
   - DOMAIN,steam-cards.com
   - DOMAIN,steam-free-games.com
   - DOMAIN,steam-key-giveaway.com
@@ -16317,6 +16319,7 @@ payload:
   - DOMAIN,vivafascino.com
   - DOMAIN,vivahacks.com
   - DOMAIN,vivaimontina.com
+  - DOMAIN,vivamob.net
   - DOMAIN,vivaweb.org
   - DOMAIN,vivemejor.org
   - DOMAIN,vk-19.000webhostapp.com
@@ -16336,7 +16339,6 @@ payload:
   - DOMAIN,vns4390.com
   - DOMAIN,vns4391.com
   - DOMAIN,vns4392.com
-  - DOMAIN,vns4393.com
   - DOMAIN,vns4394.com
   - DOMAIN,vns4395.com
   - DOMAIN,vns4396.com
@@ -63331,7 +63333,6 @@ payload:
   - DOMAIN,blocks.ginotrack.com
   - DOMAIN,blogad.com.tw
   - DOMAIN,bnsoutlaws.co.uk
-  - DOMAIN,bookofkisl.com
   - DOMAIN,bostonparadise.com
   - DOMAIN,bracewellfamily.com
   - DOMAIN,bride1.com
@@ -63687,6 +63688,7 @@ payload:
   - DOMAIN,mylabsrl.com
   - DOMAIN,myshopmarketim.com
   - DOMAIN,mzaugggxs.com
+  - DOMAIN,n388hkxg.com
   - DOMAIN,n8s.jp
   - DOMAIN,na.ads.yahoo.com
   - DOMAIN,nadegda-95.ru

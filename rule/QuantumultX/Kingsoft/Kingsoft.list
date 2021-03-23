@@ -1,9 +1,9 @@
 # NAME: Kingsoft
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-23 01:58:27.616555
-# HOST-SUFFIX: 254
-# TOTAL: 254
+# UPDATED: 2021-03-24 00:33:11.648496
+# HOST-SUFFIX: 256
+# TOTAL: 256
 HOST-SUFFIX,35go.cn,Kingsoft
 HOST-SUFFIX,35go.net,Kingsoft
 HOST-SUFFIX,3ny8.com,Kingsoft
@@ -114,6 +114,7 @@ HOST-SUFFIX,kmail.com,Kingsoft
 HOST-SUFFIX,ks-cdn.com,Kingsoft
 HOST-SUFFIX,ks-cdn1.com,Kingsoft
 HOST-SUFFIX,ks-cdnv6.com,Kingsoft
+HOST-SUFFIX,ks-live.com,Kingsoft
 HOST-SUFFIX,ksc-test.com,Kingsoft
 HOST-SUFFIX,kscbigdata.cloud,Kingsoft
 HOST-SUFFIX,kscloudapi.com,Kingsoft
@@ -129,6 +130,7 @@ HOST-SUFFIX,ksycdn.cn,Kingsoft
 HOST-SUFFIX,ksyna.com,Kingsoft
 HOST-SUFFIX,ksyun.com,Kingsoft
 HOST-SUFFIX,ksyun.net,Kingsoft
+HOST-SUFFIX,ksyunacc.cn,Kingsoft
 HOST-SUFFIX,ksyunad.com,Kingsoft
 HOST-SUFFIX,ksyuncdn-k1.com,Kingsoft
 HOST-SUFFIX,ksyuncdn-k2.com,Kingsoft

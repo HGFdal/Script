@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-23 01:58:39.291880
+# UPDATED: 2021-03-24 00:33:22.298028
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 200 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -2718,7 +2718,6 @@ DOMAIN,blinko.es
 DOMAIN,blocks.ginotrack.com
 DOMAIN,blogad.com.tw
 DOMAIN,bnsoutlaws.co.uk
-DOMAIN,bookofkisl.com
 DOMAIN,boriouseruwer.info
 DOMAIN,bostonparadise.com
 DOMAIN,bouermes.be
@@ -3182,6 +3181,7 @@ DOMAIN,mysagagame.com
 DOMAIN,myshopmarketim.com
 DOMAIN,mysumo.de
 DOMAIN,mzaugggxs.com
+DOMAIN,n388hkxg.com
 DOMAIN,n8s.jp
 DOMAIN,na.ads.yahoo.com
 DOMAIN,nadegda-95.ru

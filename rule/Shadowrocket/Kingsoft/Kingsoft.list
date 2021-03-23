@@ -1,9 +1,9 @@
 # NAME: Kingsoft
 # AUTHOR: 
 # REPO: 
-# UPDATED: 2021-03-23 01:58:34
-# DOMAIN-SUFFIX: 254
-# TOTAL: 254
+# UPDATED: 2021-03-24 00:33:18
+# DOMAIN-SUFFIX: 256
+# TOTAL: 256
 DOMAIN-SUFFIX,35go.cn
 DOMAIN-SUFFIX,35go.net
 DOMAIN-SUFFIX,3ny8.com
@@ -114,6 +114,7 @@ DOMAIN-SUFFIX,kmail.com
 DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,ks-cdn1.com
 DOMAIN-SUFFIX,ks-cdnv6.com
+DOMAIN-SUFFIX,ks-live.com
 DOMAIN-SUFFIX,ksc-test.com
 DOMAIN-SUFFIX,kscbigdata.cloud
 DOMAIN-SUFFIX,kscloudapi.com
@@ -129,6 +130,7 @@ DOMAIN-SUFFIX,ksycdn.cn
 DOMAIN-SUFFIX,ksyna.com
 DOMAIN-SUFFIX,ksyun.com
 DOMAIN-SUFFIX,ksyun.net
+DOMAIN-SUFFIX,ksyunacc.cn
 DOMAIN-SUFFIX,ksyunad.com
 DOMAIN-SUFFIX,ksyuncdn-k1.com
 DOMAIN-SUFFIX,ksyuncdn-k2.com

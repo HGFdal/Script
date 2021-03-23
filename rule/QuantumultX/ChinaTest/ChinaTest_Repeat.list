@@ -1,7 +1,7 @@
 # NAME: ChinaTest 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-23 01:58:37.995394
+# UPDATED: 2021-03-24 00:33:21.127092
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 DanDanZan 共 7 条规则重复
 HOST-SUFFIX,343480.com
@@ -24,7 +24,7 @@ HOST-SUFFIX,bitautoimg.com
 HOST-SUFFIX,cheyisou.com
 HOST-SUFFIX,yccdn.com
 HOST-SUFFIX,yiche.com
-#  与 China 共 742 条规则重复
+#  与 China 共 741 条规则重复
 HOST,analytics.strava.com
 HOST,blzddist1-a.akamaihd.net
 HOST,client.amplifi.com
@@ -197,7 +197,6 @@ HOST-SUFFIX,cnbeta.com
 HOST-SUFFIX,cnbetacdn.com
 HOST-SUFFIX,cnlang.org
 HOST-SUFFIX,com-hs-hkdy.com
-HOST-SUFFIX,comicat.org
 HOST-SUFFIX,conoha.jp
 HOST-SUFFIX,coolapk.com
 HOST-SUFFIX,cootekservice.com

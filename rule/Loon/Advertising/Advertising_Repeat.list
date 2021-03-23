@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-23 01:58:39.310836
+# UPDATED: 2021-03-24 00:33:22.316585
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -3092,7 +3092,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 60443 条规则重复
+#  与 AdvertisingTest 共 60445 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -3183,6 +3183,7 @@ DOMAIN,18pluscard.com
 DOMAIN,18pluspics.com
 DOMAIN,18plusstore.com
 DOMAIN,1a-consultants.com
+DOMAIN,1centptc.com
 DOMAIN,1dollarempire.com
 DOMAIN,1e122c580cf.com
 DOMAIN,1ejaculationinterne.com
@@ -3318,7 +3319,6 @@ DOMAIN,51friend.anytome.com
 DOMAIN,51huamoo.com
 DOMAIN,51huanche.com
 DOMAIN,51xingming.com
-DOMAIN,51youhua.org
 DOMAIN,51zhongguo.com
 DOMAIN,51zjkouqiang.com
 DOMAIN,520ccsex.com
@@ -4913,6 +4913,7 @@ DOMAIN,avidtrak.com
 DOMAIN,avionselect.com
 DOMAIN,avocat-valeriewatrin.com
 DOMAIN,avoidaroid.com
+DOMAIN,avoidfilter.net
 DOMAIN,avon-ukraine.com
 DOMAIN,avpayments.com
 DOMAIN,avppet.com
@@ -4971,7 +4972,6 @@ DOMAIN,backuperwebcam.weebly.com
 DOMAIN,backupthefile.com
 DOMAIN,backvids.com
 DOMAIN,badadownload.com
-DOMAIN,bagusholidays.com
 DOMAIN,bahiaofertas.com
 DOMAIN,baiduyisheng.com
 DOMAIN,baijiahao.ledrgb.cn
@@ -5434,7 +5434,6 @@ DOMAIN,bookbugg.com
 DOMAIN,bookhacks.com
 DOMAIN,bookkeeperbaltimore.com
 DOMAIN,bookmyproject.net
-DOMAIN,bookofkisl.com
 DOMAIN,bookzula.com
 DOMAIN,boom-drop.net
 DOMAIN,boombeachhack.epickeys.com
@@ -5485,6 +5484,7 @@ DOMAIN,bradinfo.org
 DOMAIN,bradmccrady.com
 DOMAIN,brainfox.com
 DOMAIN,brakehawk.com
+DOMAIN,brand4india.com
 DOMAIN,brandedleadgeneration.com
 DOMAIN,brandflexonline.com
 DOMAIN,branding.rs-1117-a.com
@@ -6974,7 +6974,6 @@ DOMAIN,denise.mccdgm.net
 DOMAIN,deniseinspires.com
 DOMAIN,denisen.com.cn
 DOMAIN,denislavoie.com
-DOMAIN,dennispearsondesign.com
 DOMAIN,dennyscorp.com
 DOMAIN,dentairemalin.com
 DOMAIN,dentalcarecenterpv.com
@@ -7011,7 +7010,6 @@ DOMAIN,dev.imp.nextmedia.com
 DOMAIN,dev.interfusedcreative.com
 DOMAIN,dev.parisianist.com
 DOMAIN,dev1.redanchormedia.com
-DOMAIN,devestidosdenovia.com
 DOMAIN,device-messaging-na.amazon.com
 DOMAIN,device.maxmind.com
 DOMAIN,devineindustrial.com
@@ -7046,7 +7044,6 @@ DOMAIN,dieorhack.com
 DOMAIN,dietaday.com
 DOMAIN,diettopseek.cn
 DOMAIN,dieutribenhkhop.com
-DOMAIN,digiaquascr.com
 DOMAIN,diginetica.net
 DOMAIN,digisystemsrl.com
 DOMAIN,digital-control.com.cn
@@ -7574,6 +7571,7 @@ DOMAIN,elieayrouth.com
 DOMAIN,eliehabib.com
 DOMAIN,elisadalbosco.com
 DOMAIN,elisehagedoorn.com
+DOMAIN,elite-cases.com
 DOMAIN,elite-trust.com
 DOMAIN,elitecheats24.com
 DOMAIN,elitedigital2017.com
@@ -8359,6 +8357,7 @@ DOMAIN,free-stats.i8.com
 DOMAIN,free-steam-code.com
 DOMAIN,free-steam-games.com
 DOMAIN,free-steam-games.net
+DOMAIN,free-steamgames.com
 DOMAIN,free-traffic.xyz
 DOMAIN,free-video-tool.com
 DOMAIN,free-website-traffic.com
@@ -9871,6 +9870,7 @@ DOMAIN,img.ads.csdn.net
 DOMAIN,img.alibaba.com
 DOMAIN,img.avatraffic.com
 DOMAIN,img.cm.ksmobile.com
+DOMAIN,img.dajibai.com
 DOMAIN,img.discovery.com
 DOMAIN,img.dt00.net
 DOMAIN,img.mmtcdn.com
@@ -10545,6 +10545,7 @@ DOMAIN,khanshop.com
 DOMAIN,khaolakstationtour.com
 DOMAIN,khatulistiwapress.com
 DOMAIN,khawajasons.com
+DOMAIN,khd-intl.com
 DOMAIN,khmissatv.com
 DOMAIN,khobarinterface.com
 DOMAIN,kickass.best
@@ -11488,7 +11489,6 @@ DOMAIN,messagespaceads.com
 DOMAIN,messagetag.com
 DOMAIN,meta-designs.com
 DOMAIN,metacount.com
-DOMAIN,metalboxer.com
 DOMAIN,metamask.com
 DOMAIN,metanetwork.net
 DOMAIN,metaresolver.com
@@ -11950,6 +11950,7 @@ DOMAIN,myetherwallet.ru.com
 DOMAIN,myetherwallet.uk.com
 DOMAIN,myetherwallet.us.com
 DOMAIN,myetherwallet.xyz
+DOMAIN,myetherwalletl.com
 DOMAIN,myetherwallets.net
 DOMAIN,myetherwallett.com
 DOMAIN,myetherwallett.neocities.org
@@ -12018,6 +12019,7 @@ DOMAIN,n-mobile.net
 DOMAIN,n.betus.com
 DOMAIN,n.bodybuilding.com
 DOMAIN,n.shwclk.com
+DOMAIN,n388hkxg.com
 DOMAIN,n8s.jp
 DOMAIN,na.ads.yahoo.com
 DOMAIN,nadegda-95.ru
@@ -12133,6 +12135,7 @@ DOMAIN,newdirectiondriving.com
 DOMAIN,newdonate.com
 DOMAIN,newengland.sla.org
 DOMAIN,newest-hacks.com
+DOMAIN,newesthack.com
 DOMAIN,newesthacks.com
 DOMAIN,newfastmediasearcher.com
 DOMAIN,newfbapps.com
@@ -13026,7 +13029,6 @@ DOMAIN,popugaychiki.com
 DOMAIN,popunder.com
 DOMAIN,popunder.net
 DOMAIN,popunder.popcde.com
-DOMAIN,porn-review-site.com
 DOMAIN,porn-sex-free.com
 DOMAIN,porn-sluts.com
 DOMAIN,porn-stop.com
@@ -13941,7 +13943,6 @@ DOMAIN,savegrab.com
 DOMAIN,savehack.com
 DOMAIN,savemybox.com
 DOMAIN,savemyfile.net
-DOMAIN,savetubevideo.com
 DOMAIN,saveupto20.com
 DOMAIN,savingforshelter.com
 DOMAIN,savvyads.com
@@ -14360,7 +14361,6 @@ DOMAIN,show.adsbing.com
 DOMAIN,showcore.net
 DOMAIN,showdevelopment.com
 DOMAIN,showmeflix.com
-DOMAIN,showmovie.xyz
 DOMAIN,showsplash.com
 DOMAIN,shreejioverseasindia.com
 DOMAIN,shreerangjewellers.com
@@ -14368,6 +14368,7 @@ DOMAIN,shreesaicare.com
 DOMAIN,shreesattargamjainsamaj.org
 DOMAIN,shrigpmcollegevileparle.org
 DOMAIN,shrinkonce.com
+DOMAIN,shuangyanpijiage.com
 DOMAIN,shuangying163.com
 DOMAIN,shutter.unbounce.com
 DOMAIN,shutterstock.inq.com
@@ -14934,6 +14935,7 @@ DOMAIN,status.unbounce.com
 DOMAIN,staydryboatlauncher.com
 DOMAIN,stc.aeplcdn.com
 DOMAIN,stc.za.zaloapp.com
+DOMAIN,stchartered.com
 DOMAIN,steam-cards.com
 DOMAIN,steam-free-games.com
 DOMAIN,steam-key-giveaway.com
@@ -16386,6 +16388,7 @@ DOMAIN,vitamasaz.pl
 DOMAIN,vivafascino.com
 DOMAIN,vivahacks.com
 DOMAIN,vivaimontina.com
+DOMAIN,vivamob.net
 DOMAIN,vivaweb.org
 DOMAIN,vivemejor.org
 DOMAIN,vk-19.000webhostapp.com
@@ -16405,7 +16408,6 @@ DOMAIN,vns10555.com
 DOMAIN,vns4390.com
 DOMAIN,vns4391.com
 DOMAIN,vns4392.com
-DOMAIN,vns4393.com
 DOMAIN,vns4394.com
 DOMAIN,vns4395.com
 DOMAIN,vns4396.com
@@ -63775,7 +63777,6 @@ DOMAIN,blinko.es
 DOMAIN,blocks.ginotrack.com
 DOMAIN,blogad.com.tw
 DOMAIN,bnsoutlaws.co.uk
-DOMAIN,bookofkisl.com
 DOMAIN,boriouseruwer.info
 DOMAIN,bostonparadise.com
 DOMAIN,bouermes.be
@@ -64239,6 +64240,7 @@ DOMAIN,mysagagame.com
 DOMAIN,myshopmarketim.com
 DOMAIN,mysumo.de
 DOMAIN,mzaugggxs.com
+DOMAIN,n388hkxg.com
 DOMAIN,n8s.jp
 DOMAIN,na.ads.yahoo.com
 DOMAIN,nadegda-95.ru
