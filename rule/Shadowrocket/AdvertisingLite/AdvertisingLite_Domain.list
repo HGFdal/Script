@@ -1,16 +1,16 @@
 # NAME: AdvertisingLite
 # AUTHOR: 
 # REPO: 
-# UPDATED: 2021-03-24 00:33:16.999531
+# UPDATED: 2021-03-24 01:46:48.649309
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15327
-# DOMAIN: 15129
+# DOMAIN: 15131
 # IP-CIDR: 192
 # USER-AGENT: 1
 # IP-CIDR6: 1
 # URL-REGEX: 299
-# TOTAL: 30978
+# TOTAL: 30980
 0.up.qingdaonews.com
 00-gov.cn
 006a039c957c142bb.com
@@ -9643,6 +9643,7 @@ ospserver.net
 osvryhznx.com
 otaijing.com
 otaserve.net
+other.v.duowan.com
 othernedm.info
 otherprofit.com
 othersonline.com
@@ -13844,6 +13845,7 @@ viewscout.com
 vignmvwjlyc.com
 vihtori-analytics.fi
 vihub.ru
+vikg.mpp9h.cn
 villalecchi.com
 vilynx.com
 vindicosuite.com

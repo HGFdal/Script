@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 00:33:20.796807
+# UPDATED: 2021-03-24 01:46:52.814788
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -3092,7 +3092,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 60139 条规则重复
+#  与 AdvertisingTest 共 60142 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -3677,6 +3677,7 @@ HOST,adcentre.it-advanced.com
 HOST,adclick.eqmob.com
 HOST,adclick.lv
 HOST,adclickthru.net
+HOST,adclient.163.com
 HOST,adcoin.click
 HOST,adcpl-india.com
 HOST,addictingcheats.com
@@ -6974,6 +6975,7 @@ HOST,denise.mccdgm.net
 HOST,deniseinspires.com
 HOST,denisen.com.cn
 HOST,denislavoie.com
+HOST,dennispearsondesign.com
 HOST,dennyscorp.com
 HOST,dentairemalin.com
 HOST,dentalcarecenterpv.com
@@ -15426,6 +15428,7 @@ HOST,thearcticoiler.com
 HOST,theartofbeingollie.com
 HOST,theater21.com
 HOST,theazforum.com
+HOST,thebernoullieffect.com
 HOST,thebestdallasbusinesses.org
 HOST,thebestpsncodegenerator.com
 HOST,thebluesman.net

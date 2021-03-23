@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 00:33:23.813236
+# UPDATED: 2021-03-24 01:46:56.072859
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 Hijacking 共 212 条规则重复
@@ -3093,7 +3093,7 @@ payload:
   - DOMAIN-SUFFIX,zsi7.destinia.do
   - DOMAIN-SUFFIX,zyq2.destinia.sk
   - DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 60138 条规则重复
+#  与 AdvertisingTest 共 60141 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -3678,6 +3678,7 @@ payload:
   - DOMAIN,adclick.eqmob.com
   - DOMAIN,adclick.lv
   - DOMAIN,adclickthru.net
+  - DOMAIN,adclient.163.com
   - DOMAIN,adcoin.click
   - DOMAIN,adcpl-india.com
   - DOMAIN,addictingcheats.com
@@ -6975,6 +6976,7 @@ payload:
   - DOMAIN,deniseinspires.com
   - DOMAIN,denisen.com.cn
   - DOMAIN,denislavoie.com
+  - DOMAIN,dennispearsondesign.com
   - DOMAIN,dennyscorp.com
   - DOMAIN,dentairemalin.com
   - DOMAIN,dentalcarecenterpv.com
@@ -15427,6 +15429,7 @@ payload:
   - DOMAIN,theartofbeingollie.com
   - DOMAIN,theater21.com
   - DOMAIN,theazforum.com
+  - DOMAIN,thebernoullieffect.com
   - DOMAIN,thebestdallasbusinesses.org
   - DOMAIN,thebestpsncodegenerator.com
   - DOMAIN,thebluesman.net

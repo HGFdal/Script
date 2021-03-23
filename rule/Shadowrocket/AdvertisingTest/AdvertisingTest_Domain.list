@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: 
 # REPO: 
-# UPDATED: 2021-03-24 00:33:17.142495
+# UPDATED: 2021-03-24 01:46:48.808525
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 69261
-# DOMAIN: 14366
+# DOMAIN: 14369
 # IP-CIDR: 245
 # USER-AGENT: 1
 # IP-CIDR6: 1
 # URL-REGEX: 306
-# TOTAL: 84239
+# TOTAL: 84242
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -595,6 +595,7 @@ adcentre.it-advanced.com
 adclick.eqmob.com
 adclick.lv
 adclickthru.net
+adclient.163.com
 adcoin.click
 adcpl-india.com
 addictingcheats.com
@@ -3892,6 +3893,7 @@ denise.mccdgm.net
 deniseinspires.com
 denisen.com.cn
 denislavoie.com
+dennispearsondesign.com
 dennyscorp.com
 dentairemalin.com
 dentalcarecenterpv.com
@@ -12344,6 +12346,7 @@ thearcticoiler.com
 theartofbeingollie.com
 theater21.com
 theazforum.com
+thebernoullieffect.com
 thebestdallasbusinesses.org
 thebestpsncodegenerator.com
 thebluesman.net

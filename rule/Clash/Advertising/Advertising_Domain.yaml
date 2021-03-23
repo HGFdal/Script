@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 00:33:14.889627
+# UPDATED: 2021-03-24 01:46:46.390208
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 45668
-# DOMAIN: 20684
+# DOMAIN: 20687
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 66657
+# TOTAL: 66660
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -1145,6 +1145,7 @@ payload:
   - 'adclick.lv'
   - 'adclickthru.net'
   - 'adclickxpress.com'
+  - 'adclient.163.com'
   - 'adclient1.tucows.com'
   - 'adcode.rontar.com'
   - 'adcoin.click'
@@ -6543,6 +6544,7 @@ payload:
   - 'deniseinspires.com'
   - 'denisen.com.cn'
   - 'denislavoie.com'
+  - 'dennispearsondesign.com'
   - 'dennyscorp.com'
   - 'dentairemalin.com'
   - 'dentalcarecenterpv.com'
@@ -17814,6 +17816,7 @@ payload:
   - 'theartofbeingollie.com'
   - 'theater21.com'
   - 'theazforum.com'
+  - 'thebernoullieffect.com'
   - 'thebestdallasbusinesses.org'
   - 'thebestpsncodegenerator.com'
   - 'thebluesman.net'

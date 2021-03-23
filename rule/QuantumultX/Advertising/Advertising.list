@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 00:33:10.680103
+# UPDATED: 2021-03-24 01:46:41.807636
 # HOST-KEYWORD: 59
 # HOST-SUFFIX: 45668
-# HOST: 20684
+# HOST: 20687
 # IP-CIDR: 245
 # USER-AGENT: 1
 # IP6-CIDR: 1
-# TOTAL: 66658
+# TOTAL: 66661
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -1145,6 +1145,7 @@ HOST,adclick.eqmob.com,Advertising
 HOST,adclick.lv,Advertising
 HOST,adclickthru.net,Advertising
 HOST,adclickxpress.com,Advertising
+HOST,adclient.163.com,Advertising
 HOST,adclient1.tucows.com,Advertising
 HOST,adcode.rontar.com,Advertising
 HOST,adcoin.click,Advertising
@@ -6543,6 +6544,7 @@ HOST,denise.mccdgm.net,Advertising
 HOST,deniseinspires.com,Advertising
 HOST,denisen.com.cn,Advertising
 HOST,denislavoie.com,Advertising
+HOST,dennispearsondesign.com,Advertising
 HOST,dennyscorp.com,Advertising
 HOST,dentairemalin.com,Advertising
 HOST,dentalcarecenterpv.com,Advertising
@@ -17814,6 +17816,7 @@ HOST,thearcticoiler.com,Advertising
 HOST,theartofbeingollie.com,Advertising
 HOST,theater21.com,Advertising
 HOST,theazforum.com,Advertising
+HOST,thebernoullieffect.com,Advertising
 HOST,thebestdallasbusinesses.org,Advertising
 HOST,thebestpsncodegenerator.com,Advertising
 HOST,thebluesman.net,Advertising

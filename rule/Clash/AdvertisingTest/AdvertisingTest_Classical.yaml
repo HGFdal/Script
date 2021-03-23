@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 00:33:15.134294
+# UPDATED: 2021-03-24 01:46:46.659919
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 69261
-# DOMAIN: 14366
+# DOMAIN: 14369
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 83932
+# TOTAL: 83935
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -593,6 +593,7 @@ payload:
   - DOMAIN,adclick.eqmob.com
   - DOMAIN,adclick.lv
   - DOMAIN,adclickthru.net
+  - DOMAIN,adclient.163.com
   - DOMAIN,adcoin.click
   - DOMAIN,adcpl-india.com
   - DOMAIN,addictingcheats.com
@@ -3890,6 +3891,7 @@ payload:
   - DOMAIN,deniseinspires.com
   - DOMAIN,denisen.com.cn
   - DOMAIN,denislavoie.com
+  - DOMAIN,dennispearsondesign.com
   - DOMAIN,dennyscorp.com
   - DOMAIN,dentairemalin.com
   - DOMAIN,dentalcarecenterpv.com
@@ -12342,6 +12344,7 @@ payload:
   - DOMAIN,theartofbeingollie.com
   - DOMAIN,theater21.com
   - DOMAIN,theazforum.com
+  - DOMAIN,thebernoullieffect.com
   - DOMAIN,thebestdallasbusinesses.org
   - DOMAIN,thebestpsncodegenerator.com
   - DOMAIN,thebluesman.net

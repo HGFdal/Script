@@ -1,7 +1,7 @@
 # NAME: Vercel
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 00:33:12.170080
+# UPDATED: 2021-03-24 01:46:43.413347
 # HOST-SUFFIX: 15
 # TOTAL: 15
 HOST-SUFFIX,nextjs.org,Vercel

@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 00:33:10.760609
+# UPDATED: 2021-03-24 01:46:41.898257
 # HOST-KEYWORD: 59
 # HOST-SUFFIX: 69261
-# HOST: 14366
+# HOST: 14369
 # IP-CIDR: 245
 # USER-AGENT: 1
 # IP6-CIDR: 1
-# TOTAL: 83933
+# TOTAL: 83936
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -593,6 +593,7 @@ HOST,adcentre.it-advanced.com,AdvertisingTest
 HOST,adclick.eqmob.com,AdvertisingTest
 HOST,adclick.lv,AdvertisingTest
 HOST,adclickthru.net,AdvertisingTest
+HOST,adclient.163.com,AdvertisingTest
 HOST,adcoin.click,AdvertisingTest
 HOST,adcpl-india.com,AdvertisingTest
 HOST,addictingcheats.com,AdvertisingTest
@@ -3890,6 +3891,7 @@ HOST,denise.mccdgm.net,AdvertisingTest
 HOST,deniseinspires.com,AdvertisingTest
 HOST,denisen.com.cn,AdvertisingTest
 HOST,denislavoie.com,AdvertisingTest
+HOST,dennispearsondesign.com,AdvertisingTest
 HOST,dennyscorp.com,AdvertisingTest
 HOST,dentairemalin.com,AdvertisingTest
 HOST,dentalcarecenterpv.com,AdvertisingTest
@@ -12342,6 +12344,7 @@ HOST,thearcticoiler.com,AdvertisingTest
 HOST,theartofbeingollie.com,AdvertisingTest
 HOST,theater21.com,AdvertisingTest
 HOST,theazforum.com,AdvertisingTest
+HOST,thebernoullieffect.com,AdvertisingTest
 HOST,thebestdallasbusinesses.org,AdvertisingTest
 HOST,thebestpsncodegenerator.com,AdvertisingTest
 HOST,thebluesman.net,AdvertisingTest

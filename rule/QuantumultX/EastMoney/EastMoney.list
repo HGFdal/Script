@@ -1,7 +1,7 @@
 # NAME: EastMoney
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 00:33:11.278007
+# UPDATED: 2021-03-24 01:46:42.463420
 # HOST-SUFFIX: 33
 # TOTAL: 33
 HOST-SUFFIX,1234567.com.cn,EastMoney

@@ -1,7 +1,7 @@
 # NAME: Wikipedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 00:33:12.243845
+# UPDATED: 2021-03-24 01:46:43.491486
 # HOST-SUFFIX: 12
 # TOTAL: 12
 HOST-SUFFIX,mediawiki.org,Wikipedia
