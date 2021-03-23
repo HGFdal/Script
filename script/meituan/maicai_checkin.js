@@ -6,7 +6,7 @@ const mallQueryStringKey = 'meituan_mall_querystring';
 const mallUUIDKey = 'meituan_mall_uuid';
 const mallUserIdKey = 'meituan_mall_userid';
 const mallBodyKey = 'meituan_mall_body';
-let magicJS = MagicJS(scriptName, "DEBUG");
+let magicJS = MagicJS(scriptName, "INFO");
 magicJS.unifiedPushUrl = magicJS.read('meituan_mall_unified_push_url') || magicJS.read('meituan_mall_unified_push_url');
 
 // 每日签到
