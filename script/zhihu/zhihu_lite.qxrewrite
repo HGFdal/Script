@@ -25,4 +25,4 @@
 ^https?:\/\/api\.zhihu\.com\/brand\/question\/\d+/card\? url reject-dict
 ^https?:\/\/www\.zhihu\.com\/api\/v\d+\/brand\/question/\d+/card\? url reject-dict
 
-hostname = www.zhihu.com,api.zhihu.com,zhuanlan.zhihu.com
+hostname = *.zhihu.com
