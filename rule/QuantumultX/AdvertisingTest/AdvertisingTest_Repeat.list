@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 16:03:54.826832
+# UPDATED: 2021-03-25 02:03:30.097314
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -3022,7 +3022,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 60145 条规则重复
+#  与 Advertising 共 60153 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -3989,6 +3989,7 @@ HOST,adtago.s3.amazonaws.com
 HOST,adtech.nflximg.net
 HOST,adtegrity.com
 HOST,adtekmedia.com
+HOST,adticker.net
 HOST,adtools.gossipkings.com
 HOST,adtools2.amakings.com
 HOST,adtrack.cimedia.net
@@ -4254,6 +4255,7 @@ HOST,alliance4media.com
 HOST,allindiapoint.com
 HOST,allisweb.com
 HOST,allkeygensdownload.com
+HOST,allo-sexe.com
 HOST,allornamenti.com
 HOST,alloversuccess.com
 HOST,alloywheelrefurbishments.com
@@ -9120,6 +9122,7 @@ HOST,gwbak.nickymaru.com
 HOST,gwmtracker.com
 HOST,gwn.tinkermobi.com
 HOST,gwrtdp.tclclouds.com
+HOST,gwtaotao.com
 HOST,gwtraffic.com
 HOST,gxprocord.com
 HOST,gyroscopereview.com
@@ -9678,6 +9681,7 @@ HOST,idealtits.net
 HOST,ideascentre.hk
 HOST,ideationary.com
 HOST,ideawheel.com
+HOST,idecoideas.com
 HOST,idemonterrey.com
 HOST,idemperidem.com
 HOST,idiagnostics.apple.com
@@ -11496,6 +11500,7 @@ HOST,miducnafleh.com
 HOST,midwaysports.net
 HOST,mifepriston.net
 HOST,mightyhacks.com
+HOST,migliorigadget.com
 HOST,migronis.com
 HOST,mikebellenir.com
 HOST,mikeschryver.com
@@ -16071,6 +16076,9 @@ HOST,upshare.org
 HOST,upsmega.com
 HOST,upstart.88vid.com
 HOST,upswings.net
+HOST,uptime-as.net
+HOST,uptime-eu.net
+HOST,uptime-us.net
 HOST,uptimechecker.com
 HOST,uptodatemovie.com
 HOST,upwardcall.net

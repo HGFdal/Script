@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 16:03:42.203421
+# UPDATED: 2021-03-25 02:03:17.665424
 # HOST-KEYWORD: 59
 # HOST-SUFFIX: 45668
-# HOST: 20728
+# HOST: 20738
 # IP-CIDR: 245
 # USER-AGENT: 1
 # IP6-CIDR: 1
-# TOTAL: 66702
+# TOTAL: 66712
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -2212,6 +2212,7 @@ HOST,adtegrity.com,Advertising
 HOST,adtekmedia.com,Advertising
 HOST,adternal.com,Advertising
 HOST,adtheorent.com,Advertising
+HOST,adticker.net,Advertising
 HOST,adtigerpl.adspirit.net,Advertising
 HOST,adtimeselaras.com,Advertising
 HOST,adtology.com,Advertising
@@ -2632,6 +2633,7 @@ HOST,alliance4media.com,Advertising
 HOST,allindiapoint.com,Advertising
 HOST,allisweb.com,Advertising
 HOST,allkeygensdownload.com,Advertising
+HOST,allo-sexe.com,Advertising
 HOST,allornamenti.com,Advertising
 HOST,alloversuccess.com,Advertising
 HOST,alloywheelrefurbishments.com,Advertising
@@ -4533,6 +4535,7 @@ HOST,c.jp.msn.com,Advertising
 HOST,c.latam.msn.com,Advertising
 HOST,c.marsflag.com,Advertising
 HOST,c.mdnhinc.com,Advertising
+HOST,c.microsoft.com,Advertising
 HOST,c.my.msn.com,Advertising
 HOST,c.nl.msn.com,Advertising
 HOST,c.no.msn.com,Advertising
@@ -9329,6 +9332,7 @@ HOST,gwbak.nickymaru.com,Advertising
 HOST,gwmtracker.com,Advertising
 HOST,gwn.tinkermobi.com,Advertising
 HOST,gwrtdp.tclclouds.com,Advertising
+HOST,gwtaotao.com,Advertising
 HOST,gwtraffic.com,Advertising
 HOST,gxprocord.com,Advertising
 HOST,gyroscopereview.com,Advertising
@@ -10001,6 +10005,7 @@ HOST,ideascentre.hk,Advertising
 HOST,ideationary.com,Advertising
 HOST,ideawheel.com,Advertising
 HOST,idec.actonsoftware.com,Advertising
+HOST,idecoideas.com,Advertising
 HOST,idemonterrey.com,Advertising
 HOST,idemperidem.com,Advertising
 HOST,identiv.actonsoftware.com,Advertising
@@ -12451,6 +12456,7 @@ HOST,midwaysports.net,Advertising
 HOST,mifepriston.net,Advertising
 HOST,mightyhacks.com,Advertising
 HOST,mightymagoo.com,Advertising
+HOST,migliorigadget.com,Advertising
 HOST,migronis.com,Advertising
 HOST,mikebellenir.com,Advertising
 HOST,mikeschryver.com,Advertising
@@ -15544,6 +15550,7 @@ HOST,rotator.buzzclicks.com,Advertising
 HOST,rotor6.newzfind.com,Advertising
 HOST,rougexbcp.com,Advertising
 HOST,roughroll.com,Advertising
+HOST,roulettebot-plus.com,Advertising
 HOST,roulettebotplus.com,Advertising
 HOST,roulettenumber.com,Advertising
 HOST,roupsouk.com,Advertising
@@ -18943,6 +18950,9 @@ HOST,upsight.com,Advertising
 HOST,upsmega.com,Advertising
 HOST,upstart.88vid.com,Advertising
 HOST,upswings.net,Advertising
+HOST,uptime-as.net,Advertising
+HOST,uptime-eu.net,Advertising
+HOST,uptime-us.net,Advertising
 HOST,uptimechecker.com,Advertising
 HOST,uptodatemovie.com,Advertising
 HOST,uptopop.com,Advertising

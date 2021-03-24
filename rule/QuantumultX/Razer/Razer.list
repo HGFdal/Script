@@ -1,7 +1,7 @@
 # NAME: Razer
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 16:03:43.830235
+# UPDATED: 2021-03-25 02:03:19.175335
 # HOST-SUFFIX: 2
 # TOTAL: 2
 HOST-SUFFIX,razer.com,Razer

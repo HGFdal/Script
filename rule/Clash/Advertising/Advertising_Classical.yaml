@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 16:03:47.575729
+# UPDATED: 2021-03-25 02:03:22.889481
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 45668
-# DOMAIN: 20728
+# DOMAIN: 20738
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 66701
+# TOTAL: 66711
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -2212,6 +2212,7 @@ payload:
   - DOMAIN,adtekmedia.com
   - DOMAIN,adternal.com
   - DOMAIN,adtheorent.com
+  - DOMAIN,adticker.net
   - DOMAIN,adtigerpl.adspirit.net
   - DOMAIN,adtimeselaras.com
   - DOMAIN,adtology.com
@@ -2632,6 +2633,7 @@ payload:
   - DOMAIN,allindiapoint.com
   - DOMAIN,allisweb.com
   - DOMAIN,allkeygensdownload.com
+  - DOMAIN,allo-sexe.com
   - DOMAIN,allornamenti.com
   - DOMAIN,alloversuccess.com
   - DOMAIN,alloywheelrefurbishments.com
@@ -4533,6 +4535,7 @@ payload:
   - DOMAIN,c.latam.msn.com
   - DOMAIN,c.marsflag.com
   - DOMAIN,c.mdnhinc.com
+  - DOMAIN,c.microsoft.com
   - DOMAIN,c.my.msn.com
   - DOMAIN,c.nl.msn.com
   - DOMAIN,c.no.msn.com
@@ -9329,6 +9332,7 @@ payload:
   - DOMAIN,gwmtracker.com
   - DOMAIN,gwn.tinkermobi.com
   - DOMAIN,gwrtdp.tclclouds.com
+  - DOMAIN,gwtaotao.com
   - DOMAIN,gwtraffic.com
   - DOMAIN,gxprocord.com
   - DOMAIN,gyroscopereview.com
@@ -10001,6 +10005,7 @@ payload:
   - DOMAIN,ideationary.com
   - DOMAIN,ideawheel.com
   - DOMAIN,idec.actonsoftware.com
+  - DOMAIN,idecoideas.com
   - DOMAIN,idemonterrey.com
   - DOMAIN,idemperidem.com
   - DOMAIN,identiv.actonsoftware.com
@@ -12451,6 +12456,7 @@ payload:
   - DOMAIN,mifepriston.net
   - DOMAIN,mightyhacks.com
   - DOMAIN,mightymagoo.com
+  - DOMAIN,migliorigadget.com
   - DOMAIN,migronis.com
   - DOMAIN,mikebellenir.com
   - DOMAIN,mikeschryver.com
@@ -15544,6 +15550,7 @@ payload:
   - DOMAIN,rotor6.newzfind.com
   - DOMAIN,rougexbcp.com
   - DOMAIN,roughroll.com
+  - DOMAIN,roulettebot-plus.com
   - DOMAIN,roulettebotplus.com
   - DOMAIN,roulettenumber.com
   - DOMAIN,roupsouk.com
@@ -18943,6 +18950,9 @@ payload:
   - DOMAIN,upsmega.com
   - DOMAIN,upstart.88vid.com
   - DOMAIN,upswings.net
+  - DOMAIN,uptime-as.net
+  - DOMAIN,uptime-eu.net
+  - DOMAIN,uptime-us.net
   - DOMAIN,uptimechecker.com
   - DOMAIN,uptodatemovie.com
   - DOMAIN,uptopop.com

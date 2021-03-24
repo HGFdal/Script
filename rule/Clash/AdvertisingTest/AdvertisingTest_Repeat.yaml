@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 16:03:58.563322
+# UPDATED: 2021-03-25 02:03:33.813229
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 Hijacking 共 212 条规则重复
@@ -3023,7 +3023,7 @@ payload:
   - DOMAIN-SUFFIX,zsi7.destinia.do
   - DOMAIN-SUFFIX,zyq2.destinia.sk
   - DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 60144 条规则重复
+#  与 Advertising 共 60152 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -3990,6 +3990,7 @@ payload:
   - DOMAIN,adtech.nflximg.net
   - DOMAIN,adtegrity.com
   - DOMAIN,adtekmedia.com
+  - DOMAIN,adticker.net
   - DOMAIN,adtools.gossipkings.com
   - DOMAIN,adtools2.amakings.com
   - DOMAIN,adtrack.cimedia.net
@@ -4255,6 +4256,7 @@ payload:
   - DOMAIN,allindiapoint.com
   - DOMAIN,allisweb.com
   - DOMAIN,allkeygensdownload.com
+  - DOMAIN,allo-sexe.com
   - DOMAIN,allornamenti.com
   - DOMAIN,alloversuccess.com
   - DOMAIN,alloywheelrefurbishments.com
@@ -9121,6 +9123,7 @@ payload:
   - DOMAIN,gwmtracker.com
   - DOMAIN,gwn.tinkermobi.com
   - DOMAIN,gwrtdp.tclclouds.com
+  - DOMAIN,gwtaotao.com
   - DOMAIN,gwtraffic.com
   - DOMAIN,gxprocord.com
   - DOMAIN,gyroscopereview.com
@@ -9679,6 +9682,7 @@ payload:
   - DOMAIN,ideascentre.hk
   - DOMAIN,ideationary.com
   - DOMAIN,ideawheel.com
+  - DOMAIN,idecoideas.com
   - DOMAIN,idemonterrey.com
   - DOMAIN,idemperidem.com
   - DOMAIN,idiagnostics.apple.com
@@ -11497,6 +11501,7 @@ payload:
   - DOMAIN,midwaysports.net
   - DOMAIN,mifepriston.net
   - DOMAIN,mightyhacks.com
+  - DOMAIN,migliorigadget.com
   - DOMAIN,migronis.com
   - DOMAIN,mikebellenir.com
   - DOMAIN,mikeschryver.com
@@ -16072,6 +16077,9 @@ payload:
   - DOMAIN,upsmega.com
   - DOMAIN,upstart.88vid.com
   - DOMAIN,upswings.net
+  - DOMAIN,uptime-as.net
+  - DOMAIN,uptime-eu.net
+  - DOMAIN,uptime-us.net
   - DOMAIN,uptimechecker.com
   - DOMAIN,uptodatemovie.com
   - DOMAIN,upwardcall.net

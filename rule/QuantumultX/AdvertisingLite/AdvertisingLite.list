@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 16:03:42.120389
+# UPDATED: 2021-03-25 02:03:17.586807
 # HOST-KEYWORD: 29
 # HOST-SUFFIX: 15327
-# HOST: 15140
+# HOST: 15145
 # IP-CIDR: 192
 # USER-AGENT: 1
 # IP6-CIDR: 1
-# TOTAL: 30690
+# TOTAL: 30695
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,006a039c957c142bb.com,AdvertisingLite
@@ -3117,6 +3117,7 @@ HOST,c.ssp.qq.com,AdvertisingLite
 HOST,c.v-meng.org,AdvertisingLite
 HOST,c.wantxt.cc,AdvertisingLite
 HOST,c.xiaobaipan.com,AdvertisingLite
+HOST,c.xiaozhuyoupu.com,AdvertisingLite
 HOST,c.xilongfuwu.com,AdvertisingLite
 HOST,c02o3mpych.com,AdvertisingLite
 HOST,c10ed2b8b417880.com,AdvertisingLite
@@ -9705,6 +9706,7 @@ HOST,oxrm.com,AdvertisingLite
 HOST,oxsng.com,AdvertisingLite
 HOST,oxtracking.com,AdvertisingLite
 HOST,oxybe.com,AdvertisingLite
+HOST,oypgywhfcrk.com,AdvertisingLite
 HOST,ozelmedikal.com,AdvertisingLite
 HOST,ozertesa.com,AdvertisingLite
 HOST,ozmifi.info,AdvertisingLite
@@ -14198,6 +14200,7 @@ HOST,wesiedu.com,AdvertisingLite
 HOST,wetpeachcash.com,AdvertisingLite
 HOST,wetyt.tourstogo.us,AdvertisingLite
 HOST,weufdhsas.com,AdvertisingLite
+HOST,weuztuwxue.com,AdvertisingLite
 HOST,weworkremotely.com,AdvertisingLite
 HOST,weymsohsafjs.com,AdvertisingLite
 HOST,wfnetwork.com,AdvertisingLite
@@ -14813,6 +14816,7 @@ HOST,yashi.com,AdvertisingLite
 HOST,yatab.net,AdvertisingLite
 HOST,yaudience.com,AdvertisingLite
 HOST,yaxujiancai.cn,AdvertisingLite
+HOST,yazcash.com,AdvertisingLite
 HOST,yb0t.com,AdvertisingLite
 HOST,ybmlwhhsuf.com,AdvertisingLite
 HOST,ybotvisit.com,AdvertisingLite
@@ -14865,6 +14869,7 @@ HOST,yihubaiying.com,AdvertisingLite
 HOST,yimingxiang.com.cn,AdvertisingLite
 HOST,yingshidaquan.cc,AdvertisingLite
 HOST,yiqiv.com,AdvertisingLite
+HOST,yivzznzrujt.com,AdvertisingLite
 HOST,yiwad.com,AdvertisingLite
 HOST,yjnqrbfnocy.com,AdvertisingLite
 HOST,yjtag.jp,AdvertisingLite

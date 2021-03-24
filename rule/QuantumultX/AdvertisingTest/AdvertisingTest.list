@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 16:03:42.308525
+# UPDATED: 2021-03-25 02:03:17.767095
 # HOST-KEYWORD: 59
 # HOST-SUFFIX: 69311
-# HOST: 14372
+# HOST: 14380
 # IP-CIDR: 245
 # USER-AGENT: 1
 # IP6-CIDR: 1
-# TOTAL: 83989
+# TOTAL: 83997
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -975,6 +975,7 @@ HOST,adtago.s3.amazonaws.com,AdvertisingTest
 HOST,adtech.nflximg.net,AdvertisingTest
 HOST,adtegrity.com,AdvertisingTest
 HOST,adtekmedia.com,AdvertisingTest
+HOST,adticker.net,AdvertisingTest
 HOST,adtools.gossipkings.com,AdvertisingTest
 HOST,adtools2.amakings.com,AdvertisingTest
 HOST,adtrack.cimedia.net,AdvertisingTest
@@ -1240,6 +1241,7 @@ HOST,alliance4media.com,AdvertisingTest
 HOST,allindiapoint.com,AdvertisingTest
 HOST,allisweb.com,AdvertisingTest
 HOST,allkeygensdownload.com,AdvertisingTest
+HOST,allo-sexe.com,AdvertisingTest
 HOST,allornamenti.com,AdvertisingTest
 HOST,alloversuccess.com,AdvertisingTest
 HOST,alloywheelrefurbishments.com,AdvertisingTest
@@ -6106,6 +6108,7 @@ HOST,gwbak.nickymaru.com,AdvertisingTest
 HOST,gwmtracker.com,AdvertisingTest
 HOST,gwn.tinkermobi.com,AdvertisingTest
 HOST,gwrtdp.tclclouds.com,AdvertisingTest
+HOST,gwtaotao.com,AdvertisingTest
 HOST,gwtraffic.com,AdvertisingTest
 HOST,gxprocord.com,AdvertisingTest
 HOST,gyroscopereview.com,AdvertisingTest
@@ -6664,6 +6667,7 @@ HOST,idealtits.net,AdvertisingTest
 HOST,ideascentre.hk,AdvertisingTest
 HOST,ideationary.com,AdvertisingTest
 HOST,ideawheel.com,AdvertisingTest
+HOST,idecoideas.com,AdvertisingTest
 HOST,idemonterrey.com,AdvertisingTest
 HOST,idemperidem.com,AdvertisingTest
 HOST,idiagnostics.apple.com,AdvertisingTest
@@ -8482,6 +8486,7 @@ HOST,miducnafleh.com,AdvertisingTest
 HOST,midwaysports.net,AdvertisingTest
 HOST,mifepriston.net,AdvertisingTest
 HOST,mightyhacks.com,AdvertisingTest
+HOST,migliorigadget.com,AdvertisingTest
 HOST,migronis.com,AdvertisingTest
 HOST,mikebellenir.com,AdvertisingTest
 HOST,mikeschryver.com,AdvertisingTest
@@ -13057,6 +13062,9 @@ HOST,upshare.org,AdvertisingTest
 HOST,upsmega.com,AdvertisingTest
 HOST,upstart.88vid.com,AdvertisingTest
 HOST,upswings.net,AdvertisingTest
+HOST,uptime-as.net,AdvertisingTest
+HOST,uptime-eu.net,AdvertisingTest
+HOST,uptime-us.net,AdvertisingTest
 HOST,uptimechecker.com,AdvertisingTest
 HOST,uptodatemovie.com,AdvertisingTest
 HOST,upwardcall.net,AdvertisingTest

@@ -1,7 +1,7 @@
 # NAME: ChinaTest 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 16:03:55.169521
+# UPDATED: 2021-03-25 02:03:30.494728
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 DanDanZan 共 7 条规则重复
 HOST-SUFFIX,343480.com
@@ -1469,48 +1469,6 @@ IP-CIDR,52.52.84.170/32
 IP-CIDR,52.58.56.244/32
 IP-CIDR,54.178.26.110/32
 IP-CIDR,69.28.51.148/32
-#  与 NetEase 共 41 条规则重复
-HOST-SUFFIX,126.am
-HOST-SUFFIX,126.com
-HOST-SUFFIX,126.fm
-HOST-SUFFIX,126.link
-HOST-SUFFIX,126.net
-HOST-SUFFIX,127.com
-HOST-SUFFIX,127.net
-HOST-SUFFIX,163.com
-HOST-SUFFIX,163.fm
-HOST-SUFFIX,163fen.com
-HOST-SUFFIX,163industry.com
-HOST-SUFFIX,163jiasu.com
-HOST-SUFFIX,163mail.com
-HOST-SUFFIX,163qiyukf.com
-HOST-SUFFIX,163yun.com
-HOST-SUFFIX,166.com
-HOST-SUFFIX,166.net
-HOST-SUFFIX,188.com
-HOST-SUFFIX,321fenx.com
-HOST-SUFFIX,haowu.link
-HOST-SUFFIX,icourse163.com
-HOST-SUFFIX,icourse163.org
-HOST-SUFFIX,kada.com
-HOST-SUFFIX,kaola.com
-HOST-SUFFIX,laiqukankan.com
-HOST-SUFFIX,lf127.net
-HOST-SUFFIX,lofter.com
-HOST-SUFFIX,nease.net
-HOST-SUFFIX,netease-inc.com
-HOST-SUFFIX,netease.com
-HOST-SUFFIX,netease.im
-HOST-SUFFIX,ntes53.com
-HOST-SUFFIX,qiyukf.com
-HOST-SUFFIX,qiyukf.net
-HOST-SUFFIX,tx163.com
-HOST-SUFFIX,ydstatic.com
-HOST-SUFFIX,yeah.net
-HOST-SUFFIX,yodao.com
-HOST-SUFFIX,youdao.com
-HOST-SUFFIX,yqkk.link
-HOST-SUFFIX,zhuanzfx.com
 #  与 Eleme 共 5 条规则重复
 HOST-SUFFIX,ele.me
 HOST-SUFFIX,ele.to
@@ -1825,6 +1783,48 @@ HOST-SUFFIX,hdslb.com
 HOST-SUFFIX,im9.com
 HOST-SUFFIX,qy.net
 HOST-SUFFIX,wetv.vip
+#  与 NetEase 共 41 条规则重复
+HOST-SUFFIX,126.am
+HOST-SUFFIX,126.com
+HOST-SUFFIX,126.fm
+HOST-SUFFIX,126.link
+HOST-SUFFIX,126.net
+HOST-SUFFIX,127.com
+HOST-SUFFIX,127.net
+HOST-SUFFIX,163.com
+HOST-SUFFIX,163.fm
+HOST-SUFFIX,163fen.com
+HOST-SUFFIX,163industry.com
+HOST-SUFFIX,163jiasu.com
+HOST-SUFFIX,163mail.com
+HOST-SUFFIX,163yun.com
+HOST-SUFFIX,166.com
+HOST-SUFFIX,166.net
+HOST-SUFFIX,188.com
+HOST-SUFFIX,321fenx.com
+HOST-SUFFIX,chatnos.com
+HOST-SUFFIX,haowu.link
+HOST-SUFFIX,icourse163.com
+HOST-SUFFIX,icourse163.org
+HOST-SUFFIX,kada.com
+HOST-SUFFIX,laiqukankan.com
+HOST-SUFFIX,lf127.net
+HOST-SUFFIX,lofter.com
+HOST-SUFFIX,nease.net
+HOST-SUFFIX,netease-inc.com
+HOST-SUFFIX,netease.com
+HOST-SUFFIX,netease.im
+HOST-SUFFIX,netstatic.net
+HOST-SUFFIX,ntes53.com
+HOST-SUFFIX,qiyukf.com
+HOST-SUFFIX,qiyukf.net
+HOST-SUFFIX,tx163.com
+HOST-SUFFIX,ydstatic.com
+HOST-SUFFIX,yeah.net
+HOST-SUFFIX,yodao.com
+HOST-SUFFIX,youdao.com
+HOST-SUFFIX,yqkk.link
+HOST-SUFFIX,zhuanzfx.com
 #  与 Sina 共 32 条规则重复
 HOST-SUFFIX,1kapp.com
 HOST-SUFFIX,51xiancheng.com

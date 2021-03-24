@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 16:03:47.679596
+# UPDATED: 2021-03-25 02:03:23.004363
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 69311
-# DOMAIN: 14372
+# DOMAIN: 14380
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 83988
+# TOTAL: 83996
 payload:
   - '0.up.qingdaonews.com'
   - '0001.2waky.com'
@@ -975,6 +975,7 @@ payload:
   - 'adtech.nflximg.net'
   - 'adtegrity.com'
   - 'adtekmedia.com'
+  - 'adticker.net'
   - 'adtools.gossipkings.com'
   - 'adtools2.amakings.com'
   - 'adtrack.cimedia.net'
@@ -1240,6 +1241,7 @@ payload:
   - 'allindiapoint.com'
   - 'allisweb.com'
   - 'allkeygensdownload.com'
+  - 'allo-sexe.com'
   - 'allornamenti.com'
   - 'alloversuccess.com'
   - 'alloywheelrefurbishments.com'
@@ -6106,6 +6108,7 @@ payload:
   - 'gwmtracker.com'
   - 'gwn.tinkermobi.com'
   - 'gwrtdp.tclclouds.com'
+  - 'gwtaotao.com'
   - 'gwtraffic.com'
   - 'gxprocord.com'
   - 'gyroscopereview.com'
@@ -6664,6 +6667,7 @@ payload:
   - 'ideascentre.hk'
   - 'ideationary.com'
   - 'ideawheel.com'
+  - 'idecoideas.com'
   - 'idemonterrey.com'
   - 'idemperidem.com'
   - 'idiagnostics.apple.com'
@@ -8482,6 +8486,7 @@ payload:
   - 'midwaysports.net'
   - 'mifepriston.net'
   - 'mightyhacks.com'
+  - 'migliorigadget.com'
   - 'migronis.com'
   - 'mikebellenir.com'
   - 'mikeschryver.com'
@@ -13057,6 +13062,9 @@ payload:
   - 'upsmega.com'
   - 'upstart.88vid.com'
   - 'upswings.net'
+  - 'uptime-as.net'
+  - 'uptime-eu.net'
+  - 'uptime-us.net'
   - 'uptimechecker.com'
   - 'uptodatemovie.com'
   - 'upwardcall.net'

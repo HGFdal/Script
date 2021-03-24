@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 16:03:47.793326
+# UPDATED: 2021-03-25 02:03:23.130258
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 69311
-# DOMAIN: 14372
+# DOMAIN: 14380
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 83988
+# TOTAL: 83996
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -975,6 +975,7 @@ payload:
   - DOMAIN,adtech.nflximg.net
   - DOMAIN,adtegrity.com
   - DOMAIN,adtekmedia.com
+  - DOMAIN,adticker.net
   - DOMAIN,adtools.gossipkings.com
   - DOMAIN,adtools2.amakings.com
   - DOMAIN,adtrack.cimedia.net
@@ -1240,6 +1241,7 @@ payload:
   - DOMAIN,allindiapoint.com
   - DOMAIN,allisweb.com
   - DOMAIN,allkeygensdownload.com
+  - DOMAIN,allo-sexe.com
   - DOMAIN,allornamenti.com
   - DOMAIN,alloversuccess.com
   - DOMAIN,alloywheelrefurbishments.com
@@ -6106,6 +6108,7 @@ payload:
   - DOMAIN,gwmtracker.com
   - DOMAIN,gwn.tinkermobi.com
   - DOMAIN,gwrtdp.tclclouds.com
+  - DOMAIN,gwtaotao.com
   - DOMAIN,gwtraffic.com
   - DOMAIN,gxprocord.com
   - DOMAIN,gyroscopereview.com
@@ -6664,6 +6667,7 @@ payload:
   - DOMAIN,ideascentre.hk
   - DOMAIN,ideationary.com
   - DOMAIN,ideawheel.com
+  - DOMAIN,idecoideas.com
   - DOMAIN,idemonterrey.com
   - DOMAIN,idemperidem.com
   - DOMAIN,idiagnostics.apple.com
@@ -8482,6 +8486,7 @@ payload:
   - DOMAIN,midwaysports.net
   - DOMAIN,mifepriston.net
   - DOMAIN,mightyhacks.com
+  - DOMAIN,migliorigadget.com
   - DOMAIN,migronis.com
   - DOMAIN,mikebellenir.com
   - DOMAIN,mikeschryver.com
@@ -13057,6 +13062,9 @@ payload:
   - DOMAIN,upsmega.com
   - DOMAIN,upstart.88vid.com
   - DOMAIN,upswings.net
+  - DOMAIN,uptime-as.net
+  - DOMAIN,uptime-eu.net
+  - DOMAIN,uptime-us.net
   - DOMAIN,uptimechecker.com
   - DOMAIN,uptodatemovie.com
   - DOMAIN,upwardcall.net

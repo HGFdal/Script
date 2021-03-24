@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 16:03:47.404640
+# UPDATED: 2021-03-25 02:03:22.717959
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15327
-# DOMAIN: 15140
+# DOMAIN: 15145
 # IP-CIDR: 192
 # IP-CIDR6: 1
-# TOTAL: 30689
+# TOTAL: 30694
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -3117,6 +3117,7 @@ payload:
   - DOMAIN,c.v-meng.org
   - DOMAIN,c.wantxt.cc
   - DOMAIN,c.xiaobaipan.com
+  - DOMAIN,c.xiaozhuyoupu.com
   - DOMAIN,c.xilongfuwu.com
   - DOMAIN,c02o3mpych.com
   - DOMAIN,c10ed2b8b417880.com
@@ -9705,6 +9706,7 @@ payload:
   - DOMAIN,oxsng.com
   - DOMAIN,oxtracking.com
   - DOMAIN,oxybe.com
+  - DOMAIN,oypgywhfcrk.com
   - DOMAIN,ozelmedikal.com
   - DOMAIN,ozertesa.com
   - DOMAIN,ozmifi.info
@@ -14198,6 +14200,7 @@ payload:
   - DOMAIN,wetpeachcash.com
   - DOMAIN,wetyt.tourstogo.us
   - DOMAIN,weufdhsas.com
+  - DOMAIN,weuztuwxue.com
   - DOMAIN,weworkremotely.com
   - DOMAIN,weymsohsafjs.com
   - DOMAIN,wfnetwork.com
@@ -14813,6 +14816,7 @@ payload:
   - DOMAIN,yatab.net
   - DOMAIN,yaudience.com
   - DOMAIN,yaxujiancai.cn
+  - DOMAIN,yazcash.com
   - DOMAIN,yb0t.com
   - DOMAIN,ybmlwhhsuf.com
   - DOMAIN,ybotvisit.com
@@ -14865,6 +14869,7 @@ payload:
   - DOMAIN,yimingxiang.com.cn
   - DOMAIN,yingshidaquan.cc
   - DOMAIN,yiqiv.com
+  - DOMAIN,yivzznzrujt.com
   - DOMAIN,yiwad.com
   - DOMAIN,yjnqrbfnocy.com
   - DOMAIN,yjtag.jp

@@ -6,7 +6,7 @@
 
 定时爬取互联网上开源的ChinaTest分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
-最后检查时间：2021-03-24 16:04:05.207621。
+最后检查时间：2021-03-25 02:03:40.397250。
 
 ## 规则统计
 
@@ -114,7 +114,6 @@ ChinaTest_Domain.list请使用DOMAIN-SET。
 |  [SFExpress](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/SFExpress)    | 20   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   45.0% |
 |  [58TongCheng](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/58TongCheng)    | 49   | [22](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   44.9% |
 |  [ClubhouseIP](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ClubhouseIP)    | 83   | [37](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   44.58% |
-|  [NetEase](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/NetEase)    | 103   | [41](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   39.81% |
 |  [Eleme](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Eleme)    | 13   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   38.46% |
 |  [QiNiuYun](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/QiNiuYun)    | 52   | [20](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   38.46% |
 |  [YunFanJiaSu](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YunFanJiaSu)    | 32   | [12](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   37.5% |
@@ -127,6 +126,7 @@ ChinaTest_Domain.list请使用DOMAIN-SET。
 |  [CMB](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/CMB)    | 29   | [10](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   34.48% |
 |  [Scholar](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Scholar)    | 177   | [61](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   34.46% |
 |  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AsianMedia)    | 48   | [16](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   33.33% |
+|  [NetEase](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/NetEase)    | 125   | [41](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   32.8% |
 |  [Sina](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Sina)    | 101   | [32](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   31.68% |
 |  [51Job](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/51Job)    | 19   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   31.58% |
 |  [XianYu](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/XianYu)    | 16   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest_Repeat.list)   |   31.25% |

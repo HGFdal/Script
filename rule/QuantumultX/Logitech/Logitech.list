@@ -1,7 +1,7 @@
 # NAME: Logitech
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 16:03:43.544791
+# UPDATED: 2021-03-25 02:03:18.914500
 # HOST-SUFFIX: 9
 # TOTAL: 9
 HOST-SUFFIX,logi.com,Logitech

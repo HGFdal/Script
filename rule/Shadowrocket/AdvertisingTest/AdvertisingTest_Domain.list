@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: 
 # REPO: 
-# UPDATED: 2021-03-24 16:03:50.292726
+# UPDATED: 2021-03-25 02:03:25.563982
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 69311
-# DOMAIN: 14372
+# DOMAIN: 14380
 # IP-CIDR: 245
 # USER-AGENT: 1
 # IP-CIDR6: 1
 # URL-REGEX: 306
-# TOTAL: 84295
+# TOTAL: 84303
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -977,6 +977,7 @@ adtago.s3.amazonaws.com
 adtech.nflximg.net
 adtegrity.com
 adtekmedia.com
+adticker.net
 adtools.gossipkings.com
 adtools2.amakings.com
 adtrack.cimedia.net
@@ -1242,6 +1243,7 @@ alliance4media.com
 allindiapoint.com
 allisweb.com
 allkeygensdownload.com
+allo-sexe.com
 allornamenti.com
 alloversuccess.com
 alloywheelrefurbishments.com
@@ -6108,6 +6110,7 @@ gwbak.nickymaru.com
 gwmtracker.com
 gwn.tinkermobi.com
 gwrtdp.tclclouds.com
+gwtaotao.com
 gwtraffic.com
 gxprocord.com
 gyroscopereview.com
@@ -6666,6 +6669,7 @@ idealtits.net
 ideascentre.hk
 ideationary.com
 ideawheel.com
+idecoideas.com
 idemonterrey.com
 idemperidem.com
 idiagnostics.apple.com
@@ -8484,6 +8488,7 @@ miducnafleh.com
 midwaysports.net
 mifepriston.net
 mightyhacks.com
+migliorigadget.com
 migronis.com
 mikebellenir.com
 mikeschryver.com
@@ -13059,6 +13064,9 @@ upshare.org
 upsmega.com
 upstart.88vid.com
 upswings.net
+uptime-as.net
+uptime-eu.net
+uptime-us.net
 uptimechecker.com
 uptodatemovie.com
 upwardcall.net

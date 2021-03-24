@@ -1,16 +1,16 @@
 # NAME: AdvertisingLite
 # AUTHOR: 
 # REPO: 
-# UPDATED: 2021-03-24 16:03:50.112554
+# UPDATED: 2021-03-25 02:03:25.398857
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15327
-# DOMAIN: 15140
+# DOMAIN: 15145
 # IP-CIDR: 192
 # USER-AGENT: 1
 # IP-CIDR6: 1
 # URL-REGEX: 299
-# TOTAL: 30989
+# TOTAL: 30994
 0.up.qingdaonews.com
 00-gov.cn
 006a039c957c142bb.com
@@ -3119,6 +3119,7 @@ c.ssp.qq.com
 c.v-meng.org
 c.wantxt.cc
 c.xiaobaipan.com
+c.xiaozhuyoupu.com
 c.xilongfuwu.com
 c02o3mpych.com
 c10ed2b8b417880.com
@@ -9707,6 +9708,7 @@ oxrm.com
 oxsng.com
 oxtracking.com
 oxybe.com
+oypgywhfcrk.com
 ozelmedikal.com
 ozertesa.com
 ozmifi.info
@@ -14200,6 +14202,7 @@ wesiedu.com
 wetpeachcash.com
 wetyt.tourstogo.us
 weufdhsas.com
+weuztuwxue.com
 weworkremotely.com
 weymsohsafjs.com
 wfnetwork.com
@@ -14815,6 +14818,7 @@ yashi.com
 yatab.net
 yaudience.com
 yaxujiancai.cn
+yazcash.com
 yb0t.com
 ybmlwhhsuf.com
 ybotvisit.com
@@ -14867,6 +14871,7 @@ yihubaiying.com
 yimingxiang.com.cn
 yingshidaquan.cc
 yiqiv.com
+yivzznzrujt.com
 yiwad.com
 yjnqrbfnocy.com
 yjtag.jp

@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 16:03:47.490774
+# UPDATED: 2021-03-25 02:03:22.801648
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 45668
-# DOMAIN: 20728
+# DOMAIN: 20738
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 66701
+# TOTAL: 66711
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -2212,6 +2212,7 @@ payload:
   - 'adtekmedia.com'
   - 'adternal.com'
   - 'adtheorent.com'
+  - 'adticker.net'
   - 'adtigerpl.adspirit.net'
   - 'adtimeselaras.com'
   - 'adtology.com'
@@ -2632,6 +2633,7 @@ payload:
   - 'allindiapoint.com'
   - 'allisweb.com'
   - 'allkeygensdownload.com'
+  - 'allo-sexe.com'
   - 'allornamenti.com'
   - 'alloversuccess.com'
   - 'alloywheelrefurbishments.com'
@@ -4533,6 +4535,7 @@ payload:
   - 'c.latam.msn.com'
   - 'c.marsflag.com'
   - 'c.mdnhinc.com'
+  - 'c.microsoft.com'
   - 'c.my.msn.com'
   - 'c.nl.msn.com'
   - 'c.no.msn.com'
@@ -9329,6 +9332,7 @@ payload:
   - 'gwmtracker.com'
   - 'gwn.tinkermobi.com'
   - 'gwrtdp.tclclouds.com'
+  - 'gwtaotao.com'
   - 'gwtraffic.com'
   - 'gxprocord.com'
   - 'gyroscopereview.com'
@@ -10001,6 +10005,7 @@ payload:
   - 'ideationary.com'
   - 'ideawheel.com'
   - 'idec.actonsoftware.com'
+  - 'idecoideas.com'
   - 'idemonterrey.com'
   - 'idemperidem.com'
   - 'identiv.actonsoftware.com'
@@ -12451,6 +12456,7 @@ payload:
   - 'mifepriston.net'
   - 'mightyhacks.com'
   - 'mightymagoo.com'
+  - 'migliorigadget.com'
   - 'migronis.com'
   - 'mikebellenir.com'
   - 'mikeschryver.com'
@@ -15544,6 +15550,7 @@ payload:
   - 'rotor6.newzfind.com'
   - 'rougexbcp.com'
   - 'roughroll.com'
+  - 'roulettebot-plus.com'
   - 'roulettebotplus.com'
   - 'roulettenumber.com'
   - 'roupsouk.com'
@@ -18943,6 +18950,9 @@ payload:
   - 'upsmega.com'
   - 'upstart.88vid.com'
   - 'upswings.net'
+  - 'uptime-as.net'
+  - 'uptime-eu.net'
+  - 'uptime-us.net'
   - 'uptimechecker.com'
   - 'uptodatemovie.com'
   - 'uptopop.com'
