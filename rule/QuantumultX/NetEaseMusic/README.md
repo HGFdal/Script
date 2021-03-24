@@ -6,21 +6,20 @@
 
 定时爬取互联网上开源的网易云音乐分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
-最后检查时间：2021-03-24 01:47:17.407765。
+最后检查时间：2021-03-24 15:26:39.880627。
 
 ## 规则统计
 
-总计规则：37 条。
+总计规则：33 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| HOST-SUFFIX | 11 |
+| HOST-SUFFIX | 8 |
 | IP-CIDR | 18 |
 | HOST | 1 |
 | USER-AGENT | 6 |
-| HOST-KEYWORD | 1 |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -54,7 +53,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 - https://raw.githubusercontent.com/Mazetsz/ACL4SSR/master/Clash/NetEaseCloudMusic.list
 - https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Netease%20Music.list
 - https://raw.githubusercontent.com/nzw9314/QuantumultX/master/NeteaseMusic.list
-- https://raw.githubusercontent.com/o7y0/GeneralSubscribe/main/UnblockNeteaseMusic/NeteaseCloudMusic.list
 
 
 感谢以上分流规则作者的辛勤付出（排名不分先后）。

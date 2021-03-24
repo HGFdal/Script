@@ -1,26 +1,21 @@
 # NAME: NetEaseMusic
 # AUTHOR: 
 # REPO: 
-# UPDATED: 2021-03-24 01:46:50
-# DOMAIN-SUFFIX: 11
+# UPDATED: 2021-03-24 15:26:14
+# DOMAIN-SUFFIX: 8
 # IP-CIDR: 18
 # DOMAIN: 1
 # USER-AGENT: 6
-# DOMAIN-KEYWORD: 1
-# TOTAL: 37
+# TOTAL: 33
 DOMAIN,netease.ugcvideoss.ourdvs.com
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,api.iplay.163.com
-DOMAIN-SUFFIX,crash.163.com
 DOMAIN-SUFFIX,hz.netease.com
-DOMAIN-SUFFIX,imap.163.com
 DOMAIN-SUFFIX,mam.netease.com
-DOMAIN-SUFFIX,mr.da.netease.com
 DOMAIN-SUFFIX,music.126.com
 DOMAIN-SUFFIX,music.126.net
 DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,music.163.com.163jiasu.com
-DOMAIN-KEYWORD,netease
 IP-CIDR,101.71.154.241/32,no-resolve
 IP-CIDR,103.126.92.13/32,no-resolve
 IP-CIDR,103.126.92.132/31,no-resolve

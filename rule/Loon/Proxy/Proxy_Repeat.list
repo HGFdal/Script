@@ -1,7 +1,7 @@
 # NAME: Proxy 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 01:46:55.056985
+# UPDATED: 2021-03-24 15:26:18.975242
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 9to5 共 7 条规则重复
 DOMAIN-SUFFIX,9to5google.com
@@ -31528,29 +31528,6 @@ DOMAIN-SUFFIX,wiivc.net
 DOMAIN-SUFFIX,xenoblade.com
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,yoshisnewisland.com
-#  与 CBS 共 22 条规则重复
-DOMAIN-SUFFIX,cbs
-DOMAIN-SUFFIX,cbs.com
-DOMAIN-SUFFIX,cbsaavideo.com
-DOMAIN-SUFFIX,cbscorporation.com
-DOMAIN-SUFFIX,cbsi.com
-DOMAIN-SUFFIX,cbsi.video
-DOMAIN-SUFFIX,cbsiam.com
-DOMAIN-SUFFIX,cbsig.net
-DOMAIN-SUFFIX,cbsimg.net
-DOMAIN-SUFFIX,cbsinteractive.com
-DOMAIN-SUFFIX,cbsistatic.com
-DOMAIN-SUFFIX,cbsivideo.com
-DOMAIN-SUFFIX,cbsnews.com
-DOMAIN-SUFFIX,cbspressexpress.com
-DOMAIN-SUFFIX,cbssports.com
-DOMAIN-SUFFIX,cbsstatic.com
-DOMAIN-SUFFIX,cbssvideo.com
-DOMAIN-SUFFIX,paramount.com
-DOMAIN-SUFFIX,viacbs.com
-DOMAIN-SUFFIX,viacom.com
-DOMAIN-SUFFIX,viacomcbs.com
-DOMAIN-SUFFIX,viacomcbspressexpress.com
 #  与 SmarTone 共 11 条规则重复
 DOMAIN-SUFFIX,barkadahansasmartone.com
 DOMAIN-SUFFIX,hkcircleapp.com
@@ -31563,18 +31540,6 @@ DOMAIN-SUFFIX,smartoneholdings.com
 DOMAIN-SUFFIX,smartonerobotics.com
 DOMAIN-SUFFIX,valuegb.com
 DOMAIN-SUFFIX,wise-research.com
-#  与 Vercel 共 11 条规则重复
-DOMAIN-SUFFIX,now.sh
-DOMAIN-SUFFIX,vercel-dns.com
-DOMAIN-SUFFIX,vercel-status.com
-DOMAIN-SUFFIX,vercel.app
-DOMAIN-SUFFIX,vercel.com
-DOMAIN-SUFFIX,zeit-world.com
-DOMAIN-SUFFIX,zeit-world.net
-DOMAIN-SUFFIX,zeit-world.org
-DOMAIN-SUFFIX,zeit.co
-DOMAIN-SUFFIX,zeit.sh
-DOMAIN-SUFFIX,zeitworld.com
 #  与 PCCW 共 18 条规则重复
 DOMAIN-SUFFIX,esmarthealth.com
 DOMAIN-SUFFIX,hkcsl.com
@@ -31749,6 +31714,29 @@ DOMAIN-SUFFIX,zohoschools.com
 DOMAIN-SUFFIX,zohostatic.com
 DOMAIN-SUFFIX,zohouniversity.com
 DOMAIN-SUFFIX,zohowebstatic.com
+#  与 CBS 共 22 条规则重复
+DOMAIN-SUFFIX,cbs
+DOMAIN-SUFFIX,cbs.com
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbscorporation.com
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsi.video
+DOMAIN-SUFFIX,cbsiam.com
+DOMAIN-SUFFIX,cbsig.net
+DOMAIN-SUFFIX,cbsimg.net
+DOMAIN-SUFFIX,cbsinteractive.com
+DOMAIN-SUFFIX,cbsistatic.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,cbsnews.com
+DOMAIN-SUFFIX,cbspressexpress.com
+DOMAIN-SUFFIX,cbssports.com
+DOMAIN-SUFFIX,cbsstatic.com
+DOMAIN-SUFFIX,cbssvideo.com
+DOMAIN-SUFFIX,paramount.com
+DOMAIN-SUFFIX,viacbs.com
+DOMAIN-SUFFIX,viacom.com
+DOMAIN-SUFFIX,viacomcbs.com
+DOMAIN-SUFFIX,viacomcbspressexpress.com
 #  与 NYTimes 共 11 条规则重复
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nyt.net
@@ -31761,6 +31749,18 @@ DOMAIN-SUFFIX,nytimg.com
 DOMAIN-SUFFIX,nytlog.com
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,timestalks.com
+#  与 Vercel 共 11 条规则重复
+DOMAIN-SUFFIX,now.sh
+DOMAIN-SUFFIX,vercel-dns.com
+DOMAIN-SUFFIX,vercel-status.com
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,zeit-world.com
+DOMAIN-SUFFIX,zeit-world.net
+DOMAIN-SUFFIX,zeit-world.org
+DOMAIN-SUFFIX,zeit.co
+DOMAIN-SUFFIX,zeit.sh
+DOMAIN-SUFFIX,zeitworld.com
 #  与 Telegram 共 19 条规则重复
 DOMAIN-KEYWORD,telegram
 DOMAIN-SUFFIX,graph.org
@@ -33515,6 +33515,18 @@ DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
+#  与 Oracle 共 11 条规则重复
+DOMAIN-SUFFIX,ebay.be
+DOMAIN-SUFFIX,ebay.ch
+DOMAIN-SUFFIX,ebay.com
+DOMAIN-SUFFIX,ebay.it
+DOMAIN-SUFFIX,ebaycdn.net
+DOMAIN-SUFFIX,ebayimg.com
+DOMAIN-SUFFIX,ebayinc.com
+DOMAIN-SUFFIX,ebaymainstreet.com
+DOMAIN-SUFFIX,ebayprivacycenter.com
+DOMAIN-SUFFIX,ebayrtm.com
+DOMAIN-SUFFIX,ebaystatic.com
 #  与 Naver 共 26 条规则重复
 DOMAIN-SUFFIX,grafolio.com
 DOMAIN-SUFFIX,lin.ee
@@ -33542,18 +33554,6 @@ IP-CIDR,147.92.128.0/17
 IP-CIDR,203.104.103.0/24
 IP-CIDR,203.174.66.64/26
 IP-CIDR,203.174.77.0/24
-#  与 Oracle 共 11 条规则重复
-DOMAIN-SUFFIX,ebay.be
-DOMAIN-SUFFIX,ebay.ch
-DOMAIN-SUFFIX,ebay.com
-DOMAIN-SUFFIX,ebay.it
-DOMAIN-SUFFIX,ebaycdn.net
-DOMAIN-SUFFIX,ebayimg.com
-DOMAIN-SUFFIX,ebayinc.com
-DOMAIN-SUFFIX,ebaymainstreet.com
-DOMAIN-SUFFIX,ebayprivacycenter.com
-DOMAIN-SUFFIX,ebayrtm.com
-DOMAIN-SUFFIX,ebaystatic.com
 #  与 HBOHK 共 6 条规则重复
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbogo.com

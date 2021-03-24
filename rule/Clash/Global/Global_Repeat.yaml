@@ -1,7 +1,7 @@
 # NAME: Global 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 01:46:56.724594
+# UPDATED: 2021-03-24 15:26:20.552744
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 9to5 共 7 条规则重复
@@ -31634,29 +31634,6 @@ payload:
   - DOMAIN-SUFFIX,xenoblade.com
   - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
   - DOMAIN-SUFFIX,yoshisnewisland.com
-#  与 CBS 共 22 条规则重复
-  - DOMAIN-SUFFIX,cbs
-  - DOMAIN-SUFFIX,cbs.com
-  - DOMAIN-SUFFIX,cbsaavideo.com
-  - DOMAIN-SUFFIX,cbscorporation.com
-  - DOMAIN-SUFFIX,cbsi.com
-  - DOMAIN-SUFFIX,cbsi.video
-  - DOMAIN-SUFFIX,cbsiam.com
-  - DOMAIN-SUFFIX,cbsig.net
-  - DOMAIN-SUFFIX,cbsimg.net
-  - DOMAIN-SUFFIX,cbsinteractive.com
-  - DOMAIN-SUFFIX,cbsistatic.com
-  - DOMAIN-SUFFIX,cbsivideo.com
-  - DOMAIN-SUFFIX,cbsnews.com
-  - DOMAIN-SUFFIX,cbspressexpress.com
-  - DOMAIN-SUFFIX,cbssports.com
-  - DOMAIN-SUFFIX,cbsstatic.com
-  - DOMAIN-SUFFIX,cbssvideo.com
-  - DOMAIN-SUFFIX,paramount.com
-  - DOMAIN-SUFFIX,viacbs.com
-  - DOMAIN-SUFFIX,viacom.com
-  - DOMAIN-SUFFIX,viacomcbs.com
-  - DOMAIN-SUFFIX,viacomcbspressexpress.com
 #  与 SmarTone 共 11 条规则重复
   - DOMAIN-SUFFIX,barkadahansasmartone.com
   - DOMAIN-SUFFIX,hkcircleapp.com
@@ -31669,18 +31646,6 @@ payload:
   - DOMAIN-SUFFIX,smartonerobotics.com
   - DOMAIN-SUFFIX,valuegb.com
   - DOMAIN-SUFFIX,wise-research.com
-#  与 Vercel 共 11 条规则重复
-  - DOMAIN-SUFFIX,now.sh
-  - DOMAIN-SUFFIX,vercel-dns.com
-  - DOMAIN-SUFFIX,vercel-status.com
-  - DOMAIN-SUFFIX,vercel.app
-  - DOMAIN-SUFFIX,vercel.com
-  - DOMAIN-SUFFIX,zeit-world.com
-  - DOMAIN-SUFFIX,zeit-world.net
-  - DOMAIN-SUFFIX,zeit-world.org
-  - DOMAIN-SUFFIX,zeit.co
-  - DOMAIN-SUFFIX,zeit.sh
-  - DOMAIN-SUFFIX,zeitworld.com
 #  与 PCCW 共 18 条规则重复
   - DOMAIN-SUFFIX,esmarthealth.com
   - DOMAIN-SUFFIX,hkcsl.com
@@ -31828,6 +31793,29 @@ payload:
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,worldbank.org
   - DOMAIN-SUFFIX,yale.edu
+#  与 CBS 共 22 条规则重复
+  - DOMAIN-SUFFIX,cbs
+  - DOMAIN-SUFFIX,cbs.com
+  - DOMAIN-SUFFIX,cbsaavideo.com
+  - DOMAIN-SUFFIX,cbscorporation.com
+  - DOMAIN-SUFFIX,cbsi.com
+  - DOMAIN-SUFFIX,cbsi.video
+  - DOMAIN-SUFFIX,cbsiam.com
+  - DOMAIN-SUFFIX,cbsig.net
+  - DOMAIN-SUFFIX,cbsimg.net
+  - DOMAIN-SUFFIX,cbsinteractive.com
+  - DOMAIN-SUFFIX,cbsistatic.com
+  - DOMAIN-SUFFIX,cbsivideo.com
+  - DOMAIN-SUFFIX,cbsnews.com
+  - DOMAIN-SUFFIX,cbspressexpress.com
+  - DOMAIN-SUFFIX,cbssports.com
+  - DOMAIN-SUFFIX,cbsstatic.com
+  - DOMAIN-SUFFIX,cbssvideo.com
+  - DOMAIN-SUFFIX,paramount.com
+  - DOMAIN-SUFFIX,viacbs.com
+  - DOMAIN-SUFFIX,viacom.com
+  - DOMAIN-SUFFIX,viacomcbs.com
+  - DOMAIN-SUFFIX,viacomcbspressexpress.com
 #  与 Google 共 76 条规则重复
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,gmail
@@ -31927,6 +31915,18 @@ payload:
   - DOMAIN-SUFFIX,nytlog.com
   - DOMAIN-SUFFIX,nytstyle.com
   - DOMAIN-SUFFIX,timestalks.com
+#  与 Vercel 共 11 条规则重复
+  - DOMAIN-SUFFIX,now.sh
+  - DOMAIN-SUFFIX,vercel-dns.com
+  - DOMAIN-SUFFIX,vercel-status.com
+  - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,vercel.com
+  - DOMAIN-SUFFIX,zeit-world.com
+  - DOMAIN-SUFFIX,zeit-world.net
+  - DOMAIN-SUFFIX,zeit-world.org
+  - DOMAIN-SUFFIX,zeit.co
+  - DOMAIN-SUFFIX,zeit.sh
+  - DOMAIN-SUFFIX,zeitworld.com
 #  与 Game 共 356 条规则重复
   - DOMAIN-SUFFIX,100classicbooks.com
   - DOMAIN-SUFFIX,ac-pocketcamp.com
@@ -33553,6 +33553,24 @@ payload:
   - DOMAIN-SUFFIX,vpro.net
   - DOMAIN-SUFFIX,xeon.com
   - DOMAIN-SUFFIX,xscale.com
+#  与 Dailymail 共 8 条规则重复
+  - DOMAIN-SUFFIX,dailym.ai
+  - DOMAIN-SUFFIX,dailymail.co.uk
+  - DOMAIN-SUFFIX,dailymail.com
+  - DOMAIN-SUFFIX,dailymailonline.com
+  - DOMAIN-SUFFIX,mailhealth.com
+  - DOMAIN-SUFFIX,mailonline.com
+  - DOMAIN-SUFFIX,mol.im
+  - DOMAIN-SUFFIX,thismon.ee
+#  与 OneDrive 共 8 条规则重复
+  - DOMAIN-KEYWORD,1drv
+  - DOMAIN-KEYWORD,onedrive
+  - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-SUFFIX,1drv.com
+  - DOMAIN-SUFFIX,livefilestore.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,sharepointonline.com
 #  与 Naver 共 28 条规则重复
   - DOMAIN-SUFFIX,chocotv.com.tw
   - DOMAIN-SUFFIX,grafolio.com
@@ -33582,24 +33600,6 @@ payload:
   - IP-CIDR,203.104.103.0/24
   - IP-CIDR,203.174.66.64/26
   - IP-CIDR,203.174.77.0/24
-#  与 Dailymail 共 8 条规则重复
-  - DOMAIN-SUFFIX,dailym.ai
-  - DOMAIN-SUFFIX,dailymail.co.uk
-  - DOMAIN-SUFFIX,dailymail.com
-  - DOMAIN-SUFFIX,dailymailonline.com
-  - DOMAIN-SUFFIX,mailhealth.com
-  - DOMAIN-SUFFIX,mailonline.com
-  - DOMAIN-SUFFIX,mol.im
-  - DOMAIN-SUFFIX,thismon.ee
-#  与 OneDrive 共 8 条规则重复
-  - DOMAIN-KEYWORD,1drv
-  - DOMAIN-KEYWORD,onedrive
-  - DOMAIN-KEYWORD,skydrive
-  - DOMAIN-SUFFIX,1drv.com
-  - DOMAIN-SUFFIX,livefilestore.com
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,sharepointonline.com
 #  与 Apple 共 43 条规则重复
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-dns.net

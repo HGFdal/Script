@@ -1,7 +1,7 @@
 # NAME: ChinaMobile
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 01:46:42.235626
+# UPDATED: 2021-03-24 15:26:07.053154
 # HOST-SUFFIX: 28
 # TOTAL: 28
 HOST-SUFFIX,10086.cn,ChinaMobile

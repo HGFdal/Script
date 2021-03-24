@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 01:46:52.859817
+# UPDATED: 2021-03-24 15:26:16.901892
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -3022,7 +3022,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 60142 条规则重复
+#  与 Advertising 共 60145 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -3607,7 +3607,6 @@ HOST,adcentre.it-advanced.com
 HOST,adclick.eqmob.com
 HOST,adclick.lv
 HOST,adclickthru.net
-HOST,adclient.163.com
 HOST,adcoin.click
 HOST,adcpl-india.com
 HOST,addictingcheats.com
@@ -6964,6 +6963,7 @@ HOST,dhruvsilver.com
 HOST,diag.doba.com
 HOST,diagnosis.ad.xiaomi.com
 HOST,dial4data.com
+HOST,dialerporn.com
 HOST,diamondores.com
 HOST,dianeellease.com
 HOST,dianepiette.co.uk
@@ -8655,6 +8655,7 @@ HOST,gamlen000.000webhostapp.com
 HOST,gamma.act-on.com
 HOST,gandertrading.com
 HOST,gandjaircraft.com
+HOST,gang.rw33.cn
 HOST,gangsterrock.com
 HOST,gaogroupinc.com
 HOST,gaohaiying.com
@@ -9119,6 +9120,7 @@ HOST,gwbak.nickymaru.com
 HOST,gwmtracker.com
 HOST,gwn.tinkermobi.com
 HOST,gwrtdp.tclclouds.com
+HOST,gwtraffic.com
 HOST,gxprocord.com
 HOST,gyroscopereview.com
 HOST,gztianfu.net
@@ -14622,6 +14624,7 @@ HOST,sp-res.kosungames.com
 HOST,sp.analytics.yahoo.com
 HOST,space2019.top
 HOST,spacefiled.com
+HOST,spacemega.com
 HOST,spacesarchitects-ka.com
 HOST,spain-poetry.com
 HOST,spanking-sex.com
@@ -63189,7 +63192,7 @@ HOST-SUFFIX,ucweb.com
 HOST-SUFFIX,uflowx.com
 HOST-SUFFIX,xiaomengquan.cn
 HOST-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 15786 条规则重复
+#  与 AdvertisingLite 共 15787 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0d847862199.com
 HOST,0icep80f.com
@@ -63521,6 +63524,7 @@ HOST,freeserials.ws
 HOST,funchill.com
 HOST,fxwpmfdapcalu.com
 HOST,g05.info
+HOST,gang.rw33.cn
 HOST,generalchemicalsupply.com
 HOST,getdatanetukscan.info
 HOST,gklmedia.com

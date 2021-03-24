@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 01:46:46.314929
+# UPDATED: 2021-03-24 15:26:10.831758
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15327
-# DOMAIN: 15131
+# DOMAIN: 15139
 # IP-CIDR: 192
 # IP-CIDR6: 1
-# TOTAL: 30680
+# TOTAL: 30688
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -2241,6 +2241,7 @@ payload:
   - DOMAIN,atonato.de
   - DOMAIN,atp.io
   - DOMAIN,atpanel.com
+  - DOMAIN,atpqczsqjsxvln.com
   - DOMAIN,atraxio.com
   - DOMAIN,atresadvertising.com
   - DOMAIN,atsfi.de
@@ -5345,6 +5346,7 @@ payload:
   - DOMAIN,ewebanalytics.com
   - DOMAIN,ewebcounter.com
   - DOMAIN,ewebse.com
+  - DOMAIN,ewitsorrgm.com
   - DOMAIN,ex.technor.com
   - DOMAIN,exactag.com
   - DOMAIN,exactdrive.com
@@ -5913,6 +5915,7 @@ payload:
   - DOMAIN,gamevui24.com
   - DOMAIN,gammachug.com
   - DOMAIN,ganardineroreal.com
+  - DOMAIN,gang.rw33.cn
   - DOMAIN,ganja.com
   - DOMAIN,gannett.gcion.com
   - DOMAIN,gaoguai.com
@@ -8724,6 +8727,7 @@ payload:
   - DOMAIN,mon-gbr-1.inf.nimiq.network
   - DOMAIN,mon.snssdk.com
   - DOMAIN,monad-rtb.com
+  - DOMAIN,monerise.com
   - DOMAIN,monerominer.rocks
   - DOMAIN,moneroocean.stream
   - DOMAIN,monetate.net
@@ -9346,6 +9350,7 @@ payload:
   - DOMAIN,nyacampwk.com
   - DOMAIN,nyadmcncserve-05y06a.com
   - DOMAIN,nyctrl32.com
+  - DOMAIN,nyhpwuns.com
   - DOMAIN,nyhpyq.com
   - DOMAIN,nyltx.com
   - DOMAIN,nymphdate.com
@@ -9641,7 +9646,6 @@ payload:
   - DOMAIN,osvryhznx.com
   - DOMAIN,otaijing.com
   - DOMAIN,otaserve.net
-  - DOMAIN,other.v.duowan.com
   - DOMAIN,othernedm.info
   - DOMAIN,otherprofit.com
   - DOMAIN,othersonline.com
@@ -11428,6 +11432,7 @@ payload:
   - DOMAIN,sddnserror8.wo.com.cn
   - DOMAIN,sddnserror9.wo.com.cn
   - DOMAIN,sdfsdvc.com
+  - DOMAIN,sdgreg.cn
   - DOMAIN,sdk.api.oaid.wocloud.cn
   - DOMAIN,sdk.appadhoc.com.bsclink.cn
   - DOMAIN,sdk.zsdfm.com
@@ -11857,6 +11862,7 @@ payload:
   - DOMAIN,skinected.com
   - DOMAIN,skkybrought.pro
   - DOMAIN,skl.zhazhiwei.com
+  - DOMAIN,sknkwpvrkz.com
   - DOMAIN,skoovyads.com
   - DOMAIN,skqfrvciqfco.com
   - DOMAIN,skryptcookies.pl
@@ -13077,6 +13083,7 @@ payload:
   - DOMAIN,tpdads.com
   - DOMAIN,tpm.pw
   - DOMAIN,tpn134.com
+  - DOMAIN,tpnads.com
   - DOMAIN,tqddgnqsrya.com
   - DOMAIN,tqlkg.com
   - DOMAIN,tr.jianshu.com
@@ -13908,6 +13915,7 @@ payload:
   - DOMAIN,vizury.com
   - DOMAIN,vizzit.se
   - DOMAIN,vjie.com
+  - DOMAIN,vjsxvihazrwypb.com
   - DOMAIN,vjuvorqe.com
   - DOMAIN,vkaofq64zz.com
   - DOMAIN,vkcdnservice.com

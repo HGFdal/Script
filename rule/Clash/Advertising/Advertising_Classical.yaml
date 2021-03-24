@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 01:46:46.467495
+# UPDATED: 2021-03-24 15:26:10.967411
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 45668
-# DOMAIN: 20687
+# DOMAIN: 20728
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 66660
+# TOTAL: 66701
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -803,6 +803,7 @@ payload:
   - DOMAIN,abc.au345.com
   - DOMAIN,abc.yuedea.com
   - DOMAIN,abcdespanol.com
+  - DOMAIN,abckj123.com
   - DOMAIN,abclauncher.com
   - DOMAIN,abctoppictures.net
   - DOMAIN,abdcbuae.com
@@ -1145,7 +1146,6 @@ payload:
   - DOMAIN,adclick.lv
   - DOMAIN,adclickthru.net
   - DOMAIN,adclickxpress.com
-  - DOMAIN,adclient.163.com
   - DOMAIN,adclient1.tucows.com
   - DOMAIN,adcode.rontar.com
   - DOMAIN,adcoin.click
@@ -2707,6 +2707,7 @@ payload:
   - DOMAIN,amc.actonsoftware.com
   - DOMAIN,amecargo.com
   - DOMAIN,amerarani.com
+  - DOMAIN,america.monerise.com
   - DOMAIN,american-prize-center.com
   - DOMAIN,americanfriendsofreuth.org
   - DOMAIN,americash.com
@@ -3010,6 +3011,7 @@ payload:
   - DOMAIN,api.micloud.xiaomi.net
   - DOMAIN,api.mobpalm.com
   - DOMAIN,api.mobpowertech.com
+  - DOMAIN,api.monerise.com
   - DOMAIN,api.newshuntads.com
   - DOMAIN,api.p2nservice.com
   - DOMAIN,api.quantumgraph.com
@@ -3070,11 +3072,13 @@ payload:
   - DOMAIN,api9.dating.com
   - DOMAIN,api9.tuisong.baidu.com
   - DOMAIN,apiaggr.smi2.net
+  - DOMAIN,apib.monerise.com
   - DOMAIN,apibeta.zeti.com
   - DOMAIN,apibookprinting.com
   - DOMAIN,apieast.touchcommerce.com
   - DOMAIN,apiin.lbesecapi.com
   - DOMAIN,apiinit.amap.com
+  - DOMAIN,apin.monerise.com
   - DOMAIN,apipool.youzu.com
   - DOMAIN,apis.appnxt.net
   - DOMAIN,apiv4.subiz.com
@@ -3320,6 +3324,7 @@ payload:
   - DOMAIN,ashlynnbrookevideos.com
   - DOMAIN,ashtreeproperties.com
   - DOMAIN,asia.bm.traakr.com
+  - DOMAIN,asia.monerise.com
   - DOMAIN,asiabizconsult.com
   - DOMAIN,asianmeals.com
   - DOMAIN,asiantraffic.net
@@ -3427,6 +3432,7 @@ payload:
   - DOMAIN,auth2.cityads.com
   - DOMAIN,authbe.sec.intl.miui.com
   - DOMAIN,authorizations-wfb.xyz
+  - DOMAIN,auto.monerise.com
   - DOMAIN,autobodiparts.com
   - DOMAIN,autoconexion.com
   - DOMAIN,autodengi.com
@@ -3927,6 +3933,7 @@ payload:
   - DOMAIN,beta.accountkit.com
   - DOMAIN,beta.adbucks.com
   - DOMAIN,beta.go.masoffer.net
+  - DOMAIN,beta.monerise.com
   - DOMAIN,beta.mybestmv.com
   - DOMAIN,beta.newopenx.detik.com
   - DOMAIN,beta.smi2.net
@@ -5746,6 +5753,7 @@ payload:
   - DOMAIN,commonwealthcpr.com
   - DOMAIN,community.allhiphop.com
   - DOMAIN,community.clickability.com
+  - DOMAIN,community.monerise.com
   - DOMAIN,community.unbounce.com
   - DOMAIN,community2.clickability.com
   - DOMAIN,compactbanner.com
@@ -6363,6 +6371,7 @@ payload:
   - DOMAIN,dashboard.admost.com
   - DOMAIN,dashboard.adsota.com
   - DOMAIN,dashboard.fyber.com
+  - DOMAIN,dashboard.monerise.com
   - DOMAIN,dashboard.subiz.com
   - DOMAIN,dashingdirt.com
   - DOMAIN,dashingsweater.com
@@ -6555,6 +6564,7 @@ payload:
   - DOMAIN,derekthedp.com
   - DOMAIN,derkeiler.com
   - DOMAIN,dermatovenerologiya.com
+  - DOMAIN,dero.monerise.com
   - DOMAIN,des.digicert.com
   - DOMAIN,desasukolilo.com
   - DOMAIN,desb.mspaceads.com
@@ -6626,6 +6636,7 @@ payload:
   - DOMAIN,diag.doba.com
   - DOMAIN,diagnosis.ad.xiaomi.com
   - DOMAIN,dial4data.com
+  - DOMAIN,dialerporn.com
   - DOMAIN,diamond88bet.com
   - DOMAIN,diamondores.com
   - DOMAIN,diamongs.com
@@ -7281,6 +7292,7 @@ payload:
   - DOMAIN,electcorymccray.com
   - DOMAIN,electrest.net
   - DOMAIN,electrogaspoint.com
+  - DOMAIN,electroneum.monerise.com
   - DOMAIN,elephantdata.net
   - DOMAIN,elephantqueue.com
   - DOMAIN,elew72isst.rr.nu
@@ -7522,7 +7534,9 @@ payload:
   - DOMAIN,eu-pn2.adserver.yahoo.com
   - DOMAIN,eu-pn4.adserver.yahoo.com
   - DOMAIN,eu.crittercism.com
+  - DOMAIN,eu.monerise.com
   - DOMAIN,eu.vortex-win.data.microsoft.com
+  - DOMAIN,eu2.monerise.com
   - DOMAIN,euadsapi.manhuaren.com
   - DOMAIN,eue.collect-opnet.com
   - DOMAIN,eugenebhangra.com
@@ -7535,6 +7549,7 @@ payload:
   - DOMAIN,eurolatexthai.com
   - DOMAIN,europcareer.com
   - DOMAIN,europe.adserver.yahoo.com
+  - DOMAIN,europe.monerise.com
   - DOMAIN,europeantransfer.com
   - DOMAIN,eurospanker.com
   - DOMAIN,eurotech-cm.com
@@ -7648,6 +7663,7 @@ payload:
   - DOMAIN,extafiles.com
   - DOMAIN,extengames.com
   - DOMAIN,extensiongames.com
+  - DOMAIN,external.monerise.com
   - DOMAIN,extfiles.net
   - DOMAIN,extintoresoriental.com
   - DOMAIN,extofiles.com
@@ -8201,6 +8217,7 @@ payload:
   - DOMAIN,fr.best-hacks.net
   - DOMAIN,fr.fabulashesbytrisha.com
   - DOMAIN,fr.mediaplayercodecpack.com
+  - DOMAIN,fr1.monerise.com
   - DOMAIN,francaise-poesie.com
   - DOMAIN,france-leasebacks.com
   - DOMAIN,france.get4games.com
@@ -8676,6 +8693,7 @@ payload:
   - DOMAIN,gandalf.younetmedia.com
   - DOMAIN,gandertrading.com
   - DOMAIN,gandjaircraft.com
+  - DOMAIN,gang.rw33.cn
   - DOMAIN,gangsterrock.com
   - DOMAIN,gaogroupinc.com
   - DOMAIN,gaohaiying.com
@@ -9138,6 +9156,7 @@ payload:
   - DOMAIN,gracembk.com
   - DOMAIN,grafatorio.com
   - DOMAIN,graficasseryal.com
+  - DOMAIN,graft.monerise.com
   - DOMAIN,grampreico.com
   - DOMAIN,grand-ads.com
   - DOMAIN,grand-prix.cityads.com
@@ -9310,6 +9329,7 @@ payload:
   - DOMAIN,gwmtracker.com
   - DOMAIN,gwn.tinkermobi.com
   - DOMAIN,gwrtdp.tclclouds.com
+  - DOMAIN,gwtraffic.com
   - DOMAIN,gxprocord.com
   - DOMAIN,gyroscopereview.com
   - DOMAIN,gztianfu.net
@@ -11819,10 +11839,12 @@ payload:
   - DOMAIN,m.wantmatures.com
   - DOMAIN,m.widget.subiz.com
   - DOMAIN,m.yyfymj.com
+  - DOMAIN,m001.monerise.com
   - DOMAIN,m01.webwise.net
   - DOMAIN,m01.webwise.org
   - DOMAIN,m02.webwise.net
   - DOMAIN,m02.webwise.org
+  - DOMAIN,m1.monerise.com
   - DOMAIN,m1.webstats.motigo.com
   - DOMAIN,m1crosoft.com
   - DOMAIN,m2.clickability.com
@@ -12649,6 +12671,8 @@ payload:
   - DOMAIN,monde-gourmandises.net
   - DOMAIN,mondoads.s3.amazonaws.com
   - DOMAIN,mondoperaio.net
+  - DOMAIN,monerise.com
+  - DOMAIN,monero.monerise.com
   - DOMAIN,monetizemore.com
   - DOMAIN,money.payadded.com
   - DOMAIN,moneybot.net
@@ -13018,6 +13042,7 @@ payload:
   - DOMAIN,n388hkxg.com
   - DOMAIN,n8s.jp
   - DOMAIN,na.ads.yahoo.com
+  - DOMAIN,na.monerise.com
   - DOMAIN,nadegda-95.ru
   - DOMAIN,nage2017.com
   - DOMAIN,nagios.smi2.net
@@ -13297,6 +13322,7 @@ payload:
   - DOMAIN,nl.adserver.yahoo.com
   - DOMAIN,nl.clickability.com
   - DOMAIN,nl.mediaplayercodecpack.com
+  - DOMAIN,nl1.monerise.com
   - DOMAIN,nl2.clickability.com
   - DOMAIN,nlcwebtv.com
   - DOMAIN,nlserver.xyz
@@ -13503,6 +13529,7 @@ payload:
   - DOMAIN,obscenesidewalk.com
   - DOMAIN,observantice.com
   - DOMAIN,obsessionphrases.com
+  - DOMAIN,oc.monerise.com
   - DOMAIN,oceanbluegallerybelmont.com
   - DOMAIN,ocheartsavers.com
   - DOMAIN,ocpersian.com
@@ -13791,6 +13818,7 @@ payload:
   - DOMAIN,otpercpiheno.blogspot.com
   - DOMAIN,otramano.org
   - DOMAIN,otrs.fyber.com
+  - DOMAIN,otsserver.com
   - DOMAIN,oukrocky.com
   - DOMAIN,ouptoobe.net
   - DOMAIN,our.affiliatetracking.net
@@ -15570,6 +15598,7 @@ payload:
   - DOMAIN,rtbstream.com
   - DOMAIN,rtbtraf.com
   - DOMAIN,rtrlseqbudrzfd.com
+  - DOMAIN,rtw.monerise.com
   - DOMAIN,rtxplatform.com
   - DOMAIN,ru-geo.cityads.com
   - DOMAIN,ru-traffic.com
@@ -15648,6 +15677,9 @@ payload:
   - DOMAIN,s.worldofmacros.net
   - DOMAIN,s.zkcdn.net
   - DOMAIN,s.zlhudong.com
+  - DOMAIN,s001.monerise.com
+  - DOMAIN,s002.monerise.com
+  - DOMAIN,s003.monerise.com
   - DOMAIN,s01.delivery.addynamo.com
   - DOMAIN,s1-adfly.com
   - DOMAIN,s1.adformdsp.net
@@ -15672,6 +15704,7 @@ payload:
   - DOMAIN,s8log.storm8.com
   - DOMAIN,s9kkremkr0.com
   - DOMAIN,sa.api.intl.miui.com
+  - DOMAIN,sa.monerise.com
   - DOMAIN,sa0.tuisong.baidu.com
   - DOMAIN,sa1.tuisong.baidu.com
   - DOMAIN,sa3.tuisong.baidu.com
@@ -16758,6 +16791,7 @@ payload:
   - DOMAIN,spacash.com
   - DOMAIN,space2019.top
   - DOMAIN,spacefiled.com
+  - DOMAIN,spacemega.com
   - DOMAIN,spacesarchitects-ka.com
   - DOMAIN,spain-poetry.com
   - DOMAIN,spanking-sex.com
@@ -17640,6 +17674,7 @@ payload:
   - DOMAIN,te.chron.com
   - DOMAIN,te.cleveland.net
   - DOMAIN,te.greenwichtime.com
+  - DOMAIN,te.mysanantonio.com
   - DOMAIN,te.sfgate.com
   - DOMAIN,te.stamfordadvocate.com
   - DOMAIN,te.thestar.com
@@ -18138,6 +18173,7 @@ payload:
   - DOMAIN,topsurfer.com
   - DOMAIN,toptipstotravel.com
   - DOMAIN,topwinnerglobal.com
+  - DOMAIN,tor.monerise.com
   - DOMAIN,torereach.net
   - DOMAIN,torrentgamer.net
   - DOMAIN,torreslimos.com
@@ -18941,6 +18977,8 @@ payload:
   - DOMAIN,us.smsapi.micloud.xiaomi.net
   - DOMAIN,us.unidingcom.com
   - DOMAIN,us.vortex-win.data.microsoft.com
+  - DOMAIN,us1.monerise.com
+  - DOMAIN,us2.monerise.com
   - DOMAIN,usa-jiaji.com
   - DOMAIN,usa.bravo-dog.com
   - DOMAIN,usa.dauid-iep.com
@@ -19585,6 +19623,7 @@ payload:
   - DOMAIN,webuysupplystore.mooo.com
   - DOMAIN,webwatcherdata.com
   - DOMAIN,webwise.bt.com
+  - DOMAIN,webwise.com
   - DOMAIN,webwise.net
   - DOMAIN,webwise.org
   - DOMAIN,webxion.com
@@ -19828,6 +19867,8 @@ payload:
   - DOMAIN,ws-widget-lb-1.subiz.com
   - DOMAIN,ws-widget-lb-2.subiz.com
   - DOMAIN,wsey.000webhostapp.com
+  - DOMAIN,wss-1.monerise.com
+  - DOMAIN,wss-2.monerise.com
   - DOMAIN,wss.pollfish.com
   - DOMAIN,wss.rand.com.ru
   - DOMAIN,wstvcgfkvc.com

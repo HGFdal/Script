@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 01:46:54.484189
+# UPDATED: 2021-03-24 15:26:18.438286
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -3022,7 +3022,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 60448 条规则重复
+#  与 Advertising 共 60451 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -3607,7 +3607,6 @@ DOMAIN,adcentre.it-advanced.com
 DOMAIN,adclick.eqmob.com
 DOMAIN,adclick.lv
 DOMAIN,adclickthru.net
-DOMAIN,adclient.163.com
 DOMAIN,adcoin.click
 DOMAIN,adcpl-india.com
 DOMAIN,addictingcheats.com
@@ -6964,6 +6963,7 @@ DOMAIN,dhruvsilver.com
 DOMAIN,diag.doba.com
 DOMAIN,diagnosis.ad.xiaomi.com
 DOMAIN,dial4data.com
+DOMAIN,dialerporn.com
 DOMAIN,diamondores.com
 DOMAIN,dianeellease.com
 DOMAIN,dianepiette.co.uk
@@ -8655,6 +8655,7 @@ DOMAIN,gamlen000.000webhostapp.com
 DOMAIN,gamma.act-on.com
 DOMAIN,gandertrading.com
 DOMAIN,gandjaircraft.com
+DOMAIN,gang.rw33.cn
 DOMAIN,gangsterrock.com
 DOMAIN,gaogroupinc.com
 DOMAIN,gaohaiying.com
@@ -9119,6 +9120,7 @@ DOMAIN,gwbak.nickymaru.com
 DOMAIN,gwmtracker.com
 DOMAIN,gwn.tinkermobi.com
 DOMAIN,gwrtdp.tclclouds.com
+DOMAIN,gwtraffic.com
 DOMAIN,gxprocord.com
 DOMAIN,gyroscopereview.com
 DOMAIN,gztianfu.net
@@ -14622,6 +14624,7 @@ DOMAIN,sp-res.kosungames.com
 DOMAIN,sp.analytics.yahoo.com
 DOMAIN,space2019.top
 DOMAIN,spacefiled.com
+DOMAIN,spacemega.com
 DOMAIN,spacesarchitects-ka.com
 DOMAIN,spain-poetry.com
 DOMAIN,spanking-sex.com
@@ -63495,7 +63498,7 @@ DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uflowx.com
 DOMAIN-SUFFIX,xiaomengquan.cn
 DOMAIN-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16085 条规则重复
+#  与 AdvertisingLite 共 16086 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0d847862199.com
 DOMAIN,0icep80f.com
@@ -63827,6 +63830,7 @@ DOMAIN,freeserials.ws
 DOMAIN,funchill.com
 DOMAIN,fxwpmfdapcalu.com
 DOMAIN,g05.info
+DOMAIN,gang.rw33.cn
 DOMAIN,generalchemicalsupply.com
 DOMAIN,getdatanetukscan.info
 DOMAIN,gklmedia.com

@@ -1,10 +1,10 @@
 # NAME: CBS
 # AUTHOR: 
 # REPO: 
-# UPDATED: 2021-03-24 01:46:49
-# DOMAIN-SUFFIX: 29
+# UPDATED: 2021-03-24 15:26:13
+# DOMAIN-SUFFIX: 31
 # USER-AGENT: 1
-# TOTAL: 30
+# TOTAL: 32
 DOMAIN-SUFFIX,cbs
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cbsaavideo.com
@@ -19,8 +19,10 @@ DOMAIN-SUFFIX,cbsinteractive.com
 DOMAIN-SUFFIX,cbsistatic.com
 DOMAIN-SUFFIX,cbsivideo.com
 DOMAIN-SUFFIX,cbsnews.com
+DOMAIN-SUFFIX,cbsplaylistserver.aws.syncbak.com
 DOMAIN-SUFFIX,cbspressexpress.com
 DOMAIN-SUFFIX,cbsradio.com
+DOMAIN-SUFFIX,cbsservice.aws.syncbak.com
 DOMAIN-SUFFIX,cbssports.com
 DOMAIN-SUFFIX,cbsstatic.com
 DOMAIN-SUFFIX,cbsstore.com

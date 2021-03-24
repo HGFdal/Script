@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 01:46:41.737366
+# UPDATED: 2021-03-24 15:26:06.600842
 # HOST-KEYWORD: 29
 # HOST-SUFFIX: 15327
-# HOST: 15131
+# HOST: 15139
 # IP-CIDR: 192
 # USER-AGENT: 1
 # IP6-CIDR: 1
-# TOTAL: 30681
+# TOTAL: 30689
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,006a039c957c142bb.com,AdvertisingLite
@@ -2241,6 +2241,7 @@ HOST,atomex.net,AdvertisingLite
 HOST,atonato.de,AdvertisingLite
 HOST,atp.io,AdvertisingLite
 HOST,atpanel.com,AdvertisingLite
+HOST,atpqczsqjsxvln.com,AdvertisingLite
 HOST,atraxio.com,AdvertisingLite
 HOST,atresadvertising.com,AdvertisingLite
 HOST,atsfi.de,AdvertisingLite
@@ -5345,6 +5346,7 @@ HOST,ew3.io,AdvertisingLite
 HOST,ewebanalytics.com,AdvertisingLite
 HOST,ewebcounter.com,AdvertisingLite
 HOST,ewebse.com,AdvertisingLite
+HOST,ewitsorrgm.com,AdvertisingLite
 HOST,ex.technor.com,AdvertisingLite
 HOST,exactag.com,AdvertisingLite
 HOST,exactdrive.com,AdvertisingLite
@@ -5913,6 +5915,7 @@ HOST,gamesrevenue.com,AdvertisingLite
 HOST,gamevui24.com,AdvertisingLite
 HOST,gammachug.com,AdvertisingLite
 HOST,ganardineroreal.com,AdvertisingLite
+HOST,gang.rw33.cn,AdvertisingLite
 HOST,ganja.com,AdvertisingLite
 HOST,gannett.gcion.com,AdvertisingLite
 HOST,gaoguai.com,AdvertisingLite
@@ -8724,6 +8727,7 @@ HOST,mon-fra-2.inf.nimiq.network,AdvertisingLite
 HOST,mon-gbr-1.inf.nimiq.network,AdvertisingLite
 HOST,mon.snssdk.com,AdvertisingLite
 HOST,monad-rtb.com,AdvertisingLite
+HOST,monerise.com,AdvertisingLite
 HOST,monerominer.rocks,AdvertisingLite
 HOST,moneroocean.stream,AdvertisingLite
 HOST,monetate.net,AdvertisingLite
@@ -9346,6 +9350,7 @@ HOST,ny5159.com,AdvertisingLite
 HOST,nyacampwk.com,AdvertisingLite
 HOST,nyadmcncserve-05y06a.com,AdvertisingLite
 HOST,nyctrl32.com,AdvertisingLite
+HOST,nyhpwuns.com,AdvertisingLite
 HOST,nyhpyq.com,AdvertisingLite
 HOST,nyltx.com,AdvertisingLite
 HOST,nymphdate.com,AdvertisingLite
@@ -9641,7 +9646,6 @@ HOST,ospserver.net,AdvertisingLite
 HOST,osvryhznx.com,AdvertisingLite
 HOST,otaijing.com,AdvertisingLite
 HOST,otaserve.net,AdvertisingLite
-HOST,other.v.duowan.com,AdvertisingLite
 HOST,othernedm.info,AdvertisingLite
 HOST,otherprofit.com,AdvertisingLite
 HOST,othersonline.com,AdvertisingLite
@@ -11428,6 +11432,7 @@ HOST,sddnserror7.wo.com.cn,AdvertisingLite
 HOST,sddnserror8.wo.com.cn,AdvertisingLite
 HOST,sddnserror9.wo.com.cn,AdvertisingLite
 HOST,sdfsdvc.com,AdvertisingLite
+HOST,sdgreg.cn,AdvertisingLite
 HOST,sdk.api.oaid.wocloud.cn,AdvertisingLite
 HOST,sdk.appadhoc.com.bsclink.cn,AdvertisingLite
 HOST,sdk.zsdfm.com,AdvertisingLite
@@ -11857,6 +11862,7 @@ HOST,skidki-yuga.ru,AdvertisingLite
 HOST,skinected.com,AdvertisingLite
 HOST,skkybrought.pro,AdvertisingLite
 HOST,skl.zhazhiwei.com,AdvertisingLite
+HOST,sknkwpvrkz.com,AdvertisingLite
 HOST,skoovyads.com,AdvertisingLite
 HOST,skqfrvciqfco.com,AdvertisingLite
 HOST,skryptcookies.pl,AdvertisingLite
@@ -13077,6 +13083,7 @@ HOST,tovery.net,AdvertisingLite
 HOST,tpdads.com,AdvertisingLite
 HOST,tpm.pw,AdvertisingLite
 HOST,tpn134.com,AdvertisingLite
+HOST,tpnads.com,AdvertisingLite
 HOST,tqddgnqsrya.com,AdvertisingLite
 HOST,tqlkg.com,AdvertisingLite
 HOST,tr.jianshu.com,AdvertisingLite
@@ -13908,6 +13915,7 @@ HOST,vizisense.net,AdvertisingLite
 HOST,vizury.com,AdvertisingLite
 HOST,vizzit.se,AdvertisingLite
 HOST,vjie.com,AdvertisingLite
+HOST,vjsxvihazrwypb.com,AdvertisingLite
 HOST,vjuvorqe.com,AdvertisingLite
 HOST,vkaofq64zz.com,AdvertisingLite
 HOST,vkcdnservice.com,AdvertisingLite

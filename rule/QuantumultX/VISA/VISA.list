@@ -1,7 +1,7 @@
 # NAME: VISA
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 01:46:43.398405
+# UPDATED: 2021-03-24 15:26:08.159449
 # HOST-SUFFIX: 99
 # TOTAL: 99
 HOST-SUFFIX,visa.be,VISA

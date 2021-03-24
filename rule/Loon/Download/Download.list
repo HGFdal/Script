@@ -1,7 +1,7 @@
 # NAME: Download
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 01:46:44.622543
+# UPDATED: 2021-03-24 15:26:09.275295
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 5
 # URL-REGEX: 7

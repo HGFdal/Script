@@ -1,9 +1,9 @@
 # NAME: Vercel
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 01:46:45.873280
-# DOMAIN-SUFFIX: 15
-# TOTAL: 15
+# UPDATED: 2021-03-24 15:26:10.429446
+# DOMAIN-SUFFIX: 16
+# TOTAL: 16
 DOMAIN-SUFFIX,nextjs.org
 DOMAIN-SUFFIX,now.sh
 DOMAIN-SUFFIX,vercel-analytics.com
@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,vercel-insights.com
 DOMAIN-SUFFIX,vercel-status.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,vercel.link
 DOMAIN-SUFFIX,zeit-world.co.uk
 DOMAIN-SUFFIX,zeit-world.com
 DOMAIN-SUFFIX,zeit-world.net

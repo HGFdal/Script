@@ -1,7 +1,7 @@
 # NAME: GlobalMedia 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 01:46:55.099258
+# UPDATED: 2021-03-24 15:26:19.012974
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 HuluJP 共 5 条规则重复
 DOMAIN-SUFFIX,happyon.jp
@@ -184,10 +184,3 @@ DOMAIN-SUFFIX,hulustream.com
 DOMAIN-SUFFIX,prod.hjholdings.tv
 DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,yb.uncn.jp
-#  与 CBS 共 6 条规则重复
-DOMAIN-SUFFIX,cbsaavideo.com
-DOMAIN-SUFFIX,cbsi.com
-DOMAIN-SUFFIX,cbsivideo.com
-DOMAIN-SUFFIX,paramountplus.com
-DOMAIN-SUFFIX,pplusstatic.com
-USER-AGENT,PPlus*
