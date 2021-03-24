@@ -1,16 +1,16 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 15:26:04.266749
+# UPDATED: 2021-03-24 16:03:39.227712
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15327
-# DOMAIN: 15139
+# DOMAIN: 15140
 # IP-CIDR: 192
 # USER-AGENT: 1
 # IP-CIDR6: 1
 # URL-REGEX: 299
-# TOTAL: 30988
+# TOTAL: 30989
 0.up.qingdaonews.com
 00-gov.cn
 006a039c957c142bb.com
@@ -4699,6 +4699,7 @@ dl.weshineapp.com
 dl1d2m8ri9v3j.cloudfront.net
 dlads.cn
 dldiuzdkrqbk.com
+dlfxsmbetx.com
 dlne6myudrxi1.cloudfront.net
 dlres.ind9ed.com
 dlski.space

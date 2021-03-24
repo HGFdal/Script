@@ -1,7 +1,7 @@
 # NAME: ICBC
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 15:26:07.561089
+# UPDATED: 2021-03-24 16:03:43.345495
 # HOST-SUFFIX: 29
 # TOTAL: 29
 HOST-SUFFIX,95588.com,ICBC

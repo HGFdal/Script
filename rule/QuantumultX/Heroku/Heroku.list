@@ -1,7 +1,7 @@
 # NAME: Heroku
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-24 15:26:07.508920
+# UPDATED: 2021-03-24 16:03:43.278639
 # HOST-SUFFIX: 3
 # TOTAL: 3
 HOST-SUFFIX,heroku.com,Heroku
