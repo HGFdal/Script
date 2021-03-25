@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-25 02:03:33.746482
+# UPDATED: 2021-03-26 03:03:09.088733
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 Hijacking 共 200 条规则重复
@@ -2504,7 +2504,7 @@ payload:
   - DOMAIN-SUFFIX,zsi7.destinia.do
   - DOMAIN-SUFFIX,zyq2.destinia.sk
   - DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 16191 条规则重复
+#  与 Advertising 共 16194 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0d847862199.com
   - DOMAIN,0icep80f.com
@@ -2777,6 +2777,7 @@ payload:
   - DOMAIN,cmshow.qq.com
   - DOMAIN,coagricu.net
   - DOMAIN,coaha.frenchgerlemanelectric.com
+  - DOMAIN,coalimpex.com
   - DOMAIN,coffeol.com
   - DOMAIN,com-878979.info
   - DOMAIN,com-online.website
@@ -2957,6 +2958,7 @@ payload:
   - DOMAIN,frtya.com
   - DOMAIN,frtyb.com
   - DOMAIN,frtye.com
+  - DOMAIN,frzynewnpg.com
   - DOMAIN,fsphhbsklawjs.com
   - DOMAIN,funchill.com
   - DOMAIN,funmatrix.net
@@ -2980,7 +2982,6 @@ payload:
   - DOMAIN,gredinatib.org
   - DOMAIN,grtbzrsndrrtsb.com
   - DOMAIN,grtyv.com
-  - DOMAIN,gsmtop.net
   - DOMAIN,gsniper2.com
   - DOMAIN,guess.tf.360.cn
   - DOMAIN,gulf-industrial.com
@@ -3028,7 +3029,6 @@ payload:
   - DOMAIN,iclwy.xyz
   - DOMAIN,ifilez.org
   - DOMAIN,ilividnewtab.com
-  - DOMAIN,image.ttyouma.cn
   - DOMAIN,imagedoll.com
   - DOMAIN,images.topguncustomz.com
   - DOMAIN,img.ads.csdn.net
@@ -3050,7 +3050,6 @@ payload:
   - DOMAIN,intelli-tracker.com
   - DOMAIN,interactivearea.ru
   - DOMAIN,invention.festinolente.cl
-  - DOMAIN,inwemo.com
   - DOMAIN,iolam.it
   - DOMAIN,ip-182-50-129-164.ip.secureserver.net
   - DOMAIN,ip-182-50-129-181.ip.secureserver.net
@@ -3218,6 +3217,7 @@ payload:
   - DOMAIN,nt-associates.com
   - DOMAIN,nudebeachgalleries.net
   - DOMAIN,nuptialimages.com
+  - DOMAIN,nvloygrnfe.com
   - DOMAIN,nymphdate.com
   - DOMAIN,oawoo.frenchgerlemanelectric.com
   - DOMAIN,obkom.net.ua
@@ -3289,8 +3289,10 @@ payload:
   - DOMAIN,port.bg
   - DOMAIN,portablevaporizer.com
   - DOMAIN,pos-kupang.com
+  - DOMAIN,postut.cn
   - DOMAIN,potpourrichordataoscilloscope.com
   - DOMAIN,potvaporizer.com
+  - DOMAIN,powermarketing.com
   - DOMAIN,powershopnet.net
   - DOMAIN,poxcldtepiulo.com
   - DOMAIN,ppfjlk1.5tps.vip
@@ -3313,6 +3315,7 @@ payload:
   - DOMAIN,prowlerz.com
   - DOMAIN,psoaptou.net
   - DOMAIN,psoonsod.com
+  - DOMAIN,psxxbhheqxoy.com
   - DOMAIN,ptp123.com
   - DOMAIN,puenteaereo.info
   - DOMAIN,pureadexchange.com
@@ -3477,6 +3480,7 @@ payload:
   - DOMAIN,tbs.imtt.qq.com
   - DOMAIN,tchmemnasaxpt.com
   - DOMAIN,tcrwharen.homepage.t-online.de
+  - DOMAIN,tddjcdzra.com
   - DOMAIN,teameda.comcastbiz.net
   - DOMAIN,teameda.net
   - DOMAIN,tecslide.com
@@ -3504,6 +3508,7 @@ payload:
   - DOMAIN,tophostbg.net
   - DOMAIN,topshelftraffic.com
   - DOMAIN,totaladperformance.com
+  - DOMAIN,tpnads.com
   - DOMAIN,tracker.ai.xiaomi.com
   - DOMAIN,tracking.v.tf.360.cn
   - DOMAIN,tracklab.club
@@ -3755,9 +3760,7 @@ payload:
   - DOMAIN,xpyyrkwpcpwf.com
   - DOMAIN,xs.mochiads.com
   - DOMAIN,xxxlnk.com
-  - DOMAIN,y71.ylems.club
   - DOMAIN,y72yuyr9.com
-  - DOMAIN,y76.ylems.club
   - DOMAIN,yeesshh.com
   - DOMAIN,ynuf.alipay.com
   - DOMAIN,yougube.com

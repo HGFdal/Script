@@ -1,7 +1,7 @@
 # NAME: UnionPay
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-25 02:03:19.428568
+# UPDATED: 2021-03-26 03:02:57.264422
 # HOST-SUFFIX: 50
 # TOTAL: 50
 HOST-SUFFIX,95516.com,UnionPay

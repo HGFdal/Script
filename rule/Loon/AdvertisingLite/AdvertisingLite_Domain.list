@@ -1,16 +1,16 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-25 02:03:19.828142
+# UPDATED: 2021-03-26 03:02:57.587536
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15327
-# DOMAIN: 15145
+# DOMAIN: 15143
 # IP-CIDR: 192
 # USER-AGENT: 1
 # IP-CIDR6: 1
 # URL-REGEX: 299
-# TOTAL: 30994
+# TOTAL: 30992
 0.up.qingdaonews.com
 00-gov.cn
 006a039c957c142bb.com
@@ -83,7 +83,6 @@
 10b883b3d61d.com
 10fbb07a4b0.se
 1100i.com
-110160.com
 111ol.com
 114lm.com
 114park.com
@@ -720,7 +719,6 @@ aabmxezph.com
 aaddcount.com
 aaddss.tohomh.com
 aaddzz.com
-aagmbroxruno.com
 aamapi.com
 aamejtdlmk.com
 aamsitecertifier.com
@@ -985,7 +983,6 @@ ademails.com
 aden.baidu.com
 adenc.co.kr
 adengage.com
-adeq.hiidc.com.cn
 adespresso.com
 adexc.net
 adexchange.io
@@ -2485,7 +2482,6 @@ bannerbridge.net
 bannerconnect.com
 bannerconnect.net
 bannerdealer.com
-bannerexchange.com.au
 bannerflow.com
 bannerflux.com
 bannerignition.co.za
@@ -3108,7 +3104,6 @@ c.greystripe.com
 c.hit.ua
 c.iche88.cn
 c.j782e.cn
-c.jntxst.cn
 c.lattebank.com
 c.mininini.cn
 c.paypal.com
@@ -3650,6 +3645,7 @@ cnwav.com
 cnxweb.com
 coagricu.net
 coaha.frenchgerlemanelectric.com
+coalimpex.com
 coazuthu.net
 cobaltgroup.com
 coco988.cn
@@ -3780,7 +3776,6 @@ contehos.com
 contemporaryceremonies.ca
 content-ad.net
 content-cooperation.com
-content-recommendation.net
 content-square.net
 content.ad
 content.liveuniverse.com
@@ -4112,7 +4107,6 @@ cygnus.com
 cyp889.cn
 cysd.7kww.net
 cyvnsdsygkpqvz.com
-cz4444.cn
 czechose.com
 czilladx.com
 czx5eyk0exbhwp43ya.biz
@@ -4938,7 +4932,6 @@ dynsrv.wps.cn
 dynsrvtyu.com
 dyntrk.com
 dyscb.cn
-dywjcc.top
 dz4ad.com
 dzhss.cn
 dzizsih.ru
@@ -5280,6 +5273,7 @@ estrack.net
 estream.to
 estream.xyz
 esuuqqdmsuil.com
+eszkrcviokckfb.com
 et-code.ru
 etahub.com
 etargetnet.com
@@ -5807,6 +5801,7 @@ frtyi.com
 fruitflan.com
 fruitkings.com
 frutrun.com
+frzynewnpg.com
 fsd2.digital
 fsphhbsklawjs.com
 fstrk.net
@@ -6529,7 +6524,6 @@ hjgen.cn
 hjklf.com
 hkhotpewfxr.com
 hkoxlirf.com
-hkswktixvcot.com
 hlads.com
 hljdnserror1.wo.com.cn
 hljdnserror2.wo.com.cn
@@ -6770,6 +6764,7 @@ ibkbshqqueoij.com
 ibpxl.com
 ibpxl.net
 ibryte.com
+ibtfbbtjktu.com
 ic-live.com
 icdirect.com
 iceban.su
@@ -7204,6 +7199,7 @@ itsmore.cn
 itspsmup.com
 itsup.com
 itw.me
+iu16wmye.com
 iubenda.com
 iuiweb.com
 ivcbrasil.org.br
@@ -7477,7 +7473,6 @@ kameleoon.eu
 kamnebo.info
 kampyle.com
 kang08.com
-kanglingjiu.com
 kanoodle.com
 kantarmedia.com
 kantartns.lt
@@ -8471,7 +8466,6 @@ meetsexygirls.org
 meezauch.net
 mega-stats.com
 megaad.nz
-megacpm.com
 megapopads.com
 meigeer.com.cn
 meineserver.com
@@ -9130,7 +9124,6 @@ news-whistleout.s3.amazonaws.com
 news.net.finam.ru
 news.retire.ly
 news.smi2.ru
-news.xcpi.cn
 news2day.me
 newsadsppush.com
 newsadst.com
@@ -9194,6 +9187,7 @@ nglmedia.com
 ngmco.net
 ngtraveler.com.cn
 nhpfvdlbjg.com
+nhqxzqvkj.com
 ni22.com
 nicequest.com
 nicheads.com
@@ -9345,6 +9339,7 @@ nurobi.info
 nuseek.com
 nuvidp.com
 nvcwpexqk.com
+nvloygrnfe.com
 nvtbspcwhb.com
 nwfhalifax.com
 nxcxithvcoeh.com
@@ -9449,7 +9444,6 @@ oknarai.ru
 okt.to
 oktopost.com
 okvfijgdmqton.bid
-okvtmvrmha.com
 okwfx.cn
 oldership.com
 olfkptkfop.com
@@ -9616,7 +9610,6 @@ optout.crsspxl.com
 opus.analytics.yahoo.com
 opyyykrdyuum.com
 oqbxbautpu.com
-oqxyzvkwso.com
 oracleinfinity.io
 orangeads.fr
 oranges88.com
@@ -9631,6 +9624,7 @@ orencia.pflexads.com
 org-dot-com.com
 organicalews.info
 organicfruitapps.com
+orgttpvpglshap.com
 oribi.io
 oriel.io
 origer.info
@@ -9691,7 +9685,6 @@ overreare.co
 overstat.com
 overturs.com
 ovfuoico.com
-ovscyvcucd.com
 ovtopli.ru
 owlads.io
 owlanalytics.io
@@ -9973,7 +9966,6 @@ phpstat.com
 phvmjnkysnj.com
 phywi.org
 pi-stats.com
-pibaba.com.cn
 pic.iask.cn
 picadmedia.com
 picbucks.com
@@ -10225,6 +10217,7 @@ postback.info
 postclickmarketing.com
 postquare.com
 postrelease.com
+postut.cn
 potd.onlytease.com
 potpourrichordataoscilloscope.com
 potvaporizer.com
@@ -10233,6 +10226,7 @@ powerad.ai
 poweradvertising.co.uk
 powercount.com
 powerjobs.com
+powermarketing.com
 powershopnet.net
 powisgadhot.com
 poxcldtepiulo.com
@@ -10424,6 +10418,7 @@ pss.alicdn.com
 pstats.com
 psulsobi.net
 psurdoak.com
+psxxbhheqxoy.com
 pszs388.cn
 pt-trx.com
 ptarepjx.com
@@ -10651,7 +10646,6 @@ q20jqurls0y7gk8.info
 q64a9ris0j.com
 qadserve.com
 qadservice.com
-qaggfomwjko.com
 qai-ir.quartic.pl
 qai.quartic.pl
 qapm.baidu.com
@@ -10689,6 +10683,7 @@ qiheptnm80.com
 qinghua.cc
 qinghyx.com
 qjhlc.com
+qjvdxehyrnxema.com
 qkkjd.com
 qkspafpgg.com
 qksrv.net
@@ -10700,6 +10695,7 @@ qmkr7isp3o.com
 qmokxgfz.com
 qmxkmsmkjxlar.com
 qnemxzckwx.com
+qneowzuyfzyfs.com
 qnsr.com
 qoijertneio.com
 qoppaeqd.com
@@ -10710,7 +10706,6 @@ qq167.com
 qq4g.cn
 qqdwz.com
 qqemfpbnixtqx.com
-qqgdboaq.com
 qqwlfm.cn
 qqwx.zhangguangzong.com
 qrbizr.cn
@@ -10768,6 +10763,7 @@ qwe.jzpxyd.com
 qwerfdx.com
 qwertize.com
 qwerty24.net
+qwvajuyccl.com
 qwxcs.com
 qxlohjsxaaq.com
 qyixifzol.com
@@ -10964,7 +10960,6 @@ relead.com
 relestar.com
 relevant-digital.com
 relevanti.com
-reliablebanners.com
 reliablecounter.com
 relmaxtop.com
 relytec.com
@@ -11136,6 +11131,7 @@ rnlabs.com
 rnmd.net
 rnorlexanderly.info
 ro88qcuy.com
+roadcomponentsdb.com
 roakicat.net
 robocat.me
 robotadserver.com
@@ -12037,7 +12033,6 @@ smartwebads.com
 smartyads.com
 smartzonessva.com
 smashnewtab.com
-smashseek.com
 smashsurprise.com
 smct.co
 smetrics.att.com
@@ -12746,6 +12741,7 @@ td573.com
 td583.com
 tda.io
 tdc.qq.com
+tddjcdzra.com
 tdmd.us
 tdntrack.com
 tds.io
@@ -13328,6 +13324,7 @@ try9.com
 trymynewspirit.com
 trys5.com
 trysera.com
+trzi30ic.com
 ts166.net
 tscl.com.bd
 tscounter.com
@@ -13446,6 +13443,7 @@ tw.cx
 twcount.com
 twcouponcenter.com
 tweetboard.com
+tweetbuzz.jp
 tweetgrid.com
 tweetmeme.com
 tweetriver.com
@@ -13707,7 +13705,6 @@ v.aty.sohu.com
 v.center
 v.dengbaozx.cn
 v.iche88.cn
-v.jntxst.cn
 v.mininini.cn
 v.movad.de
 v.qhruixin.cn
@@ -14070,7 +14067,6 @@ wc4.net
 wcfbc.net
 wcmcs.net
 wct.click
-wdbqsuukggoyg.com
 wdfl.co
 wdlnoecwykpon.com
 we-stats.com
@@ -14500,6 +14496,7 @@ www.jcmarcadolib.com
 www.jiudianxing.cn
 www.jiudianxing.com
 www.joomlalivechat.com
+www.jqcdn.download
 www.jquery-cdn.download
 www.jshonghuadq.com
 www.jwmwtcmexc.com
@@ -14747,6 +14744,7 @@ xpyyrkwpcpwf.com
 xq0wju848zr.ga
 xqankuajhtdehe.com
 xqgjtzushomki.com
+xrbmomiow.com
 xrbvsiyyr.com
 xref.io
 xs.mochiads.com
@@ -14924,7 +14922,6 @@ youtuhe.com
 youyijia021.com
 yp.shuhuangge.org
 ypaletdevelspe.info
-ypkbybzpd.com
 ypmadserver.com
 ypolukuxt.com
 yppw666.cn
@@ -14979,6 +14976,7 @@ yyywwbpkf.com
 yzexonvknhw.com
 yzlwuuzzehjh.com
 yzmiwdjviuzk.com
+yzus09by.com
 yzxls.com
 z.opmnstr.com
 z1.cnywst.com
