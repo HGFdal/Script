@@ -14,6 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
     steps:
+
       - uses: actions/checkout@v2
         with:
           persist-credentials: false
@@ -23,6 +24,7 @@ jobs:
         if: env.PAT
         with:
           source_repo: "https://github.com/chavyleung/scripts.git"
-          source_branch: "main"
+          source_branch: "master"
           destination_branch: "chavyleung"
           github_token: ${{ secrets.PAT }}
+
