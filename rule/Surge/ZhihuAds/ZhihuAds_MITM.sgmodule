@@ -1,8 +1,0 @@
-#!name=ZhihuAds MITM
-#!desc=最后更新时间 2021-03-26 03:02:55
-#!author=blackmatrix7
-#!repo=
-#!mitm=2
-
-[MITM]
-hostname = %APPEND% www.zhihu.com,zhuanlan.zhihu.com
