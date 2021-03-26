@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-26 15:07:56.337924
+# UPDATED: 2021-03-26 16:54:38.768175
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 69367
-# DOMAIN: 14390
+# DOMAIN: 14391
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 84062
+# TOTAL: 84063
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -4074,6 +4074,7 @@ payload:
   - DOMAIN,dmzgames.com
   - DOMAIN,dn.adzerver.com
   - DOMAIN,dna8twue3dlxq.cloudfront.net
+  - DOMAIN,dns.jd.com
   - DOMAIN,dnwswurowz.byinter.net
   - DOMAIN,do.time786.com
   - DOMAIN,docactive.com
