@@ -1,0 +1,9 @@
+# NAME: Tumblr
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-03-26 14:54:26.552207
+# HOST-SUFFIX: 3
+# TOTAL: 3
+HOST-SUFFIX,tmblr.co,Tumblr
+HOST-SUFFIX,tumblr.co,Tumblr
+HOST-SUFFIX,tumblr.com,Tumblr

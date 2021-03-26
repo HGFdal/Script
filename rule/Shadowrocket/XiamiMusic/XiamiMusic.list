@@ -1,0 +1,12 @@
+# NAME: XiamiMusic
+# AUTHOR: 
+# REPO: 
+# UPDATED: 2021-03-26 14:54:33
+# USER-AGENT: 2
+# DOMAIN-SUFFIX: 3
+# TOTAL: 5
+DOMAIN-SUFFIX,xiami.com
+DOMAIN-SUFFIX,xiami.fm
+DOMAIN-SUFFIX,xiami.net
+USER-AGENT,walkman*
+USER-AGENT,xiami*

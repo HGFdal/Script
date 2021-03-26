@@ -1,0 +1,10 @@
+# NAME: AppleTV
+# AUTHOR: 
+# REPO: 
+# UPDATED: 2021-03-26 14:54:31
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 1
+# TOTAL: 3
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN-SUFFIX,tv.apple.com

@@ -1,0 +1,12 @@
+# NAME: TencentVideo
+# AUTHOR: 
+# REPO: 
+# UPDATED: 2021-03-26 14:54:33
+# DOMAIN-SUFFIX: 3
+# USER-AGENT: 2
+# TOTAL: 5
+DOMAIN-SUFFIX,mfm.video.qq.com
+DOMAIN-SUFFIX,v.smtcdns.com
+DOMAIN-SUFFIX,vv.video.qq.com
+USER-AGENT,MOO*
+USER-AGENT,TencentMidasConnect*

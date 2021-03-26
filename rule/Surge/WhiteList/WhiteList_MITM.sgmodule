@@ -1,0 +1,8 @@
+#!name=WhiteList MITM
+#!desc=最后更新时间 2021-03-26 14:54:24
+#!author=blackmatrix7
+#!repo=
+#!mitm=2
+
+[MITM]
+hostname = %APPEND% app.bilibili.com,www.didapinche.com
