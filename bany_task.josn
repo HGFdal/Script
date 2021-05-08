@@ -2,7 +2,7 @@
  "name": "bany task",
  "description": "搬运自用",
  "task": [
-        "5 0 * * * https://raw.githubusercontent.com/HGFdal/cai10/main/task/jukan.js, tag=聚看点, img-url=https://raw.githubusercontent.com/HGFdal/cai10/main/Tupz/jkd.png, enabled=true",
+        "5 0 * * * https://raw.githubusercontent.com/HGFdal/cai10/main/task/fzztjkd, tag=聚看点, img-url=https://raw.githubusercontent.com/HGFdal/cai10/main/Tupz/jkd.png, enabled=true",
         "5 0 * * * https://raw.githubusercontent.com/HGFdal/cai10/main/task/htt.js, tag=惠头条, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/htt.png, enabled=true",
          ]
 }
