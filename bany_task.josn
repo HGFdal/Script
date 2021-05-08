@@ -2,6 +2,9 @@
  "name": "bany task",
  "description": "搬运自用",
  "task": [
+         "0 2,6,10,14 * * * https://raw.githubusercontent.com/HGFdal/cai10/main/task/zqzdyd.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
+    "0,30 * * * * https://raw.githubusercontent.com/HGFdal/cai10/main/task/zqqdzpbx.js, tag=中青看点转盘宝箱, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/youth.png, enabled=true",
+    "20 5 10 * * * https://raw.githubusercontent.com/HGFdal/cai10/main/task/zqkkz.js, tag=中青看看赚&浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
         "5 0 * * * https://raw.githubusercontent.com/HGFdal/cai10/main/task/fzztjkd, tag=聚看点, img-url=https://raw.githubusercontent.com/HGFdal/cai10/main/Tupz/jkd.png, enabled=true",
         "5 0 * * * https://raw.githubusercontent.com/HGFdal/cai10/main/task/htt.js, tag=惠头条, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/htt.png, enabled=true",
          ]
