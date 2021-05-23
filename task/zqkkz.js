@@ -9,7 +9,6 @@ https://raw.githubusercontent.com/ztxtop/x/main/rewrite-zqkkz.plugin
 Android端需通过其它抓包工具间接获取，比如：1、安卓连ios手机的抓包工具抓取所需请求，再重放请求让Loon、QX等NE工具抓取任务数据；2、安卓通过surge for mac直接抓取任务数据
 https://raw.githubusercontent.com/ztxtop/x/main/rewrite-zqkkz.sgmodule
 
-*/
 
 
 const $ = new Env("中青看看赚");
