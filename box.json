@@ -1,18 +1,19 @@
 {
-  "id": "HGFdal.app.sub",
-  "name": "搬运自用",
-  "author": "@cai10",
-  "icon": "https://raw.githubusercontent.com/HGFdal/cai10/main/Tupz/cai10.png",
-  "repo": "https://github.com/HGFdal/cai10",
-  "apps": [{
-            "id": "box",
-            "name": "box",
-            "keys": ["boxurl","boxhd"],
-            "author": "@cai10",
-            "settings": [{
-            "id": "boxstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
-    }
+"id": "HGFdal.app.sub",
+"name": "cai10 应用订阅",
+"author": "@cai10",
+"icon": "https://raw.githubusercontent.com/HGFdal/cai10/main/Tupz/cai10.png",
+"repo": "https://github.com/HGFdal/cai10",
+"apps": [{
+"id": "box",
+"name": "box",
+"keys": ["boxurl","boxhd"],
+"author": "@cai10",
+"settings": [{
+"id": "boxstatus",
+"name": "当前账号",
+"val": "1",
+"type": "number",
+"desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
+},
+
